@@ -1,3 +1,10 @@
+---
+title: How to publish Obsidian notes with Quartz on GitHub Pages
+draft: true
+tags:
+---
+ 
+
 **True Name:** Sadrekkeor  
 **Alias:** Elkian  
 **Race:** Red Dragon (Twisted from experiments on himself)  

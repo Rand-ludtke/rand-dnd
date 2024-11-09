@@ -1,3 +1,10 @@
+---
+title: Hide
+draft: true
+tags:
+---
+ 
+
 **Guild Rank Quest** 
 **Location**: Stormshore Coast 
 **Difficulty**: Challenging  
@@ -111,3 +118,5 @@ The serpent’s lair contains a **pirate's hoard** scattered on the floor of the
 **Future Hooks**:
 
 - The **ghost ship** in the distance hints at deeper, supernatural forces lingering along the coast. Villagers claim it only appears before major storms, and those who see it say it’s crewed by the souls of sailors lost at sea. This could lead to a future encounter with the ship itself or another cursed sea-related quest.
+  
+  

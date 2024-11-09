@@ -1,3 +1,10 @@
+---
+title: How to publish Obsidian notes with Quartz on GitHub Pages
+draft: true
+tags:
+---
+ 
+
 **Name:** Dubol Iron Glaive  
 **Race:** Orc (Female)  
 **Class:** Fighter (Champion)  

@@ -8,8 +8,8 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
-    pageTitleSuffix: "",
+    pageTitle: "Rand's DND Adventure",
+    pageTitleSuffix: "pls work",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -72,6 +72,7 @@ const config: QuartzConfig = {
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
+      Plugin.RemoveDrafts()
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [

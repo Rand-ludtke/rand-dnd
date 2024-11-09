@@ -1,3 +1,10 @@
+---
+title: Hide
+draft: true
+tags:
+---
+ 
+
 **Quest Giver**: Farmer Halford Ternby
 
 **Location**: The Ternby Farmlands, just outside Faterun

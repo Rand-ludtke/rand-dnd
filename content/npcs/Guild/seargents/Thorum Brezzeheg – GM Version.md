@@ -1,3 +1,10 @@
+---
+title: How to publish Obsidian notes with Quartz on GitHub Pages
+draft: true
+tags:
+---
+ 
+
 **Name:** Thorum Brezzeheg  
 **Race:** Dwarf  
 **Class:** Cleric (Life Domain – Ilmater, god of endurance)  

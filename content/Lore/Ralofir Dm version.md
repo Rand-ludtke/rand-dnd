@@ -1,3 +1,10 @@
+---
+title: How to publish Obsidian notes with Quartz on GitHub Pages
+draft: true
+tags:
+---
+ 
+
 - **Race**: Blue Dragon (with the ability to take on humanoid forms)
 - **Class**: Eldritch knight or something
 - **Level**: 15-20

@@ -1,3 +1,10 @@
+---
+title: How to publish Obsidian notes with Quartz on GitHub Pages
+draft: true
+tags:
+---
+ 
+
 **Name:** Rerdid Stoutless  
 **Race:** Human (possibly enhanced with mechanical components)  
 **Class:** Artificer  
