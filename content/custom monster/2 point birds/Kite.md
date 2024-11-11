@@ -1,5 +1,5 @@
 _Small Beast, Unaligned_
-
+![[Pasted image 20241111023819.png]]
 ---
 
 - **Armor Class**: 12

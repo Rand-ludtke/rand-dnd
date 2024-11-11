@@ -22,3 +22,5 @@
 - **Slam.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 6 (1d8 + 2) bludgeoning damage.
     
 - **Awakened Flora (Recharge 5-6).** The baby treant can cause one small plant within 30 feet to animate and act as a creature under its control for 1 minute. The plant can attack (using the statistics for a Tiny creature) and is considered an ally of the baby treant.
+
+![[Pasted image 20241111021550.png]]

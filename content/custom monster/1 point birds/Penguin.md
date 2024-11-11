@@ -1,5 +1,5 @@
 _Tiny Beast, Unaligned_
-
+![[Pasted image 20241111023350.png]]
 ---
 
 - **Armor Class**: 12
@@ -22,4 +22,4 @@ _Tiny Beast, Unaligned_
 
 **Actions**  
 _**Peck.**_ _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target.  
-Hit: 1 piercing damage.
+Hit: 1d4 piercing damage.

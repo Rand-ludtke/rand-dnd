@@ -1,6 +1,6 @@
 _Tiny Beast, Unaligned_
-
----
+![[Pasted image 20241111023242.png]]
+![[Pasted image 20241111023248.png]]
 
 - **Armor Class**: 10
 - **Hit Points**: 3 (1d4 + 1)

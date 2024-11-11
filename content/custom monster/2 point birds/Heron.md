@@ -1,5 +1,5 @@
 _Medium Beast, Unaligned_
-
+![[Pasted image 20241111023801.png]]
 ---
 
 - **Armor Class**: 12

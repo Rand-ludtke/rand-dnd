@@ -1,5 +1,5 @@
 _Tiny Beast, Unaligned_
-
+![[Pasted image 20241111023716.png]]
 ---
 
 - **Armor Class**: 14

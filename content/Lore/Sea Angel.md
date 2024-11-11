@@ -14,3 +14,5 @@ A glass or metal sea angel, often simplistic in design, serves as the Sea Angel'
 
 **Worship and Vengeance**  
 The Sea Angel does not provide explicit guidance but gives its followers strength to seek justice. The sacred custom requires presenting the bodies, or symbolic pieces, of defeated targets at the water.
+
+![[Pasted image 20241111022944.png]]

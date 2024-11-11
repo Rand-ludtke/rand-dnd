@@ -1,5 +1,5 @@
 _Large Beast, Unaligned_
-
+![[Pasted image 20241111023926.png]]
 ---
 
 - **Armor Class**: 11

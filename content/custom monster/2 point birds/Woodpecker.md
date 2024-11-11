@@ -1,5 +1,5 @@
 _Tiny Beast, Unaligned_
-
+![[Pasted image 20241111023940.png]]
 ---
 
 - **Armor Class**: 13
@@ -18,7 +18,7 @@ _Tiny Beast, Unaligned_
 
 ---
 
-- **Woodchipper.** When the woodpecker uses its action to attack a wooden structure, it can deal an additional 1d4 damage.
+- **Woodchipper.** When the woodpecker uses its action to attack a wooden structure, it can deal an additional 2d4 damage.
 
 **Actions**  
 _**Multi-Peck.**_ (can attack 3 times) _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target.  
