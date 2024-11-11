@@ -13,7 +13,7 @@ scale: 1
 marker: default, 39.983334, -82.983330, [[Note]]
 darkMode: false
 ```
-
+![[Shimber.png]]
 ## **The Arcane Row** (Magic Items & Mystical Services)
 - [[Moonveil Potionry]] – Shop (Moon-themed Alchemical Items)  
 - [[Arcane Inkwell]] – Shop (Magical Inks)  

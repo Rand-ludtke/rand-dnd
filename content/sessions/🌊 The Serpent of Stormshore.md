@@ -101,13 +101,8 @@ The serpent’s lair contains a **pirate's hoard** scattered on the floor of the
     
     2. **Sea Witch's Conch**
         
-        - _Uncommon magic item_.
-        - Properties: The conch grants the user the ability to cast _Fog Cloud_ once per day. Additionally, when held to the ear, it whispers knowledge of the ocean’s secrets, giving the user advantage on **Nature** checks related to the sea.
     3. **Lighthouse Keeper’s Lantern**
-        
-        - _Uncommon magic item_.
-        - Properties: This magical lantern casts bright light up to 60 feet and can cut through mist and fog.
-        - **Special Ability**: _Guiding Light_ - Once per day, the bearer can cast _Guiding Bolt_ through the lantern’s beam. The target must be visible within the light’s reach.
+       
 - **Reputation Boost**: The party earns their **rank-up** in the adventurers' guild, celebrated as protectors of Stormshore and welcomed with discounts on goods and safe lodging in town.
     
 

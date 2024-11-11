@@ -14,7 +14,7 @@ scale: 1
 marker: default, 39.983334, -82.983330, [[Note]]
 darkMode: false
 ```
-
+![[goldfall.png]]
 #### **The Docks District (Harborfront)**
 
 Located near the ocean, this area is bustling with sailors, traders, and ships. The salty air and constant movement make it one of the busiest parts of Goldfall.

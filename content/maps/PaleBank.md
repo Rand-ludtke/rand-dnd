@@ -15,3 +15,4 @@ marker: default, 39.983334, -82.983330, [[Note]]
 darkMode: false
 ```
 
+![[Palebank.png]]
