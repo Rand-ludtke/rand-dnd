@@ -1,0 +1,4 @@
+- **Race**: Half-Elf
+- **Description**: Lean and tattooed, with an unshakable calm demeanor. Ren is known for his quiet resilience and subtle sense of humor, usually found carrying a satchel of medicinal herbs.
+- **Background**: Ren grew up in a coastal village with a healer parent, who taught him the basics of medicine. After a shipwreck, he joined Santiago’s crew, where his skills quickly became invaluable.
+- **Abilities**: Skilled in herbalism and field medicine, Ren can treat wounds and brew tonics. He’s not a fully trained healer, but his knowledge of plants and poultices keeps the crew in fighting form.

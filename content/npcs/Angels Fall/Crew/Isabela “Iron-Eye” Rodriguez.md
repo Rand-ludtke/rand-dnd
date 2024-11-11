@@ -1,0 +1,4 @@
+- **Race**: Human
+- **Description**: A tall, broad-shouldered woman with a striking patch over her left eye, decorated with a small, intricately carved piece of coral. Her remaining eye is a sharp green, and she has a short-cropped mess of salt-streaked brown hair.
+- **Background**: Formerly a pirate captain herself, Isabela joined Santiago after he saved her from capture. Known for her strategic mind and brutal efficiency, she commands the crew with a mixture of respect and fear.
+- **Abilities**: Skilled in swordplay and a veteran navigator, she also has a unique eye for spotting potential danger on the horizon. She’s rumored to possess an amulet that lets her see briefly through illusions or magical concealments, earning her the nickname “Iron-Eye.”

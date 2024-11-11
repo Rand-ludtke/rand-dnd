@@ -1,0 +1,4 @@
+- **Race**: Half-Elf
+- **Description**: Light-footed and graceful, with keen eyes and an affinity for heights. She’s slender with short, dark hair and often wears a simple bandana to shield her eyes from the sun.
+- **Background**: An acrobat from a distant land, Amara joined Santiago’s crew out of a desire for adventure and a new life. She’s fiercely protective of her captain and crew, seeing them as her new family.
+- **Abilities**: Skilled acrobat and climber, with a supernatural gift for spotting approaching ships or storms. She has an enchanted spyglass that grants her night vision and an extended visual range, allowing her to see miles ahead with clarity.

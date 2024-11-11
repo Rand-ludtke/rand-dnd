@@ -1,0 +1,4 @@
+- **Race**: Human
+- **Description**: Petite and light-footed, with sharp eyes and a fierce independence. Sparrow, Diego’s younger sister, is fiercely loyal to Santiago’s crew and especially fond of the ship’s lookout posts.
+- **Background**: Sparrow followed in her brother’s footsteps but carved out her own place in the crew. She loves exploring new shores and is an adept rower and scout.
+- **Abilities**: Known for her stealth and scouting abilities, Sparrow is skilled in evading detection. She’s often sent on reconnaissance missions due to her agility and keen observational skills.

@@ -1,0 +1,4 @@
+- **Race**: Elf
+- **Description**: Pale and slender with long, dark hair and a quiet demeanor. Her presence is calming, and she speaks in a gentle, almost melodic tone. Lucia is never without her silver necklace, adorned with a small vial of sea glass.
+- **Background**: A mysterious figure from a coastal monastery, Lucia joined Santiago’s crew after he rescued her during a storm. She rarely speaks of her past but is fiercely loyal to Santiago.
+- **Abilities**: Skilled in herbalism, medicine, and the healing arts, Lucia also possesses some divine abilities rumored to be a gift from the Sea Angel. She can calm storms in the area immediately surrounding the ship and has an almost supernatural awareness of the health of her crewmates.

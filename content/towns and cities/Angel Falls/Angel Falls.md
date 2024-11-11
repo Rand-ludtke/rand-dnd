@@ -1,4 +1,4 @@
-**Overview**  
+![[angel_falls.png]]**Overview**  
 Angel’s Fall is a coastal town known for its devotion to the Sea Angel, a powerful but distant god primarily worshipped by vengeance paladins. The town has a distinct Spanish influence, visible in the names and culture. The Sea Angel is known for empowering followers without frequent communication or guidance, leaving its paladins to seek and fulfill sacred vengeance on their own terms.
 
 **Symbol**  

@@ -1,0 +1,4 @@
+- **Race**: Half-Elf
+- **Description**: Slim and agile, with dark skin, sea-green eyes, and short hair tied back with a weathered strip of leather. Elara is quiet and observant, often found working the fishing lines or navigating the ship’s rigging with ease.
+- **Background**: Rescued by the crew after a storm nearly claimed her previous ship, Elara quickly proved herself by catching a massive haul of fish. Her calm demeanor and keen instincts make her a valuable deckhand.
+- **Abilities**: Exceptionally skilled at fishing and swimming, Elara is also proficient in navigating through tight spaces and spotting small details others might miss.

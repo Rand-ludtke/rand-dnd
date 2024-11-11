@@ -1,0 +1,4 @@
+- **Race**: Human
+- **Description**: Lanky and perpetually covered in gunpowder, with an untamed mop of dark hair and a mischievous grin. Nico often smells faintly of sulfur and always has soot-stained fingers.
+- **Background**: A self-taught master of munitions, Nico earned his nickname due to his obsession with all things explosive. He joined the crew after Santiago caught him attempting to barter his homemade firebombs in Angel’s Fall.
+- **Abilities**: A master gunner with expertise in cannon operation and maintenance. Nico has a knack for creating experimental munitions, from smoke bombs to specialized cannonballs, adding unique firepower to the ship.

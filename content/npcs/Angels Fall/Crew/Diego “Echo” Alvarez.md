@@ -1,0 +1,4 @@
+- **Race**: Human
+- **Description**: Thin and wiry, with sharp eyes and a unique ability to project his voice across the ship. Diego has a quick wit and is rarely seen without his signal flags or a notebook.
+- **Background**: Diego was originally a lookout on a merchant ship but left after discovering a knack for mimicry and signals. He joined Santiago’s crew for a chance to practice his skills in battle.
+- **Abilities**: Skilled with signal flags and semaphore, Diego is also able to mimic voices, making him useful for deception tactics. His voice can be magically amplified to call out orders or warnings.

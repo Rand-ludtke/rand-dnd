@@ -1,0 +1,4 @@
+- **Race**: Human
+- **Description**: A young, eager woman with dark curly hair and a constant look of awe when she’s studying the stars. Liliana carries a small telescope, a cherished possession, and is quick to smile but focused when working.
+- **Background**: Liliana grew up near Angel’s Fall and had always dreamed of life at sea. She joined the crew after impressing Isabela with her knowledge of constellations and navigation basics.
+- **Abilities**: Skilled in reading stars and charting courses, Liliana’s natural aptitude has made her a fast learner in navigation. She knows a few minor spells to help guide the ship in inclement weather.

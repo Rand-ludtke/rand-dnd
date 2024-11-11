@@ -1,0 +1,4 @@
+- **Race**: Human
+- **Description**: A burly man with a round belly, bald head, and a thick black beard, Bartolo has a booming voice and a big-hearted nature. He’s often seen stirring a large pot or wielding a ladle with the same authority as a sword.
+- **Background**: Once a chef at a bustling seaside tavern, Bartolo joined the crew for a change of scenery and the opportunity to test his culinary skills on the high seas.
+- **Abilities**: Known for his hearty cooking, Bartolo also brews herbal teas and stews that provide minor health benefits. He’s also skilled at bartering, often trading his cooking for rare ingredients at ports.

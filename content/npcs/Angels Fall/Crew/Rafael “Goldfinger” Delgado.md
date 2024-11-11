@@ -1,0 +1,4 @@
+- **Race**: Halfling
+- **Description**: Short but surprisingly strong, with a quick wit and an eye for valuable items. His left pinky finger is made of gold, supposedly a self-imposed punishment after losing a bet. He wears fine clothing and a set of miniature daggers on his belt.
+- **Background**: Known across coastal towns for his skill with finances and his uncanny ability to appraise any item at a glance. Santiago recruited him after hearing tales of his cleverness and charm.
+- **Abilities**: Expert appraiser and proficient thief, Rafael has a knack for slipping in and out of places unnoticed. His abilities in sleight of hand are unparalleled, and he’s rumored to carry a magical lockpick that can open almost any door.

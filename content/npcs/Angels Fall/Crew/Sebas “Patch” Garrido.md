@@ -1,0 +1,4 @@
+- **Race**: Dwarf
+- **Description**: Short and stout with a leather eyepatch and a face covered in scars, Sebas is known for his gruff demeanor and unwavering loyalty to the crew. His tool belt is always close at hand.
+- **Background**: A veteran sailor with decades of experience, Patch joined Santiago’s crew after his previous ship was lost in a storm. His expertise in ship maintenance is indispensable to the crew.
+- **Abilities**: An expert carpenter and rigger, Patch is adept at reinforcing the ship’s structure. He also has an uncanny ability to locate leaks or weak spots in the hull with a single glance.

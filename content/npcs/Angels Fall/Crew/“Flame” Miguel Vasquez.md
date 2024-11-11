@@ -1,0 +1,4 @@
+- **Race**: Tiefling
+- **Description**: Stocky and muscular with dark red skin and a pair of horns that curl back like a ram’s. He has fiery orange eyes and wears protective leather gloves when operating the cannons.
+- **Background**: A former mercenary with a love for explosives, Miguel joined Santiago’s crew after accidentally setting fire to a rival’s ship and needing a fast escape. He’s a loud, brash personality who always brings levity to tense situations.
+- **Abilities**: Expert gunner with an affinity for alchemy, particularly with explosives. Miguel carries a small pouch of magically infused powder that can ignite with just a snap of his fingers, which he uses to set cannonballs ablaze for extra impact.
