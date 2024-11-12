@@ -208,7 +208,7 @@ When summoning a bird, roll a d20. On a roll of 18-20, the bird gains a special 
 
 ---
 
-### Additional Notes
+## Additional Notes
 - The user can summon birds randomly from the list based on the number of Bird Points available. 
 - When rolling for a bird, a roll of 18-20 on a d20 indicates the bird has a modifier, adding an exciting twist to its abilities.
 
