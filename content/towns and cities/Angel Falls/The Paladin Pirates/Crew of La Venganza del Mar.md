@@ -12,3 +12,5 @@
 - **Signalman** - [[Diego “Echo” Alvarez]]
 - **Deck Medic** - [[Ren “Bones” Tamura]]
 - **Scout and Deckhand** - [[Esperanza “Sparrow” Alvarez]]
+- **Navigator** - [[Diego “Stormhand” Ruiz]]
+- **Divine Spellcaster and Elementalist**- [[Elena “Wavecaller” Marquez]]

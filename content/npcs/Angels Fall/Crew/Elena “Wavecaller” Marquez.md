@@ -1,0 +1,6 @@
+- **Role**: Divine Spellcaster and Elementalist
+- **Race**: Human
+- **Class**: Cleric (Tempest Domain)
+- **Background**: Elena is known among the crew as the spiritual backbone and a calming presence during storms and conflict. She grew up near the ocean, feeling a deep connection to its power and mystery. Her devotion to the gods of the sea allows her to manipulate the elements, heal her allies, and hold her own in battle. Her loyalty to Santiago and the crew is unwavering.
+- **Personality**: Compassionate and steady, Elena is deeply loyal to her comrades and her faith. She often offers quiet wisdom and guidance to those who seek it.
+- **Goals**: To ensure the safety and success of her crew while honoring the sea and the deities she reveres.
