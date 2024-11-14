@@ -19,7 +19,7 @@ The Amulet of Unlimited Possibilities requires a very specific activation proces
 **Caution:** The DM may be inclined to use this item’s power as a tool of humor. You’ve been warned. The amulet’s “helpful” suggestions may end up being less helpful than anticipated.
 
 ---
-bsp;  
+&nbsp;  
 &nbsp;  
 &nbsp;  
 &nbsp;  

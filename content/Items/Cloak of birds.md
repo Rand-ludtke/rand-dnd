@@ -13,30 +13,30 @@ This cloak allows the user to store and summon birds from a dimensional storage 
 - **5 Bird Points**: Legendary Birds (max 2)
 
 ### Random Bird Modifiers
-When summoning a bird, roll a d20. On a roll of 18-20, the bird gains a special modifier. Roll a d8 to determine the modifier effect.
+When summoning a bird(1 point birds only for now), roll a d20. On a roll of 18-20, the bird gains a special modifier. Roll a d8 to determine the modifier effect.
 
-| Roll (d20) | Modifier Type           | Effect                                                  |
-|------------|-------------------------|---------------------------------------------------------|
-| 1          | **Arcane**              | The bird can cast *mage hand* once per day.            |
-| 2          | **Swift**               | The bird's speed increases by 10 ft.                   |
-| 3          | **Cunning**             | The bird can perform a cunning distraction, imposing disadvantage on an enemy’s next attack. |
-| 4          | **Luminous**            | The bird emits dim light in a 10 ft. radius.           |
-| 5          | **Mysterious Aura**     | The bird creates a 10 ft. radius of magical darkness (DC 12 Wisdom save to see through). |
-| 6          | **Sonic Screech**       | The bird emits a loud screech, deafening nearby creatures (DC 12 Constitution save). |
-| 7          | **Colorful Plume**      | The bird’s feathers change colors, granting advantage on the first attack against a target within 10 ft. |
-| 8          | **Temporal Flicker**    | The bird blinks in and out of existence, granting it advantage on its first attack. |
-| 9          | **Whimsical Dance**     | The bird performs an enchanting dance, causing enemies to be charmed (DC 13 Wisdom save). |
-| 10         | **Shadowy Figure**      | The bird appears as a shadowy silhouette, providing advantage on stealth checks for nearby allies. |
-| 11         | **Elemental Fury**      | Roll a d4 to determine the element: 1-Fire, 2-Ice, 3-Lightning, 4-Thunder. The bird deals an extra 1d4 damage of that type on its attacks. |
-| 12         | **Ghostly Form**        | The bird is semi-transparent, allowing it to pass through objects and avoid opportunity attacks. |
-| 13         | **Fey Trickster**       | The bird can cast *disguise self* at will without expending a spell slot. |
-| 14         | **Beastly Roar**        | The bird's presence instills fear; enemies within 10 ft. must succeed on a DC 12 Wisdom save or become frightened until the end of their next turn. |
-| 15         | **Healing Aura**        | The bird radiates a soothing energy, healing 1d4 hit points to one ally within 10 ft. when summoned. |
-| 16         | **Timekeeper**          | The bird can manipulate time; the user can reroll a failed attack or saving throw once per short rest. |
-| 17         | **Frightening Aura**    | The bird emits an aura of dread; creatures within 10 ft. must succeed on a DC 12 Wisdom save or be frightened for 1 minute. |
-| 18         | **Cloak of Shadows**    | The bird grants advantage on Stealth checks to one ally within 10 ft. when summoned. |
-| 19         | **Whispers of the Past**| The bird can communicate a simple message from the spirit world, granting insight into one question (advantage on the next Intelligence check). |
-| 20         | **Divine Protection**    | The bird bestows a protective blessing; the user gains a +1 bonus to AC until the end of their next turn. |
+| Roll (d20) | Modifier Type            | Effect                                                                                                                                                                   |
+| ---------- | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1          | **Arcane**               | The bird can cast one cantrip of choice 3 times per day.                                                                                                                 |
+| 2          | **Swift**                | The bird's speed doubles.                                                                                                                                                |
+| 3          | **Cunning**              | The bird can perform a cunning distraction, imposing disadvantage on an enemy’s next attack.                                                                             |
+| 4          | **Luminous**             | The bird emits dim light in a 15 ft. radius.                                                                                                                             |
+| 5          | **Mysterious Aura**      | The bird creates a 15 ft. radius of magical darkness (DC 12 Wisdom save to see through).                                                                                 |
+| 6          | **Sonic Screech**        | The bird emits a loud screech, deafening nearby creatures (DC 12 Constitution save).                                                                                     |
+| 7          | **Colorful Plume**       | The bird’s feathers change colors, granting advantage on the first attack against a target within 10 ft.                                                                 |
+| 8          | **Temporal Flicker**     | The bird blinks in and out of existence, granting it advantage on its first attack.(roll a d4 at the end of its turn if even it blinks out of existence and cant be hit) |
+| 9          | **Whimsical Dance**      | The bird performs an enchanting dance, causing enemies to be charmed (DC 13 Wisdom save).                                                                                |
+| 10         | **Shadowy Figure**       | The bird appears as a shadowy silhouette, providing advantage on stealth checks for nearby allies.                                                                       |
+| 11         | **Elemental Fury**       | Roll a d4 to determine the element: 1-Fire, 2-Ice, 3-Lightning, 4-Thunder. The bird deals an extra 1d4 damage of that type on its attacks.                               |
+| 12         | **Ghostly Form**         | The bird is semi-transparent, allowing it to pass through objects and avoid opportunity attacks.                                                                         |
+| 13         | **Fey Trickster**        | The bird can cast *disguise self*(beasts within 2 Cr level of bird) at will without expending a spell slot.                                                              |
+| 14         | **Beastly Roar**         | The bird's presence instills fear; enemies within 10 ft. must succeed on a DC 12 Wisdom save or become frightened until the end of their next turn.                      |
+| 15         | **Healing Aura**         | The bird radiates a soothing energy, healing 1d4 hit points to one ally within 10 ft.                                                                                    |
+| 16         | **Timekeeper**           | The bird can manipulate time; the user can reroll a failed attack or saving throw once per short rest.                                                                   |
+| 17         | **Frightening Aura**     | The bird emits an aura of dread; creatures within 10 ft. must succeed on a DC 12 Wisdom save or be frightened for 1 minute.                                              |
+| 18         | **Cloak of Shadows**     | The bird grants advantage on Stealth checks to one ally within 10 ft. when summoned.                                                                                     |
+| 19         | **Whispers of the Past** | The bird can communicate a simple message from the spirit world, granting insight into one question (advantage on the next Intelligence check).                          |
+| 20         | **Divine Protection**    | The bird bestows a protective blessing; the user gains a +1 bonus to AC until the end of their next turn.                                                                |
 
 ### Birds List
 
@@ -59,7 +59,7 @@ When summoning a bird, roll a d20. On a roll of 18-20, the bird gains a special 
 16. **[[Owl Chick]]**  
 17. **[[Pheasant]]**  
 18. **[[Peacock]]**  
-19. **[[Blue Jay]]**  .
+19. **[[Blue Jay]]**  
 20. **[[Penguin]]**  
 
 ## 2 Bird Points Birds (Moderate Strength)
