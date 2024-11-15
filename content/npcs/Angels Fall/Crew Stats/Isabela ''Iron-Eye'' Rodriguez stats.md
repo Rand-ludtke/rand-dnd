@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 ---
 
 _First Mate of the Moonlight Pirates_

@@ -5,6 +5,7 @@ draft: true
 **Leader**: Subordinate to Sadrekkeor (Adventurers Guild Leader)  
 **Primary Goal**: Execute raids and sow fear in coastal towns under Sadrekkeor’s orders.
 ![[Pasted image 20241111233326.png]]
+![[Pasted image 20241115004338.png]]
 ---
 
 ## True Nature
@@ -116,19 +117,19 @@ The Moonlight Pirates are actually a covert arm of Sadrekkeor’s influence. Alt
 
 The **Moonlight Pirates** have an array of magical constructs that provide both combat power and utility, each crafted by Sadrekkeor’s artificers to suit various raid and defense scenarios.
 
-- **Sentinel Golem**
+- **Sentinel Golem**(1 cobalt and 5 (2 on ship 3 in base) crimson helmed)
     
     - Towering constructs with enchanted armor, Sentinel Golems serve as frontline defenders and shock troops. They are nearly impervious to non-magical attacks and have the strength to tear through enemy barricades.
-- **Shadowsworn Automaton**
+- **Shadowsworn Automaton** (10 modified Clockwork Hounds)
     
     - Smaller, stealth-based constructs that operate as scouts and infiltrators. They can blend into shadows, move silently, and disable locks or other defenses to clear the way for raiding parties.
-- **Arcane Cannon Golem**
+- **Arcane Cannon Golem**(3 of them)
     
     - Golems equipped with powerful arcane cannons, these constructs serve as mobile artillery. The cannons can launch explosive or elemental projectiles, allowing the Moonlight Pirates to devastate defenses from a distance.
-- **Spectral Sentry**
+- **Spectral Sentry**(5 of them)
     
     - Ethereal, ghostly constructs that can phase through walls and floors. They’re used for reconnaissance within enemy strongholds and often unnerve defenders due to their spectral, nearly invisible nature.
-- **Repair Drones**
+- **Repair Drones**(10 of them, 5 on each side of ship)
     
     - Small, spider-like constructs tasked with maintaining the Black Gale and its equipment. They move rapidly through the ship, repairing hull breaches, weaponry, and constructs, ensuring the crew is battle-ready at all times.
 

@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 ---
 
 _Divine Spellcaster and Elementalist_

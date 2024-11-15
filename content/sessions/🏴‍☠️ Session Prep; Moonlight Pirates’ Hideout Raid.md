@@ -52,9 +52,9 @@ With Felina safely returned, the party can investigate the villages where Sadrek
 
 After Felina is rescued and has had time to rest, she shares valuable information:
 
-- **Increasing Aggression**: Felina confirms that the pirates have become far more aggressive in recent months. This shift coincides with their increased use of advanced weaponry, magic items, and a ruthlessness that wasn’t present before. She doesn’t know the full extent of the change, but she’s sure it’s tied to a mysterious figure she’s only heard referred to as “The Master.” This figure has become the driving force behind the pirates’ new tactics, with no mercy shown to any town or settlement they raid.
+- **Increasing Aggression**: Felina confirms that the pirates have become far more aggressive in recent months. This shift coincides with their increased use of advanced weaponry, magic items, and a ruthlessness that wasn’t present before. She doesn’t know the full extent of the change, but she’s sure it’s tied to a mysterious figure she’s only heard referred to as “The Boss.” This figure has become the driving force behind the pirates’ new tactics, with no mercy shown to any town or settlement they raid.
     
-- **Mysterious Operations**:  Felina overheard pirates discussing an ongoing **operation** in a specific area that requires immediate attention. The pirates spoke in low voices, referring to the target of this operation as something that could “disrupt the balance” of their efforts. The pirates have been receiving orders to neutralize any potential threats in the region before they can establish a stronger presence. Felina recalls hearing a few cryptic mentions of **strange symbols** and **unusual activities** in the area, though no specific details about the nature of the threat were shared.
+- **Mysterious Operations**:  Felina overheard pirates discussing an ongoing **operation** in a specific area that requires immediate attention. The pirates spoke in low voices, referring to the target of this operation as something that could “disrupt the balance” of their efforts. The pirates have been receiving orders to neutralize any potential threats in the region before they can establish a stronger presence. 
     
 
 ---
@@ -69,7 +69,7 @@ The players uncover the following fragments of orders and a damaged map in the *
 
 1. **“Ensure all traces of their presence are erased.  activities in this area are becoming more frequent. Locations of interest must be identified and secured.”**
     
-2. **“Scout and secure the area surrounding blank.  infiltrate and assess the area.”**
+2. **“Scout and secure the area surrounding [location name].  infiltrate and assess the area.”**
     
 3. **“ Secure all access points and neutralize any potential threats found in the vicinity.”**
     

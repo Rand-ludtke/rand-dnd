@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 ---
 
 _Ship’s Healer and Shadowy Avenger_

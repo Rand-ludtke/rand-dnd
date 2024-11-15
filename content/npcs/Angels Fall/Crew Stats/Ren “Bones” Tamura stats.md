@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 ---
 
 _Deck Medic_

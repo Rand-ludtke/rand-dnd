@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 ---
 
 _Gunner and Flame-Wielding Zealot_

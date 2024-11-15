@@ -26,7 +26,7 @@ draft: true
 
 ### Key Drops
 
-- **Clues Left Behind**: If Sable escapes or is defeated, he leaves a **Black Feather with a Red Thread** around it—a subtle hint of the Moonlight Pirates’ involvement, as their crew members often mark themselves with similar symbols.
+- **Clues Left Behind**: If Sable is defeated, he leaves a letter that says it was ordered by the now deceased Hulil Lutan.
 
 ---
 

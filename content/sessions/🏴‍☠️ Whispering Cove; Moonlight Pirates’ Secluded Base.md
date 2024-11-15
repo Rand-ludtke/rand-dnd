@@ -103,11 +103,10 @@ draft: true
 ### **Room 6: Treasure Vault**
 
 - **Description**: The most fortified area in the hideout, with a thick iron door. Inside, the room is filled with chests of plundered treasure from numerous raids.
-- **Encounters**: One final guardian, a pirate captain’s bodyguard, defends this room.
+- **Encounters**: One final guardian, a Crystal Golem, defends this room.
 - **Loot**:
     - Gold coins and gems worth 550 gp.
     - **Obsidian Spyglass**: 200 gp.
-    - A magical **Ancient Amulet** that allows water breathing for 10 minutes per day (150 gp).
     - **Cloak of the Mists**: Grants advantage on Stealth checks in dim light or darkness.
 
 ---
@@ -136,7 +135,7 @@ draft: true
 | Obsidian Spyglass               | 200 gp     |
 | Ancient Amulet                  | 150 gp     |
 | Cloak of the Mists (magic item) | Priceless  |
-| Coins at Shrine                 | 20 gp      |
+
 
 ---
 

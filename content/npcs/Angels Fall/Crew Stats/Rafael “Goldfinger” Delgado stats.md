@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 ---
 
 _Quartermaster and Rogue Paladin_

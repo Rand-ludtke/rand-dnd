@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 ---
 
 _Fearless Leader of the Paladin Pirates_
