@@ -36,6 +36,6 @@ _Large Construct, Unaligned_
 **Arcane Cannon (Ranged Weapon Attack).**  
 _Range:_ 150 ft.  
 _Attack Bonus:_ +7 to hit  
-_Hit:_ 22 (4d10) force damage or 15 (3d6) fire damage (choose on hit). On a critical hit, the target must make a DC 15 Dexterity saving throw or be knocked prone.
+_Hit:_ 22 (4d10) force damage and 15 (3d6) fire damage (choose on hit). On a critical hit, the target must make a DC 15 Dexterity saving throw or be knocked prone.
 
 **Elemental Blast (Recharge 5-6).** The golem launches a concentrated blast of elemental energy in a 20-foot cone. Each creature in the area must make a DC 15 Dexterity saving throw, taking 33 (6d10) damage of either fire, cold, or lightning damage on a failed save, or half as much on a successful one.

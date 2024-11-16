@@ -6,6 +6,7 @@ draft: true
 **Primary Goal**: Execute raids and sow fear in coastal towns under Sadrekkeor’s orders.
 ![[Pasted image 20241111233326.png]]
 ![[Pasted image 20241115004338.png]]
+
 ---
 
 ## True Nature
@@ -45,71 +46,71 @@ The Moonlight Pirates are actually a covert arm of Sadrekkeor’s influence. Alt
 
 ## Notable Members
 
-- **Captain Lysandra "Moonlit Blade" Marquez**
+- **Captain Lysandra ''Moonlit Blade'' Marquez**
     
     - The ruthless captain of the Moonlight Pirates, Lysandra is a master of both blade and spell. She follows Sadrekkeor’s orders without question, seeing his cause as a path to ultimate power.
-    - [[Captain Lysandra "Moonlit Blade" Marquez]]
-- **Quartermaster Silas "Silent Gale" Trelan**
+    - [[Captain Lysandra ''Moonlit Blade'' Marquez]]
+- **Quartermaster Silas ''Silent Gale'' Trelan**
     
     - Half-elf rogue and tactician, Silas manages the crew’s resources and gathers information for raids. His talent for espionage is key to the crew’s precision.
-    - [[Quartermaster Silas "Silent Gale" Trelan]]
-- **Arcane Engineer Valeria "Ironhand" Kohr**
+    - [[Quartermaster Silas ''Silent Gale'' Trelan]]
+- **Arcane Engineer Valeria ''Ironhand'' Kohr**
     
     - A dwarven artificer responsible for maintaining the crew’s advanced weapons and magical technology, including the golems that support them in battle.
-    - [[Arcane Engineer Valeria "Ironhand" Kohr]]
-- **Navigator Zara "Eclipse" Voss**
+    - [[Arcane Engineer Valeria ''Ironhand'' Kohr]]
+- **Navigator Zara ''Eclipse'' Voss**
     
     - Expert navigator and diviner, Zara uses magic to ensure the crew’s swift and unseen travel, providing guidance on when and where to strike.
-    - [[Navigator Zara "Eclipse" Voss]]
-- **Combat Specialist Draven "Gore" Blackwell**
+    - [[Navigator Zara ''Eclipse'' Voss]]
+- **Combat Specialist Draven ''Gore'' Blackwell**
     
     - Brutal half-orc enforcer who revels in close combat. Enhanced by Sadrekkeor’s dark magic, Draven serves as an unbreakable shield during raids.
-    - [[Combat Specialist Draven "Gore" Blackwell]]
-- **Master Gunner Theo "Blastwave" Faulk**
+    - [[Combat Specialist Draven ''Gore'' Blackwell]]
+- **Master Gunner Theo ''Blastwave'' Faulk**
     
     - A master of explosives and artillery, Theo handles the ship’s cannons and enchanted projectiles. Known for his near-miraculous accuracy, he ensures devastating first strikes in every raid.
-    - [[Master Gunner Theo "Blastwave" Faulk]]
-- **Infiltrator Nora "Nightshade" Liang**
+    - [[Master Gunner Theo ''Blastwave'' Faulk]]
+- **Infiltrator Nora ''Nightshade'' Liang**
     
     - A human spy and illusionist who specializes in infiltrating towns prior to raids. Her shapeshifting abilities allow her to move undetected, gathering vital intelligence.
-    - [[Infiltrator Nora "Nightshade" Liang]]
-- **Bosun Hector "Stonejaw" Ramirez**
+    - [[Infiltrator Nora ''Nightshade'' Liang]]
+- **Bosun Hector ''Stonejaw'' Ramirez**
     
     - A goliath with a booming voice and unbreakable loyalty, Hector keeps the crew in line. His strength and discipline make him the perfect taskmaster.
-    - [[Bosun Hector "Stonejaw" Ramirez]]
-- **Ship's Surgeon Emilio "Scalpel" Cruz**
+    - [[Bosun Hector ''Stonejaw'' Ramirez]]
+- **Ship's Surgeon Emilio ''Scalpel'' Cruz**
     
     - The crew’s healer and torturer, Emilio is skilled in both anatomy and dark magic. He serves as both the crew’s medic and their interrogator.
-    - [[Ship's Surgeon Emilio "Scalpel" Cruz]]
-- **Signal Specialist Vance "Echo" Deveraux**
+    - [[Ship's Surgeon Emilio ''Scalpel'' Cruz]]
+- **Signal Specialist Vance ''Echo'' Deveraux**
     
     - Vance handles long-distance communication for the Moonlight Pirates, using magical means to relay orders and coordinate the crew during attacks.
-    - [[Signal Specialist Vance "Echo" Deveraux]]
-- **Shadowblade Anya "Silhouette" Drennan**
+    - [[Signal Specialist Vance ''Echo'' Deveraux]]
+- **Shadowblade Anya ''Silhouette'' Drennan**
     
     - **Role**: Assassin and Duelist
     - Anya is a master of stealth, striking silently from the shadows with lethal precision. She specializes in eliminating high-profile targets quietly before the main raid even begins.
-    - [[Shadowblade Anya "Silhouette" Drennan]]
-- **Arcane Specialist Finn "Stormcaller" Larsen**
+    - [[Shadowblade Anya ''Silhouette'' Drennan]]
+- **Arcane Specialist Finn ''Stormcaller'' Larsen**
     
     - **Role**: Storm Sorcerer
     - Finn wields control over weather magic, particularly storms and lightning, to aid the crew’s approach and escape. His magic can summon mists or fog, cloaking the ship, and even conjure storms to deter pursuit.
-    - [[Arcane Specialist Finn "Stormcaller" Larsen]]
-- **Deckmaster Morgan "Ice Vein" Kelty**
+    - [[Arcane Specialist Finn ''Stormcaller'' Larsen]]
+- **Deckmaster Morgan ''Ice Vein'' Kelty**
     
     - **Role**: Crew Coordinator and Combat Trainer
     - Known for his unshakable composure, Morgan coordinates the crew during chaotic raids. His tactical prowess and calm under pressure help maintain order among the pirates even in the heat of battle.
-    - [[Deckmaster Morgan "Ice Vein" Kelty]]
-- **Saboteur Selene "Ash" Riva**
+    - [[Deckmaster Morgan ''Ice Vein'' Kelty]]
+- **Saboteur Selene ''Ash'' Riva**
     
     - **Role**: Demolition Expert
     - Specializing in sabotage, Selene plants explosive charges and creates distractions during raids, allowing the crew to slip in and out with minimal resistance. Her expertise in traps and explosives is unmatched.
-    - [[Saboteur Selene "Ash" Riva]]
-- **Petty Officer Leo "Bullseye" Hastings**
+    - [[Saboteur Selene ''Ash'' Riva]]
+- **Petty Officer Leo ''Bullseye'' Hastings**
     
     - **Role**: Sharpshooter and Marksman
     - Leo is the crew’s expert with ranged weapons, able to hit targets from distances that seem impossible. With enchanted crossbows and magical ammunition, he provides covering fire during operations.
-    - [[Petty Officer Leo "Bullseye" Hastings]]
+    - [[Petty Officer Leo ''Bullseye'' Hastings]]
 
 ---
 
