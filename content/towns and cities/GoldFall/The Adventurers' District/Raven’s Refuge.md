@@ -25,19 +25,19 @@
 
 ## Services & Items
 
-|Item|Description|Price (gp)|
-|---|---|---|
-|**Swift Delivery**|Secure and fast delivery anywhere in the city, with tracking.|5 gp|
-|**Urgent Dispatch**|Express delivery service, arrives within the hour.|15 gp|
-|**Encrypted Message**|A secure message delivery, sealed with magical encryption.|10 gp|
-|**Silent Flight**|Message delivered without anyone noticing the messenger bird.|20 gp|
-|**Avian Guard**|A service that includes a trained bird to guard your message until it’s safely delivered.|25 gp|
-|**Night Sky Courier**|Specialized delivery that only operates during the night, evading most forms of surveillance.|30 gp|
-|**Personal Message Delivery**|For VIPs, a one-on-one, in-person delivery by an elite messenger.|50 gp|
-|**Feathered Express**|Speedy delivery with priority handling.|7 gp|
-|**Weatherproof Envelope**|A magical envelope that protects contents from the elements.|8 gp|
-|**Lost Parcel Recovery**|For recovering lost or intercepted messages, using tracking spells and a raven’s instinct.|50 gp|
-|**Messenger Bird Training**|Lessons on how to train and use messenger birds.|100 gp|
+| Item                          | Description                                                                                   | Price (gp) |
+| ----------------------------- | --------------------------------------------------------------------------------------------- | ---------- |
+| **Swift Delivery**            | Secure and fast delivery to any city, with tracking.                                          | 5 gp       |
+| **Urgent Dispatch**           | Express delivery service, arrives within the hour in city or day out of.                      | 15 gp      |
+| **Encrypted Message**         | A secure message delivery, sealed with magical encryption.                                    | 10 gp      |
+| **Silent Flight**             | Message delivered without anyone noticing the messenger bird.                                 | 20 gp      |
+| **Avian Guard**               | A service that includes a trained bird to guard your message until it’s safely delivered.     | 25 gp      |
+| **Night Sky Courier**         | Specialized delivery that only operates during the night, evading most forms of surveillance. | 30 gp      |
+| **Personal Message Delivery** | For VIPs, a one-on-one, in-person delivery by an elite messenger.                             | 50 gp      |
+| **Feathered Express**         | Speedy delivery with priority handling.                                                       | 7 gp       |
+| **Weatherproof Envelope**     | A magical envelope that protects contents from the elements.                                  | 8 gp       |
+| **Lost Parcel Recovery**      | For recovering lost or intercepted messages, using tracking spells and a raven’s instinct.    | 50 gp      |
+| **Messenger Bird Training**   | Lessons on how to train and use messenger birds.                                              | 100 gp     |
 
 ---
 

@@ -14,15 +14,15 @@
 
 ## Services & Items
 
-|Item|Description|Price (gp)|
-|---|---|---|
-|Herbal Remedy Kit|Heals minor ailments|10 gp|
-|Potion of Healing|Restores 10 hit points|50 gp|
-|Elixir of Calm|Grants advantage on Wisdom saving throws|30 gp|
-|Remedy for Seasickness|Removes nausea|8 gp|
-|Tranquil Tea|Calming effect, grants +1 on Charisma checks for 1 hour|15 gp|
-|Essence of Nightshade|Poison used in alchemy|20 gp|
-|Herbal Incense|Burns for an hour, +1 to meditation or spellcasting focus|10 gp|
+| Item                   | Description                                               | Price (gp) |
+| ---------------------- | --------------------------------------------------------- | ---------- |
+| Herbal Remedy Kit      | Heals minor ailments                                      | 10 gp      |
+| Potion of Healing      | Restores 10 hit points                                    | 50 gp      |
+| Elixir of Calm         | Grants advantage on Wisdom saving throws                  | 30 gp      |
+| Remedy for Seasickness | Removes nausea                                            | 8 sp       |
+| Tranquil Tea           | Calming effect, grants +1 on Charisma checks for 1 hour   | 15 gp      |
+| Essence of Nightshade  | Poison used in alchemy                                    | 20 gp      |
+| Herbal Incense         | Burns for an hour, +1 to meditation or spellcasting focus | 10 gp      |
 
 ---
 

@@ -14,15 +14,15 @@
 
 ## Services & Items
 
-|Item|Description|Price (gp)|
-|---|---|---|
-|Cutlass|Classic pirate weapon, +1 to hit|50 gp|
-|Reinforced Leather|Provides +1 AC|100 gp|
-|Shipbreaker Axe|Deals extra damage to wooden objects|75 gp|
-|Aquatic Scale Mail|Reduces weight when submerged, grants +1 on swim checks|120 gp|
-|Kraken Dagger|Grants advantage on underwater attack rolls|200 gp|
-|Shell Shield|Lightweight, +1 AC|80 gp|
-|Harpoon|Throwable weapon that retracts|150 gp|
+| Item               | Description                                             | Price (gp) |
+| ------------------ | ------------------------------------------------------- | ---------- |
+| Cutlass            | Classic pirate weapon, +1 to hit                        | 50 gp      |
+| Reinforced Leather | Provides +1 AC                                          | 100 gp     |
+| Shipbreaker Axe    | Deals extra damage to wooden objects                    | 75 gp      |
+| Aquatic Scale Mail | Reduces weight when submerged, grants +1 on swim checks | 120 gp     |
+| Kraken Dagger      | Grants advantage on underwater attack rolls             | 200 gp     |
+| Shell Shield       | Lightweight, +1 AC                                      | 80 gp      |
+| Harpoon            | Throwable weapon that retracts                          | 150 gp     |
 
 ---
 

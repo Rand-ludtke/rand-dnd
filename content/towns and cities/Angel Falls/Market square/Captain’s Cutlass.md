@@ -14,16 +14,16 @@
 
 ## Services & Items
 
-|Item|Description|Price (gp)|
-|---|---|---|
-|Cutlass|Classic pirate weapon, +1 to hit|40 gp|
-|Reinforced Leather Armor|Provides +1 AC|100 gp|
-|Dagger of Swiftness|Grants advantage on initiative rolls|120 gp|
-|Mariner's Breastplate|Grants +1 to swim checks|150 gp|
-|Buckler of the Tide|Small shield that grants +1 AC in water|90 gp|
-|Hook of Retribution|Deals extra 1d4 damage on critical hits|75 gp|
-|Wavepiercer Spear|+1 against aquatic creatures|200 gp|
-|Belt of the Ocean|Grants +2 Strength while in water|250 gp|
+| Item                     | Description                             | Price (gp) |
+| ------------------------ | --------------------------------------- | ---------- |
+| Cutlass                  | Classic pirate weapon, +1 to hit        | 40 gp      |
+| Reinforced Leather Armor | Provides +1 AC                          | 100 gp     |
+| Dagger of Swiftness      | Grants advantage on initiative rolls    | 120 gp     |
+| Mariner's Breastplate    | Grants +1 to swim checks                | 150 gp     |
+| Buckler of the Tide      | Small shield that grants +1 AC in water | 150 gp     |
+| Hook of Retribution      | Deals extra 1d4 damage on critical hits | 100 gp     |
+| Wavepiercer Spear        | +1 against aquatic creatures            | 200 gp     |
+| Belt of the Ocean        | Grants +2 Strength while in water       | 400 gp     |
 
 ---
 

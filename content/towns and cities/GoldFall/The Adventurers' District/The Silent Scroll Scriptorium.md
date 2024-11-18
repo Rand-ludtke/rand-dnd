@@ -27,7 +27,7 @@
 
 | Item                               | Description                                                                            | Price (gp) |
 | ---------------------------------- | -------------------------------------------------------------------------------------- | ---------- |
-| **Magic Missile Scroll**           | A scroll that, when read, casts the Magic Missile spell.                               | 25 gp      |
+| **Magic Missile Scroll**           | A scroll that, when read, casts the Magic Missile spell.                               | 50 gp      |
 | **Fireball Scroll**                | A scroll that, when read, casts the Fireball spell.                                    | 150 gp     |
 | **Scroll of Detect Magic**         | A scroll that, when read, casts Detect Magic.                                          | 30 gp      |
 | **Arcane Lock Scroll**             | A scroll that, when read, casts Arcane Lock.                                           | 50 gp      |
@@ -40,7 +40,7 @@
 | **Misty Step Scroll**              | A scroll that, when read, casts Misty Step, allowing the caster to teleport 30 feet.   | 50 gp      |
 | **Shield Scroll**                  | A scroll that, when read, casts the Shield spell, providing extra protection.          | 100 gp     |
 | **Scroll of Healing Word**         | A scroll that, when read, casts Healing Word.                                          | 60 gp      |
-| **Feather Fall Scroll**            | A scroll that, when read, casts Feather Fall to slow the descent of falling creatures. | 20 gp      |
+| **Feather Fall Scroll**            | A scroll that, when read, casts Feather Fall to slow the descent of falling creatures. | 50 gp      |
 | **Scroll of Dispel Magic**         | A scroll that, when read, casts Dispel Magic to remove magical effects.                | 150 gp     |
 
 ---

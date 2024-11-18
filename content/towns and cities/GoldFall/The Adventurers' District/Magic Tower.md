@@ -25,18 +25,18 @@
 
 ## Services & Items
 
-| Item                       | Description                                                                                                      | Price (gp) |
-| -------------------------- | ---------------------------------------------------------------------------------------------------------------- | ---------- |
-| **Arcane Focus**           | A finely crafted magical instrument used for spellcasting. Grants +1 to spell attack rolls and saving throw DCs. | 50 gp      |
-| **Spellbook of the Stars** | A rare spellbook containing ancient spells, including _Mage Hand_ and _Light_.                                   | 2000 gp    |
-| **Scroll of Fireball**     | A scroll that contains the _Fireball_ spell, castable by any spellcaster.                                        | 250 gp     |
-| **Tome of the Ancients**   | A mysterious book containing long-forgotten spells of powerful wizards.                                          | 5000 gp    |
-| **Potion of Mana**         | A drink that restores a spellcaster’s spell slots (1 level 3 spell).                                             | 100 gp     |
-| **Elixir of Knowledge**    | A drink that grants the user the ability to learn a new spell instantly (up to level 3).                         | 250 gp     |
-| **Scroll of Invisibility** | A scroll containing the _Invisibility_ spell, castable by any spellcaster.                                       | 200 gp     |
-| **Gem of Fire**            | A gem that can store a single fire-based spell for later use.                                                    | 150 gp     |
-| **Astral Map**             | A magical map that shows the position of celestial bodies and magical ley lines.                                 | 400 gp     |
-| **Wand of Arcane Blast**   | A wand that allows the user to cast _Magic Missile_ three times per day.                                         | 200 gp     |
+| Item                       | Description                                                                                                                              | Price (gp) |
+| -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| **Arcane Focus**           | A finely crafted magical instrument used for spellcasting. Grants +1 to spell attack rolls and saving throw DCs.(only works for 1 month) | 50 gp      |
+| **Spellbook of the Stars** | A rare spellbook containing ancient spells, including _Mage Hand_ and _Light_.                                                           | 2000 gp    |
+| **Scroll of Fireball**     | A scroll that contains the _Fireball_ spell, castable by any spellcaster.                                                                | 250 gp     |
+| **Tome of the Ancients**   | A mysterious book containing long-forgotten spells of powerful wizards.                                                                  | 5000 gp    |
+| **Potion of Mana**         | A drink that restores a spellcaster’s spell slots (1 level 3 spell).                                                                     | 100 gp     |
+| **Elixir of Knowledge**    | A drink that grants the user the ability to learn a new spell instantly (up to level 3).(wizards only and only 1 a month or else)        | 300 gp     |
+| **Scroll of Invisibility** | A scroll containing the _Invisibility_ spell, castable by any spellcaster.                                                               | 200 gp     |
+| **Gem of Fire**            | A gem that can store a single fire-based spell for later use.                                                                            | 250 gp     |
+| **Astral Map**             | A magical map that shows the position of celestial bodies and magical ley lines.                                                         | 400 gp     |
+| **Wand of Arcane Blast**   | A wand that allows the user to cast _Magic Missile_ three times per day.                                                                 | 200 gp     |
 
 ---
 

@@ -16,17 +16,17 @@
 
 ## Services & Items
 
-|Item|Description|Price (gp)|
-|---|---|---|
-|Salted Fish|Preserved for long journeys|2 gp|
-|Fresh Crustaceans|Crabs and lobsters, adds flavor to meals|5 gp|
-|Dried Kelp|Enhances Constitution saving throws for 1 hour|8 gp|
-|Deep Sea Oil|Grants advantage on Strength checks for lifting or pulling|10 gp|
-|Shark Fin Soup|Provides +1 to Wisdom for an hour|15 gp|
-|Spiced Rum|Hot drink, grants resistance to cold for an hour|12 gp|
-|Barnacle Clusters|Rare delicacy, said to enhance vitality|20 gp|
-|Aquatic Herbs|Useful in potion-making|5 gp|
-|Scented Salts|Used for preserving or crafting potions|7 gp|
+| Item              | Description                                                | Price (gp) |
+| ----------------- | ---------------------------------------------------------- | ---------- |
+| Salted Fish       | Preserved for long journeys                                | 2 sp       |
+| Fresh Crustaceans | Crabs and lobsters, adds flavor to meals                   | 5 sp       |
+| Dried Kelp        | Enhances Constitution saving throws for 1 hour(+1)         | 8 sp       |
+| Deep Sea Oil      | Grants advantage on Strength checks for lifting or pulling | 10 gp      |
+| Shark Fin Soup    | Provides +1 to Wisdom for an hour                          | 15 gp      |
+| Spiced Rum        | Hot drink, grants resistance to cold for an hour           | 12 gp      |
+| Barnacle Clusters | Rare delicacy, said to enhance vitality                    | 20 gp      |
+| Aquatic Herbs     | Useful in potion-making                                    | 5 gp       |
+| Scented Salts     | Used for preserving or crafting potions                    | 7 gp       |
 
 ---
 

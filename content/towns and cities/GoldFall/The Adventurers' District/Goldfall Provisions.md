@@ -25,18 +25,18 @@
 
 ## Services & Items
 
-|Item|Description|Price (gp)|
-|---|---|---|
-|**Traveler’s Pack**|A full pack with bedroll, rations for 5 days, and basic camping gear.|15 gp|
-|**Rope (50 ft.)**|A strong hemp rope perfect for climbing or securing equipment.|10 gp|
-|**Iron Rations**|A week's worth of food, preserved for travel.|5 gp|
-|**Climbing Kit**|Includes grappling hook, pitons, and climbing gloves.|25 gp|
-|**Torch (10)**|10 torches for lighting the way in dark areas.|2 gp|
-|**Hunter’s Bow**|A basic bow with 20 arrows.|30 gp|
-|**Bedroll**|A simple sleeping roll, providing basic comfort.|5 gp|
-|**Fishing Kit**|Includes a rod, tackle, and a few basic lures.|15 gp|
-|**Healing Salve**|A basic salve that heals 1d4 hit points when applied to a wound.|20 gp|
-|**Survival Kit**|Includes fire-starting tools, a map, and compass.|40 gp|
+| Item                | Description                                                           | Price (gp) |
+| ------------------- | --------------------------------------------------------------------- | ---------- |
+| **Traveler’s Pack** | A full pack with bedroll, rations for 5 days, and basic camping gear. | 15 gp      |
+| **Rope (50 ft.)**   | A strong hemp rope perfect for climbing or securing equipment.        | 10 gp      |
+| **Iron Rations**    | A week's worth of food, preserved for travel.                         | 5 sp       |
+| **Climbing Kit**    | Includes grappling hook, pitons, and climbing gloves.                 | 25 gp      |
+| **Torch (10)**      | 10 torches for lighting the way in dark areas.                        | 2 gp       |
+| **Hunter’s Bow**    | A basic bow with 20 arrows.                                           | 30 gp      |
+| **Bedroll**         | A simple sleeping roll, providing basic comfort.                      | 5 sp       |
+| **Fishing Kit**     | Includes a rod, tackle, and a few basic lures.                        | 15 gp      |
+| **Healing Salve**   | A basic salve that heals 1d4 hit points when applied to a wound.      | 20 gp      |
+| **Survival Kit**    | Includes fire-starting tools, a map, and compass.                     | 40 gp      |
 
 ---
 

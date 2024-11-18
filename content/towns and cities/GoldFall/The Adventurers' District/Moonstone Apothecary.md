@@ -25,18 +25,18 @@
 
 ## Services & Items
 
-|Item|Description|Price (gp)|
-|---|---|---|
-|**Elixir of Night’s Embrace**|A potion that allows the drinker to see in complete darkness for 1 hour.|150 gp|
-|**Moonstone Draught**|A soothing elixir that heals 2d8 hit points and cures minor ailments.|200 gp|
-|**Starlight Salve**|A balm that heals minor wounds and can regenerate 1 hit point over the course of an hour.|50 gp|
-|**Witch’s Blood**|A potent poison that weakens the victim, dealing 2d6 poison damage over 2 rounds.|100 gp|
-|**Healing Herb Blend**|A mix of herbs that grants the user advantage on Constitution saving throws against disease.|40 gp|
-|**Elixir of Poison Resistance**|A drink that grants resistance to poison damage for 1 hour.|120 gp|
-|**Serpent’s Venom Antidote**|A remedy that cures venom from serpent bites or stings, removing poison immediately.|50 gp|
-|**Frostbane Tonic**|An elixir that grants temporary immunity to cold damage for 1 hour.|150 gp|
-|**Sun’s Glow Elixir**|A radiant potion that provides light in a 20-foot radius and deals 1d6 radiant damage to undead upon contact.|200 gp|
-|**Potion of Invisibility**|A rare potion that grants invisibility for 1 minute or until the user attacks.|500 gp|
+| Item                            | Description                                                                                                   | Price (gp) |
+| ------------------------------- | ------------------------------------------------------------------------------------------------------------- | ---------- |
+| **Elixir of Night’s Embrace**   | A potion that allows the drinker to see in complete darkness for 1 hour.                                      | 100 gp     |
+| **Moonstone Draught**           | A soothing elixir that heals 2d8 hit points and cures minor ailments.                                         | 200 gp     |
+| **Starlight Salve**             | A balm that heals minor wounds and can regenerate 1 hit point per minute over the course of an hour.          | 50 gp      |
+| **Witch’s Blood**               | A potent poison that weakens the victim, dealing 2d6 poison damage over 2 rounds.                             | 100 gp     |
+| **Healing Herb Blend**          | A mix of herbs that grants the user advantage on Constitution saving throws against disease.                  | 40 gp      |
+| **Elixir of Poison Resistance** | A drink that grants resistance to poison damage for 1 hour.                                                   | 125 gp     |
+| **Serpent’s Venom Antidote**    | A remedy that cures venom from serpent bites or stings, removing poison immediately.                          | 50 gp      |
+| **Frostbane Tonic**             | An elixir that grants temporary immunity to cold damage for 1 hour.                                           | 150 gp     |
+| **Sun’s Glow Elixir**           | A radiant potion that provides light in a 20-foot radius and deals 1d6 radiant damage to undead upon contact. | 200 gp     |
+| **Potion of Invisibility**      | A rare potion that grants invisibility for 1 minute or until the user attacks.                                | 250 gp     |
 
 ---
 

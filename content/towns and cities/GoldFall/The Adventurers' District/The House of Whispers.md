@@ -5,21 +5,21 @@
 
 ## NPCs
 
-1. **Oberon "Whisper" Nightshade** (Half-Elf, Male)
+1. **Ivy Duskwood** (Wood Elf, Female)
     
-    - **Personality:** Mysterious, eloquent, and shrewd. Oberon is the owner of The House of Whispers, a man of few words who values discretion above all else.
-    - **Appearance:** Tall with long, dark hair and a hooded cloak that obscures much of his face. His silver-gray eyes always seem to be watching and calculating.
-    - **Role:** The owner of The House of Whispers. Oberon is the central figure of the inn, greeting patrons and making sure no secrets are revealed to outsiders.
-2. **Ivy Duskwood** (Wood Elf, Female)
-    
-    - **Personality:** Quiet, observant, and calculating. Ivy serves as a bartender and gathers rumors from the patrons to sell later. She has an ear for detail and can often be heard quietly whispering to Oberon about the most intriguing tidbits.
+    - **Personality:** Quiet, observant, and calculating. Ivy serves as a bartender and gathers rumors from the patrons to sell later. She has an ear for detail and can often be heard quietly whispering about the most intriguing tidbits.
     - **Appearance:** Ivy has dark green eyes, with long auburn hair that she often ties back. Her clothing blends into the shadows, making her seem almost ethereal.
     - **Role:** Bartender and information broker. She handles the inn’s beverage service while keeping her ear to the ground for interesting rumors.
-3. **Thorn Blackmask** (Human, Male)
+2. **Thorn Blackmask** (Human, Male)
     
     - **Personality:** Secretive, paranoid, and quick-witted. Thorn is a regular and often spends hours in the corner of the room, taking notes on various conversations.
     - **Appearance:** A man in his mid-30s with dark brown hair, a rugged face, and a well-worn black cloak that hides most of his features. His eyes dart around nervously, always scanning for anyone who might be listening.
     - **Role:** A former spy who is now a permanent resident of the House of Whispers. He is a key source of information for those willing to pay the right price.
+3. **Vespera Morn** (Tiefling, Female)
+    
+    - **Personality:** Vespera is charming, sly, and possessive of a sharp wit. She’s a master of hiding in plain sight, always seeming like a step ahead of others. She’s a woman of few words but has a presence that commands attention when she speaks.
+    - **Appearance:** With skin the color of deep maroon and eyes like twin pools of amber, Vespera cuts a striking figure. Her long, silver hair is often pulled back into a tight, elegant braid. Her attire is dark and practical, though decorated with intricate silver jewelry, each piece crafted with arcane symbols.
+    - **Role:** The owner of The House of Whispers, Vespera is a former spy turned information broker who keeps the inn running with her subtle influence and sharp business sense. She came into power many years ago. Vespera’s loyalty is unknown, though many suspect she’s tied to covert operations of her own. She keeps a tight rein on the inn, ensuring that no secrets escape into the wrong hands.
 
 ---
 
@@ -51,6 +51,7 @@
 
 ## Rumors
 
-- Oberon Nightshade is said to have once been part of a secret organization that spied on the ruling elites of Goldfall, but the group mysteriously disappeared years ago.
 - Ivy Duskwood has been seen leaving the inn at strange hours, often returning with bags of documents marked with unidentifiable symbols.
 - Thorn Blackmask was once captured by a rival spy network but escaped with a vital piece of intelligence that he now guards jealously.
+- It is said that The House of Whispers was once under the ownership of a mysterious figure, but they vanished without a trace. Some claim that Vespera Morn has been linked to the disappearance of the former proprietor.
+- Vespera Morn’s loyalty to any cause is questionable; some believe she serves a higher, secretive organization that seeks to control the flow of information throughout Goldfall.

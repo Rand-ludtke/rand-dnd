@@ -16,15 +16,15 @@
 
 ## Services & Items
 
-|Item|Description|Price (gp)|
-|---|---|---|
-|Fish Stew|Warm, hearty meal, restores 5 HP|5 gp|
-|Rum Runner|Strong drink, grants +1 to Strength for 1 hour|10 gp|
-|Sailor’s Brew|Light ale, grants +1 to Charisma for social checks|5 gp|
-|Seaweed Salad|Refreshing side, restores 3 HP|3 gp|
-|Stormwatcher’s Mead|Honeyed drink, grants +1 on Perception checks for 1 hour|15 gp|
-|Crabby Claws|Appetizer, gives advantage on Dexterity saving throws for 1 hour|8 gp|
-|Dockworker's Ale|Stout drink, grants advantage on Constitution checks|5 gp|
+| Item                | Description                                    | Price (gp) |
+| ------------------- | ---------------------------------------------- | ---------- |
+| Fish Stew           | Warm, hearty meal, restores 5 HP               | 5 sp       |
+| Rum Runner          | Strong drink, grants +1 to Strength for 1 hour | 10 sp      |
+| Sailor’s Brew       | Light ale                                      | 5 cp       |
+| Seaweed Salad       | Refreshing side, restores 3 HP                 | 3 sp       |
+| Stormwatcher’s Mead | Honeyed drink                                  | 15 sp      |
+| Crabby Claws        | Appetizer                                      | 8 sp       |
+| Dockworker's Ale    | Stout drink                                    | 5 sp       |
 
 ---
 
