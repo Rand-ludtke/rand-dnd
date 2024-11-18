@@ -1,5 +1,4 @@
 
----
 
 Ramming is a high-risk maneuver often used to disable or destroy enemy ships. Properly equipped ships can perform this maneuver with reduced risk, while unprepared ships face significant damage to themselves.
 

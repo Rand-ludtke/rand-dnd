@@ -1,5 +1,4 @@
 
----
 
 Movement depends on sail configuration, wind conditions, and ship size. Larger ships benefit from higher base speeds but face challenges in turning and responding to rapid adjustments.
 
