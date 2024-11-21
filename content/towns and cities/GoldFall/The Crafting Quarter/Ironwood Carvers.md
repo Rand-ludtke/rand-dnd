@@ -16,19 +16,19 @@
 
 ## Services & Items
 
-|Item|Description|Price (gp)|
-|---|---|---|
-|Elven-crafted Bow|A longbow made from ancient elven wood, grants +1 to attack and damage rolls|250 gp|
-|Arcane Staff|A staff imbued with magical energy, grants +1 to spell attack rolls|350 gp|
-|Nature's Spirit Staff|A staff that channels the energy of the forest, granting the ability to cast _Entangle_ once per day|200 gp|
-|Starlight Quiver|A quiver that magically replenishes its arrows after a long rest|150 gp|
-|Carved Totem of Strength|A wooden totem that grants a +2 bonus to Strength checks while carried|75 gp|
-|Feywood Longbow|A magical longbow made from fey-infused wood, grants advantage on attack rolls against fey creatures|400 gp|
-|Enchanted Walking Stick|A walking stick that grants +2 to Wisdom (Perception) checks|50 gp|
-|Staff of the Winds|A staff that grants the ability to cast _Fly_ once per day|500 gp|
-|Moonlit Bow|A bow that grants +1 to attack rolls during the night|200 gp|
-|Sentinel's Carving|A carved wooden shield that grants +1 to AC while in combat|100 gp|
-|Elven Hunter’s Bow|A bow that grants +1 to damage rolls against beasts and monsters|250 gp|
+| Item                     | Description                                                                                          | Price (gp) |
+| ------------------------ | ---------------------------------------------------------------------------------------------------- | ---------- |
+| Elven-crafted Bow        | A longbow made from ancient elven wood, grants +1 to attack and damage rolls                         | 250 gp     |
+| Arcane Staff             | A staff imbued with magical energy, grants +1 to spell attack rolls                                  | 350 gp     |
+| Nature's Spirit Staff    | A staff that channels the energy of the forest, granting the ability to cast _Entangle_ once per day | 200 gp     |
+| Starlight Quiver         | A quiver that magically replenishes its arrows after a long rest                                     | 150 gp     |
+| Carved Totem of Strength | A wooden totem that grants a +2 bonus to Strength checks while carried                               | 75 gp      |
+| Feywood Longbow          | A magical longbow made from fey-infused wood, grants advantage on attack rolls against fey creatures | 400 gp     |
+| Enchanted Walking Stick  | A walking stick that grants +2 to Wisdom (Perception) checks                                         | 50 gp      |
+| Staff of the Winds       | A staff that grants the ability to cast _Fly_ once per day                                           | 500 gp     |
+| Moonlit Bow              | A bow that grants +1 to attack rolls during the night                                                | 200 gp     |
+| Sentinel's Carving       | A carved wooden shield that grants +1 to AC while in combat                                          | 150 gp     |
+| Elven Hunter’s Bow       | A bow that grants +1 to damage rolls against beasts and monsters                                     | 250 gp     |
 
 ---
 

@@ -6,8 +6,8 @@ _Huge Vehicle (Ship)_
 
 ---
 
-- **Armor Class**: 17 (hardened wood and reinforced hull)
-- **Hit Points**: 500 (damage threshold 20)
+- **Armor Class**: 20 (hardened wood and reinforced hull)
+- **Hit Points**: 800 (damage threshold 20)
 - **Speed**: 80 ft. (sailing), 15 ft. (rowing)
 - **Crew**: Requires a crew of 40 to function. Skeleton crew: 20.
 

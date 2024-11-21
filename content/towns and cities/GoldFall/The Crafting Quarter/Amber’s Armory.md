@@ -16,23 +16,23 @@
 
 ## Services & Items
 
-|Item|Description|Price (gp)|
-|---|---|---|
-|Moonblade Shortsword|A rare weapon forged with moonlight-infused steel, grants +1 to damage rolls at night|300 gp|
-|Dragonbone Longbow|A bow crafted from dragon bones, grants +2 to damage rolls|400 gp|
-|Tidal Wave Scimitar|A scimitar made from the spine of a sea creature, grants +1 to attack rolls and deals extra 1d6 water damage|250 gp|
-|Poisoned Dagger|A dagger coated with a lethal poison, grants an additional 2d6 poison damage on a hit|150 gp|
-|Frostforged Sword|A longsword crafted from ice and enchanted to deal extra cold damage (1d6)|200 gp|
-|Sunlight Greatsword|A sword that glows in sunlight, dealing extra 1d6 radiant damage in daylight|350 gp|
-|Arcane Blunderbuss|A magical firearm that deals 2d6 force damage and is reloadable with arcane bullets|500 gp|
-|Phantom Chainwhip|A whip that extends up to 20 ft, grants advantage on Dexterity-based checks to disarm opponents|250 gp|
-|Celestial Spear|A spear forged by celestial beings, grants +1 to attack rolls and additional radiant damage on a hit|500 gp|
-|Cursed Sword of the Fallen|A cursed sword that deals 2d6 necrotic damage, but drains 1 HP from the wielder every time it strikes|200 gp|
-|Venom Fang Crossbow|A crossbow that shoots poisonous bolts, inflicts an additional 1d6 poison damage on a hit|300 gp|
-|Raging Battleaxe|A battleaxe that grants +1 to attack rolls and rage-like resistance to damage for 1 minute once per day|400 gp|
-|Blood Moon Katana|A katana that deals extra 1d4 necrotic damage and grants advantage on Stealth checks in darkness|350 gp|
-|Thunderclap Warhammer|A warhammer that creates a loud thunderclap upon impact, stunning enemies for 1 round (DC 14 Con save)|250 gp|
-|Whispering Sword|A sword that allows the wielder to speak telepathically to anyone they hit with it|500 gp|
+| Item                       | Description                                                                                                 | Price (gp) |
+| -------------------------- | ----------------------------------------------------------------------------------------------------------- | ---------- |
+| Moonblade Shortsword       | A rare weapon forged with moonlight-infused steel, grants +1 to damage rolls at night                       | 300 gp     |
+| Dragonbone Longbow         | A bow crafted from dragon bones, grants +2 to damage rolls                                                  | 500 gp     |
+| Tidal Wave Scimitar        | A scimitar made from the spine of a sea creature, grants +1 to attack rolls and deals extra 1d6 cold damage | 250 gp     |
+| Poisoned Dagger            | A dagger coated with a lethal poison, grants an additional 2d6 poison damage on a hit                       | 150 gp     |
+| Frostforged Sword          | A longsword crafted from ice and enchanted to deal extra cold damage (1d6)                                  | 200 gp     |
+| Sunlight Greatsword        | A sword that glows in sunlight, dealing extra 1d6 radiant damage in daylight                                | 350 gp     |
+| Arcane Blunderbuss         | A magical firearm that deals 2d6 force damage and is reloadable with arcane bullets                         | 500 gp     |
+| Phantom Chainwhip          | A whip that extends up to 20 ft, grants advantage on Dexterity-based checks to disarm opponents             | 250 gp     |
+| Celestial Spear            | A spear forged by celestial beings, grants +1 to attack rolls and additional radiant damage on a hit        | 500 gp     |
+| Cursed Sword of the Fallen | A cursed sword that deals 2d6 necrotic damage, but drains 1 HP from the wielder every time it strikes       | 200 gp     |
+| Venom Fang Crossbow        | A crossbow that shoots poisonous bolts, inflicts an additional 1d6 poison damage on a hit                   | 300 gp     |
+| Raging Battleaxe           | A battleaxe that grants +1 to attack rolls and rage-like resistance to damage for 1 minute once per day     | 400 gp     |
+| Blood Moon Katana          | A katana that deals extra 1d4 necrotic damage and grants advantage on Stealth checks in darkness            | 350 gp     |
+| Thunderclap Warhammer      | A warhammer that creates a loud thunderclap upon impact, stunning enemies for 1 round (DC 14 Con save)      | 250 gp     |
+| Whispering Sword           | A sword that allows the wielder to speak telepathically to anyone they hit with it                          | 500 gp     |
 
 ---
 

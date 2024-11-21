@@ -1514,5 +1514,5 @@ Hit: 1 piercing damage.
 &nbsp;  
 &nbsp;  
 &nbsp;  
-if you roll a 1 after you get a duck you instead get this oddly low quality version instead
-![[Pasted image 20241113233347.png]]
+if you roll a 1 after you get a duck you instead get this one
+![[Pasted image 20241120205754.png]]

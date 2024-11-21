@@ -1,4 +1,18 @@
-**Content:**
 
-- **[Ghost Captain Barbarossa](#)**: The fearless and moral captain of the Silent Wave, returned to guide her crew in undeath.
-- **[Navigator Kaelen “Quiet Star”](#)**: A quiet tiefling who guided the ship by starlight and passed on his knowledge to Arlo.
+## Crew Members
+
+- [[Ghost Captain Barbarossa]]
+- [[Armorer - Hector ''Ironshaper'' Montague]]
+- [[Cook - Jareth ''Saltspice'' Greaves]]
+- [[First Mate - Morganna ''Iron Vow'']]
+- [[Ghost Navigator - Kaelen “Quiet Star”]]
+- [[Gunner - Seraphine “Boom Boom” Voss]]
+- [[Healer - Father Abram ''Bones'' Caerwyn]]
+- [[Helmsman - Calista ''Wavebreaker'' Moira]]
+- [[Lookout - Byron ''Eagle Eye'' Castell]]
+- [[Musician - Delphine ''Songwind'' Lorelei]]
+- [[Quartermaster - Elias ''Coinkeeper'' Brant]]
+- [[Scout - Finn ''Whisper'' Carrick]]
+- [[Scout - Tahlia ''Shadowstep'' Fenn]]
+- [[Shipwright - Fargrim “Steelfingers” Stonebeard]]
+- [[Singer - Lira ''Siren's Call'' Velthar]]

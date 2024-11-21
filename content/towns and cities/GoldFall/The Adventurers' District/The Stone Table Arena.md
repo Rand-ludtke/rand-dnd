@@ -25,19 +25,19 @@
 
 ## Services & Items
 
-|Item|Description|Price (gp)|
-|---|---|---|
-|**Entry Fee**|Fee to enter the pit and compete in a public match.|10 gp|
-|**Training Session**|Private combat training session with a seasoned fighter.|50 gp|
-|**Gold Fight**|Special challenge match where the winner receives a cash prize.|100 gp|
-|**Honor Duel**|A formal, one-on-one duel, often for prestige or personal matters.|200 gp|
-|**Gladiator’s Outfit**|A finely crafted set of light armor, designed for agility in the pit.|50 gp|
-|**Brawler’s Gauntlets**|Enchanted gloves that enhance unarmed strikes, granting +1 to damage rolls.|75 gp|
-|**Arena Healer**|A potion that quickly heals minor wounds, perfect for post-fight recovery.|20 gp|
-|**Champion’s Medal**|A prestigious medal awarded to top fighters, granting advantage on intimidation checks in the arena.|100 gp|
-|**Adrenaline Potion**|A potion that boosts strength, granting +2 to attack rolls for 1 hour.|30 gp|
-|**Victory Banner**|A banner awarded to winners that can be displayed in the arena or at a personal residence.|50 gp|
-|**Fighting Tome**|A book that contains tactical combat strategies and techniques used by famous gladiators.|75 gp|
+| Item                    | Description                                                                                          | Price (gp) |
+| ----------------------- | ---------------------------------------------------------------------------------------------------- | ---------- |
+| **Entry Fee**           | Fee to enter the pit and compete in a public match.                                                  | 10 gp      |
+| **Training Session**    | Private combat training session with a seasoned fighter.                                             | 50 gp      |
+| **Gold Fight**          | Special challenge match where the winner receives a cash prize.                                      | 100 gp     |
+| **Honor Duel**          | A formal, one-on-one duel, often for prestige or personal matters.                                   | 200 gp     |
+| **Gladiator’s Outfit**  | A finely crafted set of light armor, designed for agility in the pit.                                | 50 gp      |
+| **Brawler’s Gauntlets** | Enchanted gloves that enhance unarmed strikes, granting +1 to damage rolls.                          | 75 gp      |
+| **Arena Healer**        | A potion that quickly heals minor wounds, perfect for post-fight recovery.                           | 20 gp      |
+| **Champion’s Medal**    | A prestigious medal awarded to top fighters, granting advantage on intimidation checks in the arena. | 100 gp     |
+| **Adrenaline Potion**   | A potion that boosts strength, granting +2 to attack rolls for 1 hour.(may have adverse affects)     | 30 gp      |
+| **Victory Banner**      | A banner awarded to winners that can be displayed in the arena or at a personal residence.           | 50 gp      |
+| **Fighting Tome**       | A book that contains tactical combat strategies and techniques used by famous gladiators.            | 75 gp      |
 
 ---
 
