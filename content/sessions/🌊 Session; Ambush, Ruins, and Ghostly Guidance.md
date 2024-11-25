@@ -9,27 +9,6 @@ draft: true
 
 ---
 
-## **1. En Route Ambush: Master Assassin Attack**
-
-**Location**: A forested clearing on the road to Angel’s Fall  
-**Objective**: The party’s rogue is specifically targeted in a nighttime ambush by an elite assassin employed by the Moonlight Pirates.
-
-- **Master Assassin**: Name: **Sable Thornblade**
-    - **Appearance**: Cloaked in dark leather armor, wearing a half-mask, wielding dual daggers coated in poison. He has smoke bombs and an array of vials for quick escapes.
-    - **Abilities**: Skilled in stealth and high-level rogue abilities like _Uncanny Dodge_, _Evasion_, and _Sneak Attack_.
-
-### Encounter Mechanics
-
-- **Initiation**: Sable silently approaches the camp. Players can make a Perception check (DC 16) to spot Sable’s approach, especially if the rogue is on watch.
-    - **Success**: The party spots Sable sneaking up, allowing them to react without a _Surprise Round_. If failed, Sable attacks the rogue with advantage, aiming for maximum damage.
-    - **Smoke Bombs**: Sable throws a smoke bomb (use _Fog Cloud_ mechanics) to create chaos if cornered, giving him an advantage to escape if necessary.
-
-### Key Drops
-
-- **Clues Left Behind**: If Sable is defeated, he leaves a letter that says it was ordered by the now deceased Hulil Lutan.
-
----
-
 ## **2. Arrival in Angel's Fall: Tense Atmosphere and Key Information**
 
 **Location**: The coastal town of Angel’s Fall  

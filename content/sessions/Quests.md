@@ -19,7 +19,7 @@ draft: true
 
 ---
 
-### **1. Ghost Lights on the Coast** _(Semi-Easy)_
+### **1. Ghost Lights on the Coast** _(Semi-Easy)_ Done
 
 **Setting**: A rocky coastline with jagged cliffs and tidepools.
 
@@ -51,7 +51,7 @@ draft: true
     - A cursed silver ring (flavor item).
 
 ---
-
+ 
 ### **2. A Witch’s Favor** _(Moderate)_
 
 **Setting**: Forest clearing near the village of Thornwood.

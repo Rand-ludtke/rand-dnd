@@ -13,7 +13,7 @@ This cloak allows the user to store and summon birds from a dimensional storage 
 - **5 Bird Points**: Legendary Birds (max 2)
 
 ### Random Bird Modifiers
-When summoning a bird(1 point birds only for now), roll a d20. On a roll of 18-20, the bird gains a special modifier. Roll a d8 to determine the modifier effect.
+When summoning a bird(1 point birds only for now), roll a d20. On a roll of 19-20, the bird gains a special modifier, 20 can be ???. Roll a d8 to determine the modifier effect.
 
 | Roll (d20) | Modifier Type            | Effect                                                                                                                                                                   |
 | ---------- | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
