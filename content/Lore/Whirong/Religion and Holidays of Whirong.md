@@ -1,0 +1,8 @@
+The **Republic of Whirong** primarily follows **Oghma**, the god of knowledge, wisdom, and invention. His teachings emphasize the pursuit of knowledge, intellectual freedom, and the dissemination of information. Oghma's followers are scholars, inventors, and those who seek to expand their understanding of the world around them.
+
+**Major Festivals and Holidays**:
+
+- **The Festival of Discovery**: Celebrated during the **spring equinox**, this holiday marks the beginning of the scholarly year. Inventors, artificers, and academics hold showcases of their inventions and discoveries, while citizens engage in debates and discussions on a variety of intellectual topics.
+- **Oghma’s Day**: Held annually on the **first day of summer**, Oghma’s Day is a national holiday. It celebrates the god of knowledge, with public lectures, exhibitions, and scholarly gatherings. It is also a day of reflection for the people of Whirong to consider the moral implications of knowledge and discovery.
+- **The Forge’s Flame**: In late autumn, Whirong honors the **Artificers Association** and its contributions to the nation. Weapons, golems, and magical devices are displayed during a grand ceremony, with competitions in crafting, combat, and magic.
+- **The Day of Unity**: A somber holiday, marking the victory over the secessionist cities during the **Mercenary Wars**. It’s a day for the citizens of Whirong to reflect on their unity and the cost of maintaining peace.
