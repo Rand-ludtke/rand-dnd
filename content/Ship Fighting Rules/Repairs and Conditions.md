@@ -69,7 +69,43 @@ When a ship takes significant damage, it may fall into various conditions that a
     
     - **Effect:** The ship’s **speed is reduced**, and it has difficulty rotating.
     - **Repair Method:** Requires a **Strength** or **Dexterity** check with a **DC 18** to temporarily stabilize the mast. Replacing it requires a **Repair All** action and significant time.
+## **Fire Conditions**
 
+Fires can spread quickly on ships and cause significant damage if not controlled.
+
+### **Causes of Fire**
+
+- **Explosive or Incendiary Shot** hitting the hull, sails, or deck.
+- **Critical Hits** from fire-related attacks.
+
+### **Effects of Fire**
+
+- **Fire Spread:** Fire spreads **10 feet** per round if not extinguished.
+- **Damage Over Time:** A ship on fire takes **1d6 fire damage** per round per active fire.
+- **Disabling Effects:** Fire can disable specific stations (e.g., gunners, sails, or rigging) if it spreads to their locations.
+
+### **Extinguishing Fire**
+
+- **Repair Action:** A repair action can be used to extinguish fires instead of repairing damage.
+    - **Check:** Requires a **Strength or Dexterity Check (DC 15)** by the crew or a specific character.
+    - **Fire Suppression Equipment:** Ships equipped with buckets, pumps, or magical means gain advantage on fire-extinguishing checks.
+    - **Magic:** Spells like _Create Water_ or _Control Flames_ can also be used to put out fires.
+
+---
+
+## **Other Conditions**
+
+### **Flooding**
+
+- **Cause:** Critical hits to the hull or failed checks in hazardous conditions.
+- **Effect:** Water fills the ship, reducing its speed by **10 feet per round** and imposing disadvantage on navigation checks.
+- **Repair:** Requires **2 repair actions** to patch holes and remove water.
+
+### **Damaged Masts**
+
+- **Cause:** Critical hits or targeted attacks to the mast.
+- **Effect:** Speed is reduced by **half** until the mast is repaired.
+- **Repair:** Requires a **DC 18 Strength or Carpenter’s Tools Check** to replace or repair the mast.
 ---
 
 ### **Repair Example**
