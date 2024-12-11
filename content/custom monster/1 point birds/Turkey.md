@@ -2750,3 +2750,38 @@ Hit: 2 piercing damage.
 &nbsp;  
 if you roll a 20 after getting penguin you can get the sponsorship turkey
 ![[Pasted image 20241120210040.png]]
+**Sponsorship Turkey**
+_Medium Humanoid, Neutral Good_
+
+**Armor Class:** 13 (fluffy costume)  
+**Hit Points:** 30 (6d6+6)  
+**Speed:** 30 ft.
+
+**STR** 14 (+2)  
+**DEX** 10 (+0)  
+**CON** 14 (+2)  
+**INT** 10 (+0)  
+**WIS** 12 (+1)  
+**CHA** 16 (+3)
+
+**Skills:** Persuasion +5  
+**Senses:** Passive Perception 12  
+**Languages:** Common, Canadian
+
+**Challenge:** 1 (200 XP)
+
+**Traits:**
+
+- **Canadian Hospitality:** Once per day, they can offer an opponent a maple syrup snack, granting them disadvantage on their next attack against the turkey.
+- **Pistol Misfire:** When they attack with the pistol, there’s a 50% chance it misfires and causes no damage.
+- **Sponsorship Ad (1/Day).** The Canadian Turkey can take an action to promote his sponsor. All creatures within 30 feet must succeed on a DC 12 Wisdom saving throw or be charmed for 1 minute while he loudly endorses a brand, causing distraction and confusion. Creatures charmed by this effect must give the sponsor 1d6 gold after the promotion ends.
+- **Gobble of Power.** As a bonus action, the Canadian Turkey can raise his voice in a loud gobble that inspires those nearby. All creatures within 30 feet that can hear him gain advantage on their next attack roll or ability check. The turkey regains 1d4 hit points for each creature that succeeds in using their advantage.
+
+**Actions:**
+
+- **Turkey Squawk (Melee Weapon Attack):** +3 to hit, reach 5 ft., one target. _Hit:_ 4 (1d6+2) bludgeoning damage.
+- **Pistol Shot (Ranged Weapon Attack):** +3 to hit, range 30/90 ft., one target. _Hit:_ 6 (1d8+2) piercing damage.
+  
+#### **Sponsor Message**
+
+This Canadian Turkey is proudly sponsored by the [Fine Feathered Friends Store](https://texasbutchers.com/), where you can get all the freshest grains and seeds to make your poultry dreams come true! Visit [www.finefeathers.com](https://www.youtube.com/watch?v=dQw4w9WgXcQ) for a 10% discount with the code "TURKEYPOWER" at checkout!

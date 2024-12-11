@@ -1515,4 +1515,42 @@ Hit: 1 piercing damage.
 &nbsp;  
 &nbsp;  
 if you roll a 1 after you get a duck you instead get this one
-![[Pasted image 20241120205754.png]]
+![[Pasted image 20241120205754.png]] 
+**Donald Duck**
+
+_Tiny humanoid (duck), chaotic good_
+
+**Armor Class** 14 (leather armor)  
+**Hit Points** 27 (5d6 + 10)  
+**Speed** 25 ft.
+
+**STR** 10 (+0)  
+**DEX** 15 (+2)  
+**CON** 14 (+2)  
+**INT** 10 (+0)  
+**WIS** 8 (-1)  
+**CHA** 16 (+3)
+
+**Skills** Acrobatics +4, Intimidation +5, Performance +5  
+**Senses** passive Perception 9  
+**Languages** Common, Duck
+
+**Challenge** 1/2 (100 XP)
+
+**TRAITS**
+
+**Short Tempered.** Donald has disadvantage on saving throws against being Frustrated. If he is hit by an attack, he must succeed on a DC 12 Wisdom saving throw or take 1d6 psychic damage from his overwhelming rage.
+
+**Quack Attack (Recharge 5-6).** Donald unleashes a sonic quack as an action. Each creature within 15 feet must make a DC 14 Constitution saving throw or take 2d6 thunder damage and be deafened until the end of their next turn.
+
+**Short Fuse:** When Donald is reduced to half of his hit points or less, he becomes enraged and gains advantage on all attack rolls until the end of his turn.
+
+---
+
+**ACTIONS**
+
+**Flap Attack.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6 + 2) slashing damage.
+
+**Quack-Quack! (Recharge 5-6).** _Ranged Weapon Attack:_ +4 to hit, range 30/60 ft., one target. _Hit:_ 7 (2d6) thunder damage, and the target must make a DC 12 Constitution saving throw or be stunned until the end of its next turn.
+
+**Donald’s “Great” Inspiration (1/Day).** As a bonus action, Donald can inspire himself to take a turn without thinking straight. He gains advantage on his next attack roll, ability check, or saving throw, but suffers a -2 penalty to his next next attack roll.

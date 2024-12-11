@@ -1,4 +1,4 @@
-ynakyurt celebrates several important **holidays** based on religious observances, royal traditions, and the kingdom’s martial culture. These festivals are a reflection of Torm’s influence, as well as the kingdom’s deep respect for courage, sacrifice, and justice.
+Aynakyurt celebrates several important **holidays** based on religious observances, royal traditions, and the kingdom’s martial culture. These festivals are a reflection of Torm’s influence, as well as the kingdom’s deep respect for courage, sacrifice, and justice.
 
 #### **Honoring the Sacred Blade** (Mid-Spring)
 

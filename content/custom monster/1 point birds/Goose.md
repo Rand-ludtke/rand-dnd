@@ -1518,3 +1518,39 @@ Hit: 2 piercing damage.
 &nbsp;  
 if you roll a 1 after you get a duck you instead get this oddly low quality version instead
 ![[Pasted image 20241113233347.png]]
+**Porygon**
+
+_Small construct, neutral_
+
+**Armor Class** 15 (natural armor)  
+**Hit Points** 25 (5d6 + 10)  
+**Speed** 30 ft.
+
+**STR** 10 (+0)  
+**DEX** 12 (+1)  
+**CON** 14 (+2)  
+**INT** 15 (+2)  
+**WIS** 10 (+0)  
+**CHA** 8 (-1)
+
+**Skills** Investigation +4  
+**Senses** darkvision 60 ft., passive Perception 10  
+**Languages** Understands Common, but cannot speak
+
+ **Challenge** 1/2 (100 XP)
+
+**TRAITS**
+
+**Pixelated Form.** Porygon has resistance to lightning and force damage, but vulnerability to psychic damage.
+
+**Download.** When Porygon is hit by a creature's attack, it can choose to increase its next attack roll by +2 if the creature is an enemy, or heal 1d6 hit points if the creature is an ally.
+
+---
+
+**ACTIONS**
+
+**Tackle.** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 2) bludgeoning damage.
+
+**Conversion (Recharge 4-6).** Porygon changes the type of its next attack to either fire, water, or electric damage (Porygon chooses). The attack does an additional 2d6 damage of that type.
+
+**Hyper Beam (Recharge 5-6).** _Ranged Spell Attack:_ +4 to hit, range 30/90 ft., one target. _Hit:_ 8 (2d6 + 1) force damage, and the target must make a DC 14 Constitution saving throw or be stunned until the end of its next turn.

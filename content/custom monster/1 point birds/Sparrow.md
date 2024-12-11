@@ -4517,4 +4517,36 @@ Hit: 1 piercing damage.
 
 
 
-roll a 20 after getting this you Captain Jack Sparrow![[Pasted image 20241120205416.png]]
+roll a 20 after getting this you Captain Jack Sparrow
+![[Pasted image 20241120205416.png]]
+
+**Captain Jack Sparrow**
+
+_Medium Humanoid, Chaotic Neutral_
+
+**Armor Class:** 14 (with rum)  
+**Hit Points:** 38 (8d6)  
+**Speed:** 30 ft.
+
+**STR** 10 (+0)  
+**DEX** 16 (+3)  
+**CON** 14 (+2)  
+**INT** 14 (+2)  
+**WIS** 10 (+0)  
+**CHA** 18 (+4)
+
+**Skills:** Deception +6, Acrobatics +5  
+**Senses:** Passive Perception 10  
+**Languages:** Common, Pirate
+
+**Challenge:** 2 (450 XP)
+
+**Traits:**
+
+- **Always Drunk:** Jack has disadvantage on all Dexterity saving throws, but he can use a bonus action to make any failed saving throw a success once per short rest.
+- **Ship's Luck:** Once per day, Jack can roll a d20 when he would fail a roll. On a 10 or higher, he succeeds instead.
+
+**Actions:**
+
+- **Cutlass Slash (Melee Weapon Attack):** +5 to hit, reach 5 ft., one target. _Hit:_ 7 (1d8+3) slashing damage.
+- **Rum Charm (Recharge 5-6):** Jack swigs from his flask and makes all creatures within 30 feet make a DC 16 Constitution saving throw. On a failure, they become poisoned for 1 minute.

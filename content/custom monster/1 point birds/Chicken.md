@@ -2460,5 +2460,37 @@ Hit: 2 piercing damage.
 &nbsp;  
 &nbsp;  
 &nbsp;  
-if you roll a 20 after getting penguin you can get this fella
+if you roll a 20 after getting chicken you can get this fella
 ![[Pasted image 20241124204353.png]]
+
+**Chicken Little**
+
+_Tiny Beast, Chaotic Good_
+
+**Armor Class:** 12  
+**Hit Points:** 10 (4d4)  
+**Speed:** 30 ft.
+
+**STR** 6 (-2)  
+**DEX** 14 (+2)  
+**CON** 10 (+0)  
+**INT** 8 (-1)  
+**WIS** 13 (+1)  
+**CHA** 16 (+3)
+
+**Skills:** Perception +3  
+**Senses:** Passive Perception 13  
+**Languages:** Common, Chicken
+
+**Challenge:** 1/4 (50 XP)
+
+**Traits:**
+
+- **The Sky is Falling!** Once per day, Chicken Little can scream and cause a commotion, causing all creatures within 30 feet to make a DC 13 Wisdom saving throw or become frightened for 1 minute.
+- **Flight of Panic:** Chicken Little can Dash as a bonus action when they are within 10 feet of an enemy.
+- **The Sky is Actually Falling!!!** when summoned there is a 10% chance for the sky to fall
+
+**Actions:**
+
+- **Flurry of Feathers (Melee Weapon Attack):** +4 to hit, reach 5 ft., one target. _Hit:_ 3 (1d4+2) slashing damage.
+- **Scream for the Sky (Recharge 5-6):** Chicken Little lets out a horrified scream. All creatures within 30 feet must make a DC 13 Constitution saving throw or become stunned until the end of their next turn.
