@@ -1,12 +1,20 @@
-### **Scaling for Vengeance Points (VP)**
+## **How To Gain Vengeance Points (VP)**
 
-We’ll adjust the **Vengeance Points (VP)** system to ensure the rewards from harder encounters are more impactful, especially for high-difficulty monsters like dragons. Here’s a more granular, adjusted **VP formula**:
+- When a Vengeance Paladin uses their **Vow of Enmity** ability they also apply a **Mark of Vengeance** that allows for the gaining of VP from that enemy. 
+- This Mark does not transfer with the **Vow of Enmity** and can only be applied once per combat.
+- The Paladin must have some kind of grudge or reason for **vengeance/revenge** to be able to apply this to an enemy(whether it be petty or not)
+- After the enemy is **dead** the corpse or a part of it must be placed in **blessed water/ the sea** to gain the VP
+- If the target is alive for **1d4 days** the mark will disappear and the Paladin may result in a **loss of VP** (this also applies if the Paladin loses their reason for vengeance)
+
+## **Scaling for Vengeance Points (VP)**
+
+The **Vengeance Points (VP)** system is adjusted to ensure the rewards from harder encounters are more impactful, especially for high-difficulty monsters like dragons. Here’s a more granular, **VP formula**:
 
 **Formula for VP Scaling:**
 
-Vengeance Points=(Enemy’s CR−Player’s Level)×Difficulty Multiplier\text{Vengeance Points} = (\text{Enemy's CR} - \text{Player's Level}) \times \text{Difficulty Multiplier}Vengeance Points=(Enemy’s CR−Player’s Level)×Difficulty Multiplier
+Vengeance Points=(Enemy’s CR−Player’s Level)×Difficulty Multiplier x Vengeance level(dm decides if there is an extra multiplier for how much you hate the enemy)
 
-### **Difficulty Multiplier**
+## **Difficulty Multiplier**
 
 - **Dragon / Major Boss Fight** (e.g., dragons, liches, archfiends, etc.): **x40**
 - **Hard Fight** (e.g., powerful bandit leaders, large groups of elite enemies): **x15**
@@ -21,7 +29,7 @@ Vengeance Points=(Enemy’s CR−Player’s Level)×Difficulty Multiplier\te
     (10−5)×40=200 VP(10 - 5) \times 40 = 200 \text{ VP}(10−5)×40=200 VP
 - **Ogre (CR 2) vs Level 5 Paladin**
     
-    (2−5)×5=−15 VP(Nopointsearned,butstilladecentfight)(2 - 5) \times 5 = -15 \text{ VP} (No points earned, but still a decent fight)(2−5)×5=−15 VP(Nopointsearned,butstilladecentfight)
+    (2−5)×5=−15 VP(No points earned, but still a decent fight)(2 - 5) \times 5 = -15 \text{ VP} (No points earned, but still a decent fight)(2−5)×5=−15 VP(No points earned, but still a decent fight)
 - **Goblin (CR 1/4) vs Level 5 Paladin**
     
     (0.25−5)×2=0 VP(0.25 - 5) \times 2 = 0 \text{ VP}(0.25−5)×2=0 VP
@@ -38,11 +46,15 @@ Your journey for vengeance unlocks powerful abilities and physical items as you 
 
 ---
 
-### **Minor Thresholds & Abilities**
+## **Minor Thresholds & Abilities**
 
+#### **50 VP - ???**
+
+- **Passive**: You gain **???** every once in a while during **???, ???, or ???**
+- **Active until** VP drops below 50.
 #### **100 VP - Sea’s Favor**
 
-- **Passive**: You gain **advantage** on Wisdom saving throws when near water.
+- **Passive**: You gain **advantage** on Wisdom saving throws when in the water.
 - **Active until** VP drops below 100.
 
 #### **250 VP - Tidal Resilience**
@@ -82,7 +94,7 @@ Your journey for vengeance unlocks powerful abilities and physical items as you 
 
 ---
 
-### **Major Thresholds**
+## **Major Thresholds**
 
 #### **50,000 VP - Descent of the Sea Angel (Purchase)**
 
@@ -164,9 +176,14 @@ These physical items are granted by the Sea Angel in response to prayer and devo
 
 ---
 
-## **3. Consumable Powers (Purchasable)**
+## **Consumable Powers (Purchasable)**
 
 Consumable items for buffs, debuffs, and special attacks. These can be purchased at various VP costs.
+
+#### **25-1000 VP - Ask A Question**
+
+- During a short or long rest or at an Alter/statue you may ask the sea angel a single question(once every other day)
+- Replies may vary in form and depending on the question a different number of VP may be required
 
 
 #### **50 VP - Echoing Strike**

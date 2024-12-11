@@ -5,6 +5,7 @@ _"A more straightforward, reliable firearm favored by sharpshooters and mercenar
 - **Ranged Weapon Attack:** (Dexterity + Proficiency Bonus)  to hit
 - **Range:** 30/120 ft.
 - **Damage:** 10 (1d10 +dex) piercing damage
+- **Ammo:** 6(less if its a different Firearm) shots then must spend an action to reload
 
 ### **Background:**
 

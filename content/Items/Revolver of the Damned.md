@@ -5,6 +5,7 @@ _"A weapon forged in the fires of vengeance, its dark essence resonates with the
 - **Ranged Weapon Attack:** (Dexterity + Proficiency Bonus) +2 to hit
 - **Range:** 30/120 ft.
 - **Damage:** 5 (1d10 + 2 + dex) piercing damage
+- **Ammo:** 6 shots then must spend an action to reload
 - **Critical Effect:** On a critical hit, the revolver deals an additional 10 (3d6) necrotic damage.
 
 ### **Background:**
@@ -16,8 +17,8 @@ This weapon glows faintly under the light of the full moon, its grip cold to the
 #### **Flavor Text:**
 
 Legends claim that every soul struck by the revolver becomes part of its essence, feeding its insatiable hunger for despair. Those who wield the weapon too long find their own shadows growing darker, and their dreams haunted by the cries of the damned.
+![[Pasted image 20241209165258.png]]
 
-
 &nbsp;  
 &nbsp;  
 &nbsp;  
@@ -2538,7 +2539,7 @@ Legends claim that every soul struck by the revolver becomes part of its essence
 &nbsp;  
 &nbsp;  
 &nbsp;  
-## **The Curse of the Damned**
+ **The Curse of the Damned**
 
 The _Revolver of the Damned_ corrupts its wielder with every use, binding their soul closer to its malevolent power. Each time the wielder fires the revolver, they gain **1 point of Corruption**.
 
@@ -2546,15 +2547,15 @@ As Corruption accumulates, the revolver’s influence manifests in increasingly 
 
 ---
 
-### **Corruption Thresholds**
+ **Corruption Thresholds**
 
-#### **0–10 Corruption Points: Awakening the Whisper**
+ **0–50 Corruption Points: Awakening the Whisper**
 
 - **Effect:** None. The wielder may notice faint whispers or shadows at the edge of their vision, but these are harmless and ignorable.
 
 ---
 
-#### **11–25 Corruption Points: Shadow-Touched**
+ **50–75 Corruption Points: Shadow-Touched**
 
 - The wielder's presence feels slightly off to others, as shadows linger unnaturally. Animals shy away, and faint whispering grows louder.
 - **Effect:** The wielder gains darkvision out to 60 ft. (or increases their existing darkvision by 30 ft.).
@@ -2562,15 +2563,15 @@ As Corruption accumulates, the revolver’s influence manifests in increasingly 
 
 ---
 
-#### **26–50 Corruption Points: Warden of Shadows**
+ **75–100 Corruption Points: Warden of Shadows**
 
-- The revolver begins to feed off the wielder’s emotions, amplifying anger and despair. The whispers are now impossible to ignore, urging acts of vengeance.
+- The revolver begins to feed off the wielder’s emotions, amplifying anger and despair. The whispers are now impossible to ignore, urging acts of wrath and destruction.
 - **Effect:** The revolver's necrotic damage on critical hits increases to **4d6**, and its piercing damage increases to **1d12**.
 - **Drawback:** The wielder suffers disadvantage on Wisdom (Insight) and Charisma (Persuasion) checks.
 
 ---
 
-#### **51–75 Corruption Points: Marked by the Damned**
+ **100–150 Corruption Points: Marked by the Damned**
 
 - The wielder’s physical appearance begins to change subtly. Their eyes darken, veins near the hands blacken, and their voice takes on an echoing, hollow quality.
 - **Effect:** The wielder gains resistance to necrotic damage.
@@ -2578,7 +2579,7 @@ As Corruption accumulates, the revolver’s influence manifests in increasingly 
 
 ---
 
-#### **76–100 Corruption Points: Soul-Bound Avatar**
+ **150–300 Corruption Points: Soul-Bound Avatar**
 
 - The revolver fully binds to the wielder's soul, granting immense power at a terrible cost. They now act as an extension of the weapon's will.
 - **Effect:**
@@ -2587,11 +2588,11 @@ As Corruption accumulates, the revolver’s influence manifests in increasingly 
     - The wielder has advantage on attack rolls made with the revolver.
 - **Drawback:**
     - The wielder cannot willingly part with the revolver.
-    - At the start of combat, the wielder must attack the nearest enemy immediately as a bonus action. If no enemies are present, the wielder targets the nearest living creature.
+    - At the start of the turn, the wielder must attack the nearest enemy immediately as an action. If no enemies are in sight, the wielder targets the nearest living creature.
 
 ---
 
-#### **101+ Corruption Points: The Damned One**
+ **300+ Corruption Points: The Damned One**
 
 - The wielder is consumed entirely by the revolver’s dark essence, becoming a mindless avatar of vengeance and death. Their soul is irrevocably lost.
 - **Effect:** The wielder is no longer under their own control, becoming an NPC antagonist controlled by the DM.
@@ -2599,7 +2600,7 @@ As Corruption accumulates, the revolver’s influence manifests in increasingly 
 
 ---
 
-### **Removing the Curse**
+**Removing the Curse**
 
 The curse cannot be removed through ordinary magical means, such as _Remove Curse_. To break the bond, the revolver must be destroyed at a place of consecrated vengeance or redemption (e.g., a shrine of justice or a god of retribution).
 

@@ -6,8 +6,8 @@ draft: true
 
 #### **Table of Contents**
 
-1. [Ghost Lights on the Coast](#ghost-lights-on-the-coast) _(Semi-Easy)_
-2. [A Witch’s Favor](#a-witchs-favor) _(Moderate)_
+1. [Ghost Lights on the Coast](#ghost-lights-on-the-coast) _(Semi-Easy)_ done
+2. [A Witch’s Favor](#a-witchs-favor) _(Moderate)_done
 3. [A Festival to Die For](#a-festival-to-die-for) _(Semi-Easy to Moderate)_
 4. [The Blighted Grove](#the-blighted-grove) _(Moderate)_
 5. [The Silent Tide](#the-silent-tide) _(Moderate to Deadly)_
@@ -52,7 +52,7 @@ draft: true
 
 ---
  
-### **2. A Witch’s Favor** _(Moderate)_
+### **2. A Witch’s Favor** _(Moderate)_ done
 
 **Setting**: Forest clearing near the village of Thornwood.
 
