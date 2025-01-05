@@ -46,3 +46,5 @@ _Hit:_ 6 (1d8 + 2) piercing damage.
 Steve is a scrappy, sarcastic goblin who enjoys stealing trinkets, telling tall tales, and confusing anyone who asks about his past. Despite his chaotic nature, he has a knack for charming (or annoying) his way out of trouble. Steve's leather armor is patched together with random scraps, and his oversized boots make a _clomp-clomp_ sound when he walks.
 
 Although he prefers to avoid direct confrontations, Steve has a surprising streak of bravery when his friends are in danger—or when treasure is involved.
+
+He also may or may not be the Dm's Dad...

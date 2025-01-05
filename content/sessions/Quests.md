@@ -251,35 +251,102 @@ draft: true
 
 ---
 
-### **8. Wreck of the Stormcaller** _(Deadly)_
+### **8.  **Wreck of the Stormcaller** _(Deadly)_
 
-**Setting**: A haunted shipwreck washed ashore during a storm.
+**Quest Giver**:  
+**Vernan Driftwind** – A storm-battered sailor in his late 50s with sun-bleached hair and a peg leg. Vernan was the only survivor of the _Stormcaller_'s wreck and believes the ship’s curse is the reason for his ill fortune.
 
-#### **Quest Details**
+- Vernan approaches the party in a seaside tavern, offering a **sapphire worth 400 gold** if they purge the ship of its curse and retrieve the treasure from the captain's hold.
+- **Insight DC 14**: Vernan is genuinely desperate but hides the fact that he’s been hearing whispers from the banshee captain in his dreams.
 
-- **Quest Giver**: A storm-battered sailor offering a sapphire worth 400 gold.
+---
+
+### **Quest Objectives**
+
+1. Explore the _Stormcaller_ wreck, overcoming environmental hazards and ghostly apparitions.
+2. Defeat the ghostly crew and the **Banshee Captain Nyra Stormsoul**, whose rage binds the ship’s curse.
+3. Discover the ancient nautical map hidden within the captain’s hold.
+
+---
+
+### **The Wreck of the Stormcaller**
+
+**Location**:  
+The _Stormcaller_ is a massive, decaying shipwreck washed ashore on jagged rocks. Half of the ship is buried under sand, while the other half tilts at an ominous angle, creaking with every gust of wind. The storm seems unnaturally heavy around the wreck.
+
+**Skill Checks for Exploration**:
+
+1. **Navigating the Deck**:
     
-- **Quest Steps**:
+    - Rotting wood makes the deck dangerous to traverse.
+    - **Dexterity (Acrobatics) DC 13**: Avoid slipping through a weak section of the deck. Falling deals 2d6 bludgeoning damage as the character plummets into the lower hold.
+2. **Collapsing Beams**:
     
-    1. Explore the wreck, avoiding collapsing beams and waterlogged traps.
-    2. Face ghostly crew members, each tied to their former roles aboard the ship.
-    3. Defeat the banshee captain in the ship’s hold.
-- **Key Encounter Details**:
+    - **Perception DC 12**: Spot unstable support beams.
+    - If a beam collapses: **Dexterity (Saving Throw) DC 14** or take 2d8 bludgeoning damage and become restrained under debris (requires a DC 15 Strength check to escape).
+3. **Waterlogged Traps**:
     
-    - **Specters (4)**: Ghostly crew members haunting the ship.
-    - **Banshee Captain (1)**: Uses wails and spectral attacks to devastating effect.
-- **Twist**:  
-    The wreck’s hold contains an ancient nautical map pointing to an even greater treasure.
+    - Rusted mechanical traps set by smugglers lie in the cargo hold.
+    - **Investigation DC 15**: Find the traps before triggering them. Failure causes a **spiked bear trap** to activate (1d10 piercing damage and grappled until freed).
+
+---
+
+### **Encounters**
+
+#### **Ghostly Crew**
+
+The spirits of the _Stormcaller_’s crew manifest as **specters**, driven mad by centuries of undeath. Each spirit still mimics its role aboard the ship.
+
+- **First Mate Wren Sharpbeak**: A fierce, hawk-nosed half-elf specter wielding an incorporeal cutlass.
+    
+    - **Specter (MM p. 279)** with the following changes:
+        - Wren has **+2 to attack rolls** and her attacks deal **2d8 necrotic damage** instead of 3d6.
+        - **Personality**: Commands the other specters, barking ghostly orders.
+- **Deckhand Karl Saltfoot**: A slow-moving, hunched ghost with barnacles growing out of his ethereal form.
+    
+    - Standard **Specter** with no changes.
+    - **Role**: Patrols the cargo hold with the other specters.
+- **Encounter**:
+    
+    - The party will face **4 Specters** total, each attacking from unexpected angles.
+    - **Combat Mechanics**:
+        - Specters have a **+4 Stealth** bonus, representing their ability to phase through walls and floors.
+
+---
+
+#### **Banshee Captain Nyra Stormsoul**
+
+**Description**: Nyra Stormsoul is a terrifying banshee whose beauty has decayed into a spectral visage of hatred. Her flowing hair seems to be made of storm clouds, and her voice echoes with the crashing of waves.
+
+- **Banshee (MM p. 23)** with the following changes:
+    
+    - **Legendary Action**: _Storm’s Fury_ (Costs 2 actions)  
+        Nyra conjures a violent storm of wind and saltwater. Each creature within 20 feet must make a **Strength (Saving Throw) DC 15** or be knocked prone and take **2d8 thunder damage**.
+- **Combat Mechanics**:
+    
+    - Nyra uses her _Horrifying Visage_ to frighten the party and isolate weaker members.
+    - She uses her _Wail_ as a devastating area attack when surrounded.
+- **Legendary Resistance (3/Day)**: If Nyra fails a saving throw, she can choose to succeed instead.
     
 
-#### **Rewards**
+---
 
-- Quest Reward: Sapphire worth 400 gold.
-- Hidden Loot:
-    - A _Pearl of Power_.
-    - 100 gold.
-    - An ancient nautical map.
+### **Treasure and Rewards**
 
+1. **Sapphire (400 gp)**: Offered by Vernan for completing the quest.
+2. **Hidden Loot in the Captain’s Hold**:
+    - **Pearl of Power**: A magical item that restores a spell slot of up to 3rd level (requires attunement).
+    - **100 gold coins** in a rotting chest.
+    - **Ancient Nautical Map**: Leads to a hidden underwater vault, setting up a potential follow-up quest.
+
+---
+
+### **Twist**
+
+After the banshee’s defeat, her spirit whispers:  
+_"This curse cannot be broken… my master will rise again."_
+
+The _Stormcaller_ was one of the ships in the fleet of the **Moonlight Pirates** (a key faction in your campaign), and the map points to one of their hidden lairs.
 ---
 
 ### **9. Shadows of the Guild Hall** _(Deadly)_
