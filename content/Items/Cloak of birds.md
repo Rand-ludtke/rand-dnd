@@ -2,6 +2,12 @@
 
 **Wondrous Item (Cloak), Rare**
 
+### Appearance
+
+The **Cloak of Birds** is a flowing garment made of soft, lightweight material that seems to shimmer with faint, feather-like patterns when caught in the light. The cloak is predominantly a muted shade—gray, navy, or earthy brown—but iridescent colors subtly shift across the fabric as it moves. Along its edges, delicate embroidery of various birds in flight can be seen, as if they are circling the wearer.
+
+Hidden on the inner hem near the wearer’s lower back—a place rarely noticed—is a single embroidered dogwood flower, almost imperceptible to the casual observer.
+
 ### Description
 This cloak allows the user to store and summon birds from a dimensional storage that can only hold birds. The user can summon a maximum of **5 + 3x** birds at a time, based on their level. The user has limited control over the specific birds summoned, but their power increases with the user’s level. The cloak features a random chance for birds to possess unique modifiers, enhancing their abilities or adding whimsical flavor.
 
@@ -208,8 +214,3 @@ When summoning a bird(1 point birds only for now), roll a d20. On a roll of 19-2
 
 ---
 
-## Additional Notes
-- The user can summon birds randomly from the list based on the number of Bird Points available. 
-- When rolling for a bird, a roll of 18-20 on a d20 indicates the bird has a modifier, adding an exciting twist to its abilities.
-
----
