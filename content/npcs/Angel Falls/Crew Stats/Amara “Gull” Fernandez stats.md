@@ -4,7 +4,7 @@ draft: false
 
 _Watchful Lookout_
 
-- **Medium Humanoid (Elf), Neutral Good**
+- **Medium Humanoid (Half-Elf), Neutral Good**
 - **Armor Class**: 15 (studded leather)
 - **Hit Points**: 65 (10d8 + 20)
 - **Speed**: 30 ft.

@@ -1,6 +1,6 @@
 **Title:** Abbot  
 **Race:** Half-Elf  
-**Age:** 65  
+**Age:** 265  
 **Role:** Spiritual head of the abbey, responsible for guiding the abbey’s religious practices and overseeing the well-being of its members.
 
 #### Background and Personality

@@ -4,7 +4,7 @@ draft: false
 
 _Signalman_
 
-- **Medium Humanoid (Half-Elf), Neutral Good**
+- **Medium Humanoid (Human), Neutral Good**
 - **Armor Class**: 14 (leather armor)
 - **Hit Points**: 38 (8d8)
 - **Speed**: 30 ft.

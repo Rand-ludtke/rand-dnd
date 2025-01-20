@@ -4,7 +4,7 @@ draft: false
 
 _Gunner and Flame-Wielding Zealot_
 
-- **Medium Humanoid (Human), Lawful Neutral**
+- **Medium Humanoid (Tiefling), Lawful Neutral**
 - **Armor Class**: 16 (studded leather)
 - **Hit Points**: 65 (10d8 + 20)
 - **Speed**: 30 ft.

@@ -4,7 +4,7 @@ draft: false
 
 _Cook_
 
-- **Medium Humanoid (Half-Orc), Lawful Neutral**
+- **Medium Humanoid (Human), Lawful Neutral**
 - **Armor Class**: 14 (natural armor)
 - **Hit Points**: 52 (8d8 + 16)
 - **Speed**: 30 ft.

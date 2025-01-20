@@ -4,7 +4,7 @@ draft: false
 
 _Bosun_
 
-- **Medium Humanoid (Human), Lawful Neutral**
+- **Medium Humanoid (Dwarf), Lawful Neutral**
 - **Armor Class**: 16 (chain shirt)
 - **Hit Points**: 55 (10d8 + 10)
 - **Speed**: 30 ft.

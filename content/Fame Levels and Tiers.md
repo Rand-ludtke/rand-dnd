@@ -1,4 +1,5 @@
 Each fame level—**Regional**, **National**, and **Continental**—operates on a scale of **0 to 1,000**.
+(these might be adjusted depending)
 
 ### **Regional Fame Thresholds**
 
@@ -34,15 +35,15 @@ These flavorful effects evolve gradually as fame increases. The effects for each
 
 - **50+ (Known Locally)**: People in nearby towns smile at you or offer small gestures of gratitude (e.g., free drinks or meals).
 - **200+ (Respected)**: Local leaders consult you on issues affecting the region; children pretend to be you in their games.
-- **400+ (Renowned)**: Regional bards perform songs about your deeds, and inns name rooms or dishes after you.
-- **700+ (Legendary)**: Entire festivals are dedicated to you, and people in the region follow your actions closely.
+- **500+ (Renowned)**: Regional bards perform songs about your deeds, and inns name rooms or dishes after you.
+- **750+ (Legendary)**: Entire festivals are dedicated to you, and people in the region follow your actions closely.
 
 ### **National Fame Effects**
 
 - **50+ (Rumored)**: Travelers mention hearing your name, and nobles send inquiries about your activities.
 - **200+ (Recognized)**: You receive invitations to royal courts and ceremonial events.
-- **400+ (Famous)**: Plays and written chronicles depict your adventures, and national leaders seek your counsel.
-- **700+ (Mythic)**: National holidays or monuments may be created in your honor.
+- **500+ (Famous)**: Plays and written chronicles depict your adventures, and national leaders seek your counsel.
+- **750+ (Mythic)**: National holidays or monuments may be created in your honor.
 
 ### **Continental Fame Effects**
 

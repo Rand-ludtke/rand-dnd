@@ -4,7 +4,7 @@ draft: false
 
 _Deck Medic_
 
-- **Medium Humanoid (Human), Neutral Good**
+- **Medium Humanoid (Half-Elf), Neutral Good**
 - **Armor Class**: 15 (studded leather)
 - **Hit Points**: 44 (8d8 + 8)
 - **Speed**: 30 ft.

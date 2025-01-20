@@ -261,7 +261,7 @@ draft: true
 
 ---
 
-### **Quest Objectives**
+#### **Quest Objectives**
 
 1. Explore the _Stormcaller_ wreck, overcoming environmental hazards and ghostly apparitions.
 2. Defeat the ghostly crew and the **Banshee Captain Nyra Stormsoul**, whose rage binds the ship’s curse.
@@ -269,7 +269,7 @@ draft: true
 
 ---
 
-### **The Wreck of the Stormcaller**
+#### **The Wreck of the Stormcaller**
 
 **Location**:  
 The _Stormcaller_ is a massive, decaying shipwreck washed ashore on jagged rocks. Half of the ship is buried under sand, while the other half tilts at an ominous angle, creaking with every gust of wind. The storm seems unnaturally heavy around the wreck.
@@ -291,7 +291,7 @@ The _Stormcaller_ is a massive, decaying shipwreck washed ashore on jagged rocks
 
 ---
 
-### **Encounters**
+#### **Encounters**
 
 #### **Ghostly Crew**
 
@@ -331,7 +331,7 @@ The spirits of the _Stormcaller_’s crew manifest as **specters**, driven mad b
 
 ---
 
-### **Treasure and Rewards**
+#### **Treasure and Rewards**
 
 1. **Sapphire (400 gp)**: Offered by Vernan for completing the quest.
 2. **Hidden Loot in the Captain’s Hold**:
@@ -341,12 +341,13 @@ The spirits of the _Stormcaller_’s crew manifest as **specters**, driven mad b
 
 ---
 
-### **Twist**
+#### **Twist**
 
 After the banshee’s defeat, her spirit whispers:  
 _"This curse cannot be broken… my master will rise again."_
 
 The _Stormcaller_ was one of the ships in the fleet of the **Moonlight Pirates** (a key faction in your campaign), and the map points to one of their hidden lairs.
+
 ---
 
 ### **9. Shadows of the Guild Hall** _(Deadly)_

@@ -4,7 +4,7 @@ draft: false
 
 _Ship’s Healer and Shadowy Avenger_
 
-- **Medium Humanoid (Half-Elf), Chaotic Good**
+- **Medium Humanoid (Elf), Chaotic Good**
 - **Armor Class**: 16 (breastplate)
 - **Hit Points**: 58 (7d8 + 28)
 - **Speed**: 30 ft.
