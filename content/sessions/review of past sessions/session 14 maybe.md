@@ -20,6 +20,7 @@ draft: true
 | Potion of Superior Healing | they don't know origins                                              | dungeon                   | lyra                     |
 | Wand of Fear               | can cast Fear 3 times                                                | dungeon                   | Sarro                    |
 | Spirit naga amulet         | poison immunity, 1 use revive                                        | dungeon                   | Tent                     |
+| bag of tricks              |                                                                      |                           | Tent                     |
 
 ---
 

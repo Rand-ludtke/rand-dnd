@@ -1,5 +1,5 @@
 ---
-draft:
+draft: true
 ---
 
 **Wondrous Item, very rare**

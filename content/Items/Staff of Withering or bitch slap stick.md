@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 ---
 ![[Pasted image 20250119221706.png]]
 

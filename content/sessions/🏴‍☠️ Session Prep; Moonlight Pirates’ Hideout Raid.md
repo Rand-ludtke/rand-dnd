@@ -46,16 +46,49 @@ draft: true
 
 ### Next Adventure Hook: Southwest Villages Investigation
 
-With Felina safely returned, the party can investigate the villages where Sadrekkeor's planted clues suggest the dragon cult operates, setting up further misdirection. The map's general markings lead to four different villages, each with some signs of the cult but no solid proof, prolonging the mystery. This will bring them closer to discovering Sadrekkeor’s true intentions.
+#### **Information Felina Shares**
 
-### **Felina’s Intel**
-
-After Felina is rescued and has had time to rest, she shares valuable information:
-
-- **Increasing Aggression**: Felina confirms that the pirates have become far more aggressive in recent months. This shift coincides with their increased use of advanced weaponry, magic items, and a ruthlessness that wasn’t present before. She doesn’t know the full extent of the change, but she’s sure it’s tied to a mysterious figure she’s only heard referred to as “The Boss.” This figure has become the driving force behind the pirates’ new tactics, with no mercy shown to any town or settlement they raid.
+1. **Pirates' Aggression**:
     
-- **Mysterious Operations**:  Felina overheard pirates discussing an ongoing **operation** in a specific area that requires immediate attention. The pirates spoke in low voices, referring to the target of this operation as something that could “disrupt the balance” of their efforts. The pirates have been receiving orders to neutralize any potential threats in the region before they can establish a stronger presence. 
+    - Felina confirms the pirates’ recent aggression and efficiency are unnatural. She attributes it to a sudden influx of advanced tools and disciplined tactics, which is a drastic change from their earlier opportunistic behavior.
+    - She overheard references to a supply chain of "artifacts" and "engines," though no details were provided.
+2. **"The Boss"**:
     
+    - Felina heard the pirates mention someone they call "The Boss." While no one spoke openly about this figure, there was clear fear and respect in their tone.
+    - From snippets she overheard, "The Boss" is described as overseeing more than just the pirates—possibly commanding a larger network of operatives and factions.
+3. **Operations in the Villages**:
+    
+    - The pirates are focusing on operations tied to specific villages, particularly where rumors of a dragon cult have begun to surface.
+    - Felina deduced the pirates were planted in those areas to fuel the cult rumors and escalate tensions to mislead investigators.
+4. **A Critical Disruption**:
+    
+    - Felina caught wind of an operation being referred to as "The Tidebreaker." Pirates mentioned its success would ensure "no one interferes with The Boss’s grand plan."
+    - She couldn’t gather what "The Tidebreaker" is or its purpose, but it sounded urgent.
+5. **Misdirection**:
+    
+    - Some pirates joked about the "dragon freaks" (cultists) being useful pawns. They mentioned how convenient it is to have “zealots who follow blindly” causing havoc and diverting attention.
+
+---
+
+#### **Questions Felina Was Asked During Interrogation**
+
+Felina shares that her captors interrogated her thoroughly, revealing key points they were trying to uncover:
+
+1. **What She Knows About the Moonlight Pirates**:
+    
+    - They asked if Felina had uncovered the pirates' hideouts or known routes.
+    - They were particularly interested in any knowledge of their ship technology.
+2. **Connections to the Adventurers’ Guild**:
+    
+    - They questioned Felina’s ties to any adventurers in Goldfall or surrounding regions.
+    - They specifically asked about guild activities involving the dragon cult or major figures in the area.
+3. **What She Knows About “The Boss”**:
+    
+    - They asked if she had uncovered who "The Boss" is or what they are planning.
+    - Felina realized this was a point of paranoia for her captors, as they seemed wary of leaks.
+4. **Her Interest in the Dragon Cult**:
+    
+    - The pirates pressed Felina on why she was investigating the cult and if she was working with any known factions that oppose the cult.
 
 ---
 
@@ -63,20 +96,6 @@ After Felina is rescued and has had time to rest, she shares valuable informatio
 
 The players uncover the following fragments of orders and a damaged map in the **Captain’s Quarters**:
 
----
-
-**Orders Snippets**:
-
-1. **“Ensure all traces of their presence are erased.  activities in this area are becoming more frequent. Locations of interest must be identified and secured.”**
-    
-2. **“Scout and secure the area surrounding [location name].  infiltrate and assess the area.”**
-    
-3. **“ Secure all access points and neutralize any potential threats found in the vicinity.”**
-    
-4. **“Patrol routes around [location name] have been adjusted. Focus on securing any entry points and eliminating any signs of activity that could compromise the mission.”**
-    
-5. **“The hidden base near [location name] must be . Supplies are to be secured.  no survivors.”**
-    
 
 ---
 

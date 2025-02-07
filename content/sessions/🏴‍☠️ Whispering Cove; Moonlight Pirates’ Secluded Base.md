@@ -44,7 +44,7 @@ draft: true
 
 - **Description**: A small dock sheltered within a rocky alcove. Several rowboats and a single small scouting ship are moored here. Old crates and barrels are stacked, filled with emergency supplies for sudden retreats.
 - **Encounters**: One or two pirates are always stationed here as lookouts. They stand guard, partially hidden behind barrels, with hand-crossbows at the ready.
-- **Loot**: Barrels contain basic rations and mundane items (total value 25 gp).
+- **Loot**: Barrels contain basic rations and mundane items (total value 150 gp).
 
 ---
 
@@ -53,9 +53,9 @@ draft: true
 - **Description**: Shelves line the walls, stocked with various provisions, medical supplies, and essential repair tools for the pirates' ships. A small forge sits in one corner, used for minor repairs and weapon maintenance.
 - **Encounters**: Unlikely to have guards here unless the alarm is raised.
 - **Loot**:
-    - Various supplies such as rope, spare weapons (10 gp), and three healing potions (50 gp each).
+    - Various supplies such as rope, spare weapons(30ish) (10 gp each), and three healing potions (50 gp each).
     - Thieves’ tools and lockpicking equipment in a hidden compartment (DC 12 Investigation to locate).
-    - A modest stash of coins left by careless pirates (40 gp).
+    - A modest stash of coins left by careless pirates (80 gp).
 
 ---
 
@@ -73,7 +73,7 @@ draft: true
 
 - **Description**: Rough-hewn tables and chairs sit amidst barrels of stale ale and preserved meats. This is where the pirates gather to relax and eat. A small gambling table in the corner holds a few scattered coins.
 - **Encounters**: If undetected, the party may find off-duty pirates gambling here. If they approach stealthily, they could eavesdrop and overhear details about Felina or the location of the Sea Angel Shrine.
-- **Loot**: 15 gp in coins on the gambling table, and a dagger engraved with sea motifs (10 gp).
+- **Loot**: 150 gp in coins on the gambling table, and a dagger engraved with sea motifs (50 gp).
 
 ---
 
@@ -90,11 +90,10 @@ draft: true
 
 - **Description**: Decorated with faded, expensive fabrics and mementos of previous raids. A large map, with marks around Goldfall and its surrounding areas, is pinned above a sturdy desk.
 - **Burnt Orders**:
-    - Partially destroyed orders suggest that Sadrekkeor believes a dragon cult is undermining his control in the region.
-    - “…ensure that the dragon cult has no foothold near Goldfall or in the surrounding villages...strike swiftly and leave no one who might oppose….”
+
 - **Damaged Map**: Locations of four villages southwest of Goldfall are marked.
 - **Loot**:
-    - **Gold-plated Sword**: 100 gp.
+    - **Gold-plated Sword**: 200 gp.
     - **Ornate Compass**: 75 gp.
     - A scroll of Misty Step, tucked under a pile of maps (100 gp value).
 
@@ -105,9 +104,15 @@ draft: true
 - **Description**: The most fortified area in the hideout, with a thick iron door. Inside, the room is filled with chests of plundered treasure from numerous raids.
 - **Encounters**: One final guardian, a Crystal Golem, defends this room.
 - **Loot**:
-    - Gold coins and gems worth 550 gp.
+    - Gold coins and gems worth 1200 gp.
     - **Obsidian Spyglass**: 200 gp.
     - **Cloak of the Mists**: Grants advantage on Stealth checks in dim light or darkness.
+    - **No-stones**
+    - **Chronal Sphere**
+    - **Angler's Wordly Fisher**
+    - 300 gp worth of rare pearls.
+    - **Captain's Compass**: A magical compass that points not north, but to the location of the nearest treasure worth over 500 gp. Requires attunement.
+    - **Ring of Evasion**.
 
 ---
 
@@ -115,7 +120,7 @@ draft: true
 
 - **Description**: Rows of weapons and armor line the walls, from crossbows to swords. A large chest contains arrows, bolts, and weapon maintenance kits.
 - **Encounters**: Two guards always stationed here, sharpening weapons.
-- **Loot**: Various high-quality weapons (worth 75 gp total), plus a set of leather armor embroidered with silver (40 gp).
+- **Loot**: Various high-quality weapons (worth 75 gp Each), plus a set of leather armor embroidered with silver (40 gp), Air Render
 
 ---
 
@@ -126,7 +131,7 @@ draft: true
 | ------------------------------- | ---------- |
 | Healing Potions (x3)            | 50 gp each |
 | Rope and Lockpicking Equipment  | 10 gp      |
-| Fine-quality Weapons            | 75 gp      |
+| Fine-quality Weapons            | 75 gp each |
 | Silvered Short Swords (x2)      | 50 gp each |
 | Gold-plated Sword               | 100 gp     |
 | Ornate Compass                  | 75 gp      |
