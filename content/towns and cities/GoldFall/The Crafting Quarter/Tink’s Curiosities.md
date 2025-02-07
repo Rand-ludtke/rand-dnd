@@ -20,6 +20,7 @@
 
 ## Services & Items
 
+<Components.SortableFilterableTable />
 
 | Item                             | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Price (gp) |
 | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
@@ -66,67 +67,8 @@
 | **Gadgeteer’s Gloves**           | Gloves that enhance the wearer’s ability to craft mechanical or magical items, granting a +2 bonus to tool checks                                                                                                                                                                                                                                                                                                                                                                                                                     | 150 gp     |
 | **Button of Summoned Serenity**  | This small, intricately designed button can be pressed as a bonus action. When activated, the familiar immediately returns to the caster’s side in an unoccupied space within 5 feet of them, regardless of distance or obstacles consuming 1 charge. Alternatively For 3 charges the caster can switch places with the familiar. The button has three charges and regains 1d4-1 expended charges daily at dawn.                                                                                                                      | 500 gp     |
 | **Charm of the Guardian Spirit** | This tiny charm, often shaped like a shield or amulet, enhances a familiar’s resilience. While the familiar is within 100 feet of the caster and in active service:<br><br>-  The familiar’s AC increases by 2.<br>- I t gains temporary hit points equal to the caster’s level each day at dawn.<br><br>When the familiar drops to 0 hit points, the charm releases a burst of protective energy, allowing the caster to immediately recast _find familiar_ without expending a spell slot. This effect can only occur once per day. | 500 gp     |
-<input type="text" id="tableFilter" placeholder="Filter items..." style="width: 100%; padding: 5px; margin-bottom: 10px;">
+|                                  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |            |
 
-<table id="sortableTable" style="width:100%; border-collapse: collapse;">
-  <thead>
-    <tr>
-      <th data-column="item" style="cursor: pointer;">Item</th>
-      <th>Description</th>
-      <th data-column="price" style="cursor: pointer;">Price (gp)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Thunderproof Cloak</td>
-      <td>Grants resistance to lightning damage</td>
-      <td data-price="200">200 gp</td>
-    </tr>
-    <tr>
-      <td>Shock-Resistant Boots</td>
-      <td>Prevents the wearer from being stunned by lightning</td>
-      <td data-price="150">150 gp</td>
-    </tr>
-  </tbody>
-</table>
-
-<script>
-document.addEventListener("DOMContentLoaded", function() {
-  const table = document.getElementById("sortableTable");
-  const headers = table.querySelectorAll("th[data-column]");
-  const filterInput = document.getElementById("tableFilter");
-
-  // Sorting
-  headers.forEach(header => {
-    header.addEventListener("click", function() {
-      const column = this.getAttribute("data-column");
-      const tbody = table.querySelector("tbody");
-      const rows = Array.from(tbody.querySelectorAll("tr"));
-
-      const isPrice = column === "price";
-      rows.sort((rowA, rowB) => {
-        const valA = rowA.querySelector(`td[data-${column}]`)?.textContent.trim();
-        const valB = rowB.querySelector(`td[data-${column}]`)?.textContent.trim();
-
-        return isPrice ? parseInt(valA) - parseInt(valB) : valA.localeCompare(valB);
-      });
-
-      rows.forEach(row => tbody.appendChild(row));
-    });
-  });
-
-  // Filtering
-  filterInput.addEventListener("input", function(event) {
-    const filterValue = event.target.value.toLowerCase();
-    const rows = table.querySelectorAll("tbody tr");
-
-    rows.forEach(row => {
-      const itemText = row.querySelector("td:first-child")?.textContent.toLowerCase();
-      row.style.display = itemText.includes(filterValue) ? "" : "none";
-    });
-  });
-});
-</script>
 
 ---
 
