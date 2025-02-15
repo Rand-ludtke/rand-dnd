@@ -1,6 +1,3 @@
----
-draft: false
----
 ### Store Description
 
 Grand opening High Altitude Brews is a brand-new café opening in Goldfall, offering specialty coffees, teas, and light meals. The cozy interior features wooden beams, warm lighting, and large windows providing a scenic view. The café is known for its elevated seating area, where customers can enjoy their drinks while overlooking the bustling city streets.

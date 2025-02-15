@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 ![[ruined_halls_of_the_demon_god.png]]
 ### **Room Details**
 
