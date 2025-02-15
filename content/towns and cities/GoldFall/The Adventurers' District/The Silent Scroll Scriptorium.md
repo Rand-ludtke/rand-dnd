@@ -27,21 +27,21 @@
 
 | Item                               | Description                                                                            | Price (gp) |
 | ---------------------------------- | -------------------------------------------------------------------------------------- | ---------- |
-| **Magic Missile Scroll**           | A scroll that, when read, casts the Magic Missile spell.                               | 50 gp      |
-| **Fireball Scroll**                | A scroll that, when read, casts the Fireball spell.                                    | 150 gp     |
-| **Scroll of Detect Magic**         | A scroll that, when read, casts Detect Magic.                                          | 30 gp      |
 | **Arcane Lock Scroll**             | A scroll that, when read, casts Arcane Lock.                                           | 50 gp      |
-| **Scroll of Comprehend Languages** | A scroll that, when read, grants the ability to comprehend any language for 1 hour.    | 40 gp      |
-| **Teleportation Scroll**           | A scroll that, when read, casts Teleportation.                                         | 1500 gp    |
 | **Counterspell Scroll**            | A scroll that, when read, allows the caster to counter a spell in progress.            | 200 gp     |
-| **Greater Invisibility Scroll**    | A scroll that, when read, casts Greater Invisibility.                                  | 400 gp     |
-| **Scroll of Plane Shift**          | A scroll that, when read, allows the caster to travel to another plane.                | 2000 gp    |
-| **Frostbite Scroll**               | A scroll that, when read, casts Frostbite, dealing cold damage and slowing the target. | 75 gp      |
-| **Misty Step Scroll**              | A scroll that, when read, casts Misty Step, allowing the caster to teleport 30 feet.   | 50 gp      |
-| **Shield Scroll**                  | A scroll that, when read, casts the Shield spell, providing extra protection.          | 100 gp     |
-| **Scroll of Healing Word**         | A scroll that, when read, casts Healing Word.                                          | 60 gp      |
 | **Feather Fall Scroll**            | A scroll that, when read, casts Feather Fall to slow the descent of falling creatures. | 50 gp      |
+| **Fireball Scroll**                | A scroll that, when read, casts the Fireball spell.                                    | 150 gp     |
+| **Frostbite Scroll**               | A scroll that, when read, casts Frostbite, dealing cold damage and slowing the target. | 75 gp      |
+| **Greater Invisibility Scroll**    | A scroll that, when read, casts Greater Invisibility.                                  | 400 gp     |
+| **Magic Missile Scroll**           | A scroll that, when read, casts the Magic Missile spell.                               | 50 gp      |
+| **Misty Step Scroll**              | A scroll that, when read, casts Misty Step, allowing the caster to teleport 30 feet.   | 150 gp     |
+| **Scroll of Comprehend Languages** | A scroll that, when read, grants the ability to comprehend any language for 1 hour.    | 40 gp      |
+| **Scroll of Detect Magic**         | A scroll that, when read, casts Detect Magic.                                          | 100 gp     |
 | **Scroll of Dispel Magic**         | A scroll that, when read, casts Dispel Magic to remove magical effects.                | 150 gp     |
+| **Scroll of Healing Word**         | A scroll that, when read, casts Healing Word.                                          | 100 gp     |
+| **Scroll of Plane Shift**          | A scroll that, when read, allows the caster to travel to another plane.                | 2000 gp    |
+| **Shield Scroll**                  | A scroll that, when read, casts the Shield spell, providing extra protection.          | 150 gp     |
+| **Teleportation Scroll**           | A scroll that, when read, casts Teleportation.                                         | 1500 gp    |
 
 ---
 

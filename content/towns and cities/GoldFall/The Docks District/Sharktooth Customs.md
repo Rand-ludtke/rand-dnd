@@ -16,13 +16,13 @@
 
 ## Services & Items
 
-|Item|Description|Price (gp)|
-|---|---|---|
-|Sea Trade License|Grants permission to trade freely with foreign ships|100 gp|
-|Smuggler’s Pass|A forged document that allows one to avoid customs inspection (illegal)|250 gp|
-|Merchant’s Tariff Exemption|Reduces import/export fees for a single transaction|50 gp|
-|Salted Map of the Coast|A map detailing the best trade routes along the coast, with hidden smuggling paths|75 gp|
-|Port Protection Seal|An official seal that grants access to secure docks and private storage areas|200 gp|
+| Item                        | Description                                                                        | Price (gp) |
+| --------------------------- | ---------------------------------------------------------------------------------- | ---------- |
+| Merchant’s Tariff Exemption | Reduces import/export fees for a single transaction                                | 50 gp      |
+| Salted Map of the Coast     | A map detailing the best trade routes along the coast, with hidden smuggling paths | 75 gp      |
+| Sea Trade License           | Grants permission to trade freely with foreign ships                               | 100 gp     |
+| Port Protection Seal        | An official seal that grants access to secure docks and private storage areas      | 200 gp     |
+| Smuggler’s Pass             | A forged document that allows one to avoid customs inspection (illegal)            | 250 gp     |
 
 ---
 

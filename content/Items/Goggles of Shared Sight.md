@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 ---
 ![[Pasted image 20241110223239.png]]
 **Wondrous Item, Rare (requires attunement)**
@@ -17,7 +17,7 @@ These goggles are crafted from brass and have a tinted glass lens over each eye,
     
 - **Conscripted Sight**: The wearer can use an action to switch between their own vision and the creature's sight at will within the duration. They can also end the connection early as a bonus action.
     
-- **Recharge**: Once used twice, the goggles regain their magic at dawn. Alternatively, the wearer can expend a 2nd-level spell slot to recharge them immediately.
+- **Recharge**: Once used 3 times, the goggles regain their magic at dawn. Alternatively, the wearer can expend a 2nd-level spell slot to recharge them immediately.
     
 - **Mental Link**: The wearer can communicate simple commands mentally to the conscripted animal during Shared Vision.
     

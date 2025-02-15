@@ -25,19 +25,19 @@
 
 ## Services & Items
 
-|Item|Description|Price (gp)|
-|---|---|---|
-|**Rumor Exchange**|Pay for a rumor that could lead to valuable information or a potential lead.|5 gp|
-|**Secrets for Sale**|Information on a specific topic or person, carefully researched and verified.|20 gp|
-|**Shadow's Oath**|A vow of silence made to keep secrets safe (enchanted, binding).|50 gp|
-|**Whispering Key**|A magical key that allows entry into secret areas of the inn or hidden rooms.|100 gp|
-|**Silent Message**|A way to send a secure message to anyone in Goldfall, undetected.|10 gp|
-|**Rumor Paper**|A parchment that reveals a random rumor when touched.|2 gp|
-|**Informed Guide**|A service where Ivy will lead adventurers to places where they can find rare secrets or objects.|30 gp|
-|**The Hidden Room**|A private room for confidential meetings. Must be reserved in advance.|25 gp|
-|**Gossip Collector’s Bundle**|A bundle of useful tools and magical trinkets to help adventurers eavesdrop or gather intel.|75 gp|
-|**Night's Insight**|A potion that grants the drinker the ability to hear whispered conversations clearly for one hour.|50 gp|
-|**Message in a Bottle**|A service that allows you to send a message in a magically sealed bottle, to be delivered by a water-bound messenger.|40 gp|
+| Item                          | Description                                                                                                           | Price (gp) |
+| ----------------------------- | --------------------------------------------------------------------------------------------------------------------- | ---------- |
+| **Rumor Paper**               | A parchment that reveals a random rumor when touched.                                                                 | 2 gp       |
+| **Rumor Exchange**            | Pay for a rumor that could lead to valuable information or a potential lead.                                          | 5 gp       |
+| **Silent Message**            | A way to send a secure message to anyone in Goldfall, undetected.                                                     | 10 gp      |
+| **Secrets for Sale**          | Information on a specific topic or person, carefully researched and verified.                                         | 20 gp      |
+| **The Hidden Room**           | A private room for confidential meetings. Must be reserved in advance.                                                | 25 gp      |
+| **Informed Guide**            | A service where Ivy will lead adventurers to places where they can find rare secrets or objects.                      | 30 gp      |
+| **Message in a Bottle**       | A service that allows you to send a message in a magically sealed bottle, to be delivered by a water-bound messenger. | 40 gp      |
+| **Shadow's Oath**             | A vow of silence made to keep secrets safe (enchanted, binding).                                                      | 50 gp      |
+| **Night's Insight**           | A potion that grants the drinker the ability to hear whispered conversations clearly for one hour.                    | 50 gp      |
+| **Gossip Collector’s Bundle** | A bundle of useful tools and magical trinkets to help adventurers eavesdrop or gather intel.                          | 75 gp      |
+| **Whispering Key**            | A magical key that allows entry into secret areas of the inn or hidden rooms.                                         | 100 gp     |
 
 ---
 

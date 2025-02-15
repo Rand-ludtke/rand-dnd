@@ -5,7 +5,7 @@
 | Kingdom             | Total Fame |
 | ------------------- | ---------- |
 | Aynakyurt           |            |
-| Republic of Whirong | 20         |
+| Republic of Whirong | 25         |
 | Eshlong             |            |
 | Desert of Doom      |            |
 | Other Territories   |            |
@@ -31,16 +31,16 @@ Each kingdom is divided into five regions. Fame can be tracked separately for ea
 
 ### **Republic of Whirong Regions**
 
-|                      |                                           |
-| -------------------- | ----------------------------------------- |
-| Region               | Fame                                      |
-| Northern Territories | 18                                        |
-| Central Cities       |                                           |
-| Southern Forests     |                                           |
-| Mountain Settlements |                                           |
-| Western Coast        | 70 (150 for Arlo but only in this region) |
-| East Coast           |                                           |
-| **Total (Whirong)**  | 88                                        |
+|                      |                                            |
+| -------------------- | ------------------------------------------ |
+| Region               | Fame                                       |
+| Northern Territories | 18                                         |
+| Central Cities       |                                            |
+| Southern Forests     |                                            |
+| Mountain Settlements |                                            |
+| Western Coast        | 100 (180 for Arlo but only in this region) |
+| East Coast           |                                            |
+| **Total (Whirong)**  | 88                                         |
 
 
 ### **Eshlong Regions**

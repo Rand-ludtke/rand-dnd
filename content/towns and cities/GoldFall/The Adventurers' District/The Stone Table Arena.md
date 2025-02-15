@@ -37,7 +37,7 @@
 | **Champion’s Medal**    | A prestigious medal awarded to top fighters, granting advantage on intimidation checks in the arena. | 100 gp     |
 | **Adrenaline Potion**   | A potion that boosts strength, granting +2 to attack rolls for 1 hour.(may have adverse affects)     | 30 gp      |
 | **Victory Banner**      | A banner awarded to winners that can be displayed in the arena or at a personal residence.           | 50 gp      |
-| **Fighting Tome**       | A book that contains tactical combat strategies and techniques used by famous gladiators.            | 75 gp      |
+| **Fighting Tome**       | A book that contains tactical combat strategies and techniques used by famous gladiators.            | 750 gp     |
 
 ---
 

@@ -19,11 +19,11 @@
 | Item                | Description                                                                 | Price (gp) |
 | ------------------- | --------------------------------------------------------------------------- | ---------- |
 | Fisherman's Net     | A durable net that increases fishing yields and catches rare fish           | 10 gp      |
-| Anchor of the Storm | A heavy anchor that can summon a small thunderstorm once per day            | 250 gp     |
 | Saltwater Chalice   | A chalice that can purify water from the sea, turning it into potable water | 15 gp      |
-| Stormbreaker Nets   | Enchanted fishing nets that capture rare, magical aquatic creatures         | 25 gp      |
-| Waterproof Cloak    | A cloak that provides resistance to cold and wet conditions                 | 50 gp      |
 | Wrought Iron Hook   | A hook used for climbing or as a prosthetic limb, with excellent durability | 20 gp      |
+| Stormbreaker Nets   | Enchanted fishing nets that capture rare, magical aquatic creatures         | 25 gp      |
+| Waterproof Cloak    | A cloak that provides resistance to cold and wet conditions                 | 150 gp     |
+| Anchor of the Storm | A heavy anchor that can summon a small thunderstorm once per day            | 250 gp     |
 
 ---
 

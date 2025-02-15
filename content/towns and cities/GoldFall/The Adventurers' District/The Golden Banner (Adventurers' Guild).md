@@ -90,28 +90,28 @@ The **Contributions Store** is a special shop where members can use their **Cont
 
 **Notable Items for Sale (20-30 items)**
 
-|Item|Cost (CP)|Description|
-|---|---|---|
-|**Thunderproof Cloak**|500 CP|A cloak that protects the wearer from lightning damage and electrical effects.|
-|**Boots of Quick Step**|300 CP|These boots grant the wearer increased speed and agility.|
-|**Potion of Heroism**|100 CP|A potion that grants temporary courage and enhanced strength.|
-|**Ironheart Shield**|400 CP|A sturdy shield that provides resistance to force damage.|
-|**Elven Longbow**|350 CP|A finely crafted longbow made by elves, grants +1 to attack rolls.|
-|**Fireproof Gloves**|200 CP|Gloves that prevent burns and fire damage to the wearer.|
-|**Ring of Silent Steps**|150 CP|A ring that allows the wearer to move without making a sound.|
-|**Wand of Illusions**|600 CP|A magical wand that can create temporary illusions to deceive enemies.|
-|**Healing Elixir**|150 CP|A special elixir that heals the drinker for 2d6+4 hit points.|
-|**Dragon’s Scale Armor**|800 CP|Armor crafted from dragon scales, provides enhanced protection.|
-|**Bag of Holding**|300 CP|A magical bag that can hold an enormous amount without adding weight.|
-|**Celestial Amulet**|500 CP|An amulet that boosts the wearer’s Charisma and Wisdom.|
-|**Ring of Water Breathing**|250 CP|A ring that allows the wearer to breathe underwater for extended periods.|
-|**Dwarven Warhammer**|350 CP|A heavy warhammer that deals extra damage against constructs and stone.|
-|**Arcane Focus**|200 CP|A magical crystal that enhances spellcasting abilities.|
-|**Tome of Wisdom**|600 CP|A book that grants +2 Intelligence after prolonged study.|
-|**Gloves of Thievery**|250 CP|Gloves that improve lockpicking and sleight of hand.|
-|**Gems of True Sight**|500 CP|These gems reveal hidden traps, secret doors, and invisible creatures.|
-|**Cloak of Shadows**|700 CP|A cloak that grants invisibility when standing still.|
-|**Potion of Flying**|500 CP|A potion that grants the ability to fly for 1 hour.|
+| Item                        | Cost (CP) | Description                                                                    |
+| --------------------------- | --------- | ------------------------------------------------------------------------------ |
+| **Potion of Heroism**       | 100 CP    | A potion that grants temporary courage and enhanced strength.                  |
+| **Ring of Silent Steps**    | 150 CP    | A ring that allows the wearer to move without making a sound.                  |
+| **Healing Elixir**          | 150 CP    | A special elixir that heals the drinker for 6d6+4 hit points.                  |
+| **Fireproof Gloves**        | 200 CP    | Gloves that prevent burns and fire damage to the wearer.                       |
+| **Arcane Focus**            | 200 CP    | A magical crystal that enhances spellcasting abilities.                        |
+| **Ring of Water Breathing** | 250 CP    | A ring that allows the wearer to breathe underwater for extended periods.      |
+| **Gloves of Thievery**      | 250 CP    | Gloves that improve lockpicking and sleight of hand.                           |
+| **Boots of Quick Step**     | 300 CP    | These boots grant the wearer increased speed and agility.                      |
+| **Bag of Holding**          | 300 CP    | A magical bag that can hold an enormous amount without adding weight.          |
+| **Elven Longbow**           | 350 CP    | A finely crafted longbow made by elves, grants +1 to attack rolls.             |
+| **Dwarven Warhammer**       | 350 CP    | A heavy warhammer that deals extra damage against constructs and stone.        |
+| **Ironheart Shield**        | 400 CP    | A sturdy shield that provides resistance to force damage.                      |
+| **Thunderproof Cloak**      | 500 CP    | A cloak that protects the wearer from lightning damage and electrical effects. |
+| **Celestial Amulet**        | 500 CP    | An amulet that boosts the wearer’s Charisma and Wisdom.                        |
+| **Gems of True Sight**      | 500 CP    | These gems reveal hidden traps, secret doors, and invisible creatures.         |
+| **Potion of Flying**        | 500 CP    | A potion that grants the ability to fly for 1 hour.                            |
+| **Wand of Illusions**       | 600 CP    | A magical wand that can create temporary illusions to deceive enemies.         |
+| **Tome of Wisdom**          | 600 CP    | A book that grants +2 Intelligence after prolonged study.                      |
+| **Cloak of Shadows**        | 700 CP    | A cloak that grants invisibility when standing still.                          |
+| **Dragon’s Scale Armor**    | 1000 CP   | Armor crafted from dragon scales, provides enhanced protection.                |
 
 ---
 

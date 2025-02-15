@@ -18,11 +18,11 @@
 
 | Item                | Description                                                                            | Price (gp) |
 | ------------------- | -------------------------------------------------------------------------------------- | ---------- |
-| Redbeard's Brew     | A strong, spicy ale with a warming effect                                              | 15 cp      |
-| Kraken's Grasp      | A magical gauntlet that grants the wearer the ability to grapple with immense strength | 175 gp     |
 | Dwarven Stout       | A dark ale that boosts endurance for a short period                                    | 5 cp       |
+| Redbeard's Brew     | A strong, spicy ale with a warming effect                                              | 15 cp      |
 | Mermaid's Tears     | A rare cocktail that temporarily enhances Charisma for 1 hour                          | 25 cp      |
 | Gorrik’s Pirate Hat | A hat that grants advantage on Intimidation checks while wearing it                    | 40 gp      |
+| Kraken's Grasp      | A magical gauntlet that grants the wearer the ability to grapple with immense strength | 175 gp     |
 
 ---
 
