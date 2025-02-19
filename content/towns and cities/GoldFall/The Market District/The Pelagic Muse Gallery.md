@@ -18,12 +18,21 @@
 
 |Item|Description|Price (gp)|
 |---|---|---|
-|Ocean’s Harmony Painting|A vibrant painting of a tranquil sea, grants +1 to Wisdom (Insight) checks when viewed|150 gp|
-|Stormy Seas Sculpture|A hand-carved sculpture that appears to shift and change with the viewer's perspective|200 gp|
-|Sea Spirit Performance|A mesmerizing performance that creates illusions of underwater creatures (performs twice a week)|50 gp|
-|Whirlwind Symphony Sheet|A musical composition about the ocean’s storm, grants +1 to Performance checks when played|30 gp|
-|Sapphire Seas Necklace|A necklace made of polished sapphire, grants +1 to Charisma checks in social situations|250 gp|
-|Poseidon’s Bounty Sculpture|A lifelike sculpture of Poseidon holding a trident, grants advantage on all Charisma-based checks while worn|350 gp|
+|**Ocean’s Harmony Painting**|A vibrant painting of a tranquil sea, grants +1 to Wisdom (Insight) checks when viewed.|150 gp|
+|**Stormy Seas Sculpture**|A hand-carved sculpture that appears to shift and change with the viewer's perspective.|200 gp|
+|**Sea Spirit Performance**|A mesmerizing performance that creates illusions of underwater creatures (performs twice a week).|50 gp|
+|**Whirlwind Symphony Sheet**|A musical composition about the ocean’s storm, grants +1 to Performance checks when played.|30 gp|
+|**Sapphire Seas Necklace**|A necklace made of polished sapphire, grants +1 to Charisma checks in social situations.|250 gp|
+|**Poseidon’s Bounty Sculpture**|A lifelike sculpture of Poseidon holding a trident, grants advantage on all Charisma-based checks while worn.|350 gp|
+|**Ethereal Wave Tapestry**|A large woven tapestry that depicts waves in motion, appearing to move subtly when stared at.|180 gp|
+|**Song of the Deep Chimes**|A set of enchanted wind chimes that play a soothing melody, granting advantage on saves against fear.|220 gp|
+|**The Abyssal Reflection**|A mirror-like painting of the deep ocean. Occasionally, ghostly figures can be seen in its reflection.|400 gp|
+|**The Siren’s Embrace Statue**|A marble statue of a siren, grants +1 to Persuasion checks when placed in a home or public space.|300 gp|
+|**Tidecaller’s Harp**|A beautifully carved harp that produces soft oceanic sounds, enhancing bardic inspiration abilities.|500 gp|
+|**Sunset Over the Horizon**|A painting that glows with natural light at dusk, bringing comfort to those who meditate near it.|275 gp|
+|**Phantom Regatta Portrait**|A haunting painting of a ghostly fleet sailing under the moonlight. It subtly shifts when no one is watching.|600 gp|
+|**Mystic Coral Carving**|A small sculpture made from enchanted coral, said to bring good fortune to sailors who carry one.|125 gp|
+|**The Dancer and the Tides**|A magical painting that animates when music is played, showing an elegant figure dancing upon the waves.|450 gp|
 
 ---
 

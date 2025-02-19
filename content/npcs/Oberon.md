@@ -1,6 +1,7 @@
 ---
 draft: true
 ---
+
 1. **Oberon "Whisper" Nightshade** (Half-Elf, Male)
     - **Personality:** Mysterious, eloquent, shrewd, and deeply secretive. Oberon has mastered the art of blending into the background, with his emotions hidden beneath layers of calm and calculated actions. He harbors a deep, unspoken love for one of the players, but he is so skilled at concealing his feelings that it seems as though he never existed. His quiet demeanor hides an intense passion, and his value for discretion is matched only by his ability to remain unseen.
     - **Appearance:** Tall with long, dark hair and a hooded cloak that conceals most of his features. His silver-gray eyes always seem to be calculating, watching everyone while appearing to see nothing. He uses his presence as a subtle force—always around, yet never noticed unless he wants to be.

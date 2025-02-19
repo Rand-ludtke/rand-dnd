@@ -20,13 +20,55 @@
 
 ## Services & Items
 
+| Item                           | Description                                                                                                                  | Price (gp) |
+| ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| **Divine Tome of Justice**     | A sacred book that offers guidance on moral and legal dilemmas.                                                              | 150 gp     |
+| **Holy Symbol of the Just**    | A symbol that grants a +1 bonus to Charisma (Persuasion) checks when advocating for justice.                                 | 75 gp      |
+| **Shield of the Divine Guard** | A shield blessed by the gods, provides +2 AC and resistance to slashing damage.                                              | 800 gp     |
+| **Celestial Ink**              | Ink made from the essence of stars, used to write sacred scrolls.                                                            | 50 gp      |
+| **Blessed Oil of Protection**  | An oil that can be applied to an armor to grant resistance to poison.                                                        | 100 gp     |
+| **Scroll of Divine Truth**     | A scroll that allows the user to cast _Zone of Truth_ once.                                                                  | 200 gp     |
+| **Lantern of Revelation**      | A lantern that reveals hidden doors, traps, or illusions within 30 feet when lit (+5 to perception to find those).           | 250 gp     |
+| **Medallion of Clarity**       | A medallion that grants advantage on Wisdom (Insight) checks.                                                                | 750 gp     |
+| **Tome of Ancient Laws**       | A book containing ancient legal codes, granting advantage on Intelligence (History) checks related to law.                   | 300 gp     |
+| **Gauntlets of the Protector** | Gauntlets that grant +1 to AC and allow the wearer to cast _Shield of Faith_ once per day but disadvantage to slight of hand | 400 gp     |
+| **Potion of Divine Insight**   | A potion that grants advantage on Intelligence (Investigation) checks for 1 hour.                                            | 120 gp     |
+| **Ring of Sacred Oath**        | A ring that grants +1 to saving throws and advantage on Charisma (Persuasion) checks when swearing an oath.                  | 500 gp     |
+| **Scroll of Protection**       | A scroll that allows the user to cast _Protection from Evil and Good_ once.                                                  | 150 gp     |
+| **Censer of Purification**     | A censer that, when burned, purifies a 20-foot radius of disease or poison.                                                  | 350 gp     |
+| **Helm of the Righteous**      | A helm that grants immunity to fear and +1 to Wisdom saving throws.                                                          | 600 gp     |
+
+---
+
+### **Services Offered**
+
+|Service|Description|Price (gp)|
+|---|---|---|
+|**Divine Judgment**|A priest performs a ritual to determine the guilt or innocence of a creature (as _Zone of Truth_).|100 gp|
+|**Sacred Oath Ceremony**|A priest conducts a ceremony to bind a character to a sacred oath (grants inspiration).|200 gp|
+|**Commission: Holy Relic**|A priest crafts a custom holy relic (e.g., a weapon, shield, or amulet) with minor divine properties.|Varies (500-1,000 gp)|
+|**Blessing of Protection**|A priest blesses a character, granting them +1 to AC and saving throws for 24 hours.|150 gp|
+|**Knowledge of the Ancients**|A priest provides insight into ancient lore (advantage on Intelligence checks for 24 hours).|100 gp|
+|**Ritual of Cleansing**|A priest performs a ritual to cleanse a creature or object of curses or corruption.|250 gp|
+|**Training in Divine Magic**|A priest teaches the basics of divine magic, allowing the character to cast a 1st-level cleric spell once per day.|500 gp|
+|**Sanctuary Offering**|A priest offers sanctuary within the temple, providing safety and healing (1d8 HP per day).|50 gp/day|
+|**Divine Insight**|A priest provides guidance on a specific problem (as _Augury_ spell).|75 gp|
+|**Sacred Weapon Blessing**|A priest blesses a weapon, granting it +1 to attack and damage rolls for 24 hours.|300 gp|
+
+---
+
+### **Special Items (Rare)**
+
 |Item|Description|Price (gp)|
 |---|---|---|
-|**Divine Tome of Justice**|A sacred book that offers guidance on moral and legal dilemmas|150 gp|
-|**Holy Symbol of the Just**|A symbol that grants a +1 bonus to Charisma (Persuasion) checks when advocating for justice|75 gp|
-|**Shield of the Divine Guard**|A shield blessed by the gods, provides +2 AC and resistance to necrotic damage|300 gp|
-|**Celestial Ink**|Ink made from the essence of stars, used to write sacred scrolls|50 gp|
-|**Blessed Oil of Protection**|An oil that can be applied to a weapon or armor to grant resistance to poison|100 gp|
+|**Sword of Divine Justice**|A +1 longsword that deals an additional 1d6 radiant damage to evil-aligned creatures.|1,500 gp|
+|**Shield of the Righteous**|A +2 shield that grants immunity to charm and fear while wielded.|2,000 gp|
+|**Tome of Ultimate Truth**|A book that allows the reader to cast _Legend Lore_ once per week.|1,200 gp|
+|**Crown of the Just**|A crown that grants advantage on Charisma (Persuasion) and Wisdom (Insight) checks.|1,000 gp|
+|**Amulet of Divine Protection**|An amulet that grants resistance to radiant and necrotic damage.|1,500 gp|
+|**Staff of the High Priest**|A staff that allows the wielder to cast _Bless_, _Cure Wounds_, and _Hold Person_ once per day each.|2,500 gp|
+|**Cloak of the Righteous**|A cloak that grants advantage on saving throws against spells and magical effects.|1,800 gp|
+|**Ring of Divine Favor**|A ring that allows the wearer to cast _Divine Favor_ once per day.|1,000 gp|
 
 ---
 

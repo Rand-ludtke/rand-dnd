@@ -16,16 +16,26 @@
 
 ## Services & Items
 
-|Item|Description|Price (gp)|
-|---|---|---|
-|Sea Glass Necklace|A necklace made from enchanted sea glass, grants +1 to Charisma checks|50 gp|
-|Starfish Talisman|A small amulet that enhances the wearer's swimming speed (+10 ft)|75 gp|
-|Jellyfish Lantern|A glowing lantern that illuminates dark areas with a soft, bioluminescent light|30 gp|
-|Kraken’s Fang Pendant|A pendant made from a Kraken's tooth, grants advantage on checks to resist drowning|100 gp|
-|Mermaid’s Teardrop|An enchanted pearl that allows the user to speak underwater for 10 minutes per day|50 gp|
-|Sea Serpent Scale Armor|Armor made from enchanted sea serpent scales, grants resistance to cold damage|200 gp|
-|Leviathan’s Eye Charm|A charm that grants the user the ability to see in the dark underwater (30 ft)|120 gp|
-|Tidal Wave Ring|A magical ring that can summon a small wave once per day, useful for washing away obstacles|150 gp|
+| Item                        | Description                                                                                    | Price (gp) |
+| --------------------------- | ---------------------------------------------------------------------------------------------- | ---------- |
+| **Jellyfish Lantern**       | A glowing lantern that illuminates dark areas with a soft, bioluminescent light.               | 30 gp      |
+| **Sea Glass Necklace**      | A necklace made from enchanted sea glass, grants +1 to Charisma checks.                        | 50 gp      |
+| **Mermaid’s Teardrop**      | An enchanted pearl that allows the user to speak underwater for 10 minutes per day.            | 50 gp      |
+| **Starfish Talisman**       | A small amulet that enhances the wearer's swimming speed (+10 ft).                             | 75 gp      |
+| **Ocean’s Echo Conch**      | When held to the ear, this conch allows the user to hear distant whispers carried by the tide. | 75 gp      |
+| **Brine-Touched Compass**   | Points not to the north, but to the nearest source of fresh water.                             | 80 gp      |
+| **Eel’s Whisper Bracelet**  | Allows the wearer to move silently through water, grants advantage on Stealth checks.          | 90 gp      |
+| **Kraken’s Fang Pendant**   | A pendant made from a Kraken's tooth, grants advantage on checks to resist drowning.           | 100 gp     |
+| **Leviathan’s Eye Charm**   | A charm that grants the user the ability to see in the dark underwater (30 ft).                | 120 gp     |
+| **Sharktooth Charm**        | Grants the wearer +1 AC while swimming.                                                        | 125 gp     |
+| **Tidal Wave Ring**         | A magical ring that can summon a small wave once per day, useful for washing away obstacles.   | 150 gp     |
+| **Barnacle Grip Gauntlets** | Grants the wearer a powerful grip, advantage on Athletics checks to climb or hold objects.     | 175 gp     |
+| **Sea Serpent Scale Armor** | Armor made from enchanted sea serpent scales, grants resistance to cold damage.                | 200 gp     |
+| **Currentshaper Medallion** | Allows the wearer to redirect small waves or currents with a flick of the wrist.               | 200 gp     |
+| **Moonlit Driftwood Staff** | A staff made from driftwood that glows under the moonlight, enhances water-based magic.        | 250 gp     |
+| **Foamstep Sandals**        | Allows the wearer to walk on foam and lightly cresting waves for short distances.              | 275 gp     |
+| **Siren’s Lullaby Harp**    | A small harp that, when played, charms nearby creatures for 1 minute (once per long rest).     | 300 gp     |
+| **Ghost Coral Pendant**     | Allows the wearer to see faint traces of spirits lost at sea.                                  | 350 gp     |
 
 ---
 

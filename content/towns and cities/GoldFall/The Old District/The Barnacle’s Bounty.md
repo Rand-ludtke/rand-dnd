@@ -14,13 +14,22 @@
 
 ## Services & Items
 
-|Item|Description|Price (gp)|
-|---|---|---|
-|**Salted Seaweed**|A bag of salted seaweed, used in cooking or as a supplement to a diet rich in minerals|15 gp|
-|**Whale Blubber Balm**|A healing balm made from whale blubber, restores 1d6+2 hit points when applied|50 gp|
-|**Tidal Wave Fish**|A rare fish that releases a burst of water when caught, can be eaten to gain temporary swimming speed|75 gp|
-|**Ocean’s Bounty Spice**|A potent spice mix used to enhance seafood dishes, adds +2 to Charisma (Persuasion) checks during social meals|25 gp|
-|**Fisherman’s Net**|A magical net that can be cast into any body of water to catch a bounty of fish (once per day)|200 gp|
+| **Item**                 | **Description**                                                                                              | **Price (gp)** |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------ | -------------- |
+| **Salted Seaweed**       | A bag of salted seaweed, used in cooking or as a supplement to a diet rich in minerals.                      | 15 gp          |
+| **Whale Blubber Balm**   | A healing balm made from whale blubber, restores **1d6+2** hit points when applied.                          | 50 gp          |
+| **Tidal Wave Fish**      | A rare fish that releases a burst of water when caught, can be eaten to gain **temporary swimming speed**.   | 75 gp          |
+| **Ocean’s Bounty Spice** | A potent spice mix used to enhance seafood dishes, adds **+2 to Charisma (Persuasion)** checks during meals. | 25 gp          |
+| **Fisherman’s Net**      | A magical net that can be cast into any body of water to catch a bounty of fish (**once per day**).          | 200 gp         |
+| **Deep Sea Clam**        | A large clam that sometimes contains a small pearl, can be used in high-class cooking or sold for profit.    | 30 gp          |
+| **Siren’s Honey**        | A rare, sweet syrup made from deep-sea coral pollen, grants **advantage on Performance checks** for 1 hour.  | 100 gp         |
+| **Shark Fin Jerky**      | Dried shark fin that provides energy, grants **+1 to Strength checks** for 1 hour after consumption.         | 40 gp          |
+| **Abyssal Crab Meat**    | A delicacy harvested from deep-sea crabs, provides resistance to cold for **one hour** when eaten.           | 80 gp          |
+| **Glowfish Filet**       | A fish filet that faintly glows, safe to eat, and acts as a dim light source for **1 hour** after ingestion. | 60 gp          |
+| **Storm Eel**            | A rare eel that produces static energy when alive, can be used in potions or cooked for an energizing meal.  | 90 gp          |
+| **Barnacle Bread**       | A tough, sea-infused bread that stays fresh for **months**, a favorite of sailors and long voyages.          | 10 gp          |
+| **Black Pearl Oyster**   | A rare oyster that may contain a black pearl, which can be sold or used in magical crafting.                 | 150 gp         |
+
 
 ---
 

@@ -16,14 +16,35 @@
 
 ## Services & Items
 
+#### **Drinks & Enhancements** 
+
 |Item|Description|Price (gp)|
 |---|---|---|
-|Tidal Spice|A magical seasoning that enhances the flavor of seafood dishes|5 gp|
-|Sea Salt Flask|A flask of concentrated sea salt for cooking or enchanting|10 gp|
-|Rope of Binding|A coil of enchanted rope that ties itself to objects|25 gp|
-|Pirate's Hook|A sturdy hook for use as a prosthetic limb, enchanted to hold onto anything|50 gp|
-|Stormy Brew|A dark ale that causes minor lightning effects when consumed|15 gp|
-|Kraken’s Horn Cocktail|A potent drink that grants advantage on Intimidation checks for 1 hour|30 gp|
+|**Stormy Brew**|A dark ale that causes minor lightning effects when consumed.|15 gp|
+|**Kraken’s Horn Cocktail**|A potent drink that grants advantage on Intimidation checks for 1 hour.|30 gp|
+|**Siren’s Sangria**|A sweet, ocean-blue drink that enhances Persuasion checks for 30 minutes.|25 gp|
+|**Deep Diver’s Rum**|A strong, black rum that grants resistance to cold for an hour.|20 gp|
+|**Gale Force Whiskey**|A fiery drink that briefly increases movement speed by 10 feet.|35 gp|
+|**Mermaid’s Kiss**|A delicate champagne that allows the drinker to breathe underwater for 10 min.|50 gp|
+
+#### **Spices & Ingredients** 
+
+|Item|Description|Price (gp)|
+|---|---|---|
+|**Tidal Spice**|A magical seasoning that enhances the flavor of seafood dishes.|5 gp|
+|**Sea Salt Flask**|A flask of concentrated sea salt for cooking or enchanting.|10 gp|
+|**Shimmerfin Caviar**|Rare caviar from luminescent fish, used in high-end alchemy or luxury meals.|40 gp|
+|**Dragonfish Oil**|Extracted from a fiery sea creature, adds spice and heat to dishes.|20 gp|
+
+#### **Enchanted Tools & Curios** 
+
+|Item|Description|Price (gp)|
+|---|---|---|
+|**Rope of Binding**|A coil of enchanted rope that ties itself to objects.|25 gp|
+|**Pirate’s Hook**|A sturdy hook for use as a prosthetic limb, enchanted to hold onto anything.|50 gp|
+|**Echo Shell**|A conch shell that records and replays whispered messages.|35 gp|
+|**Barnacle’s Grip Gloves**|Gloves that grant advantage on climbing and grappling checks.|60 gp|
+|**Moonlit Tankard**|A tankard that keeps any beverage at the perfect temperature indefinitely.|20 gp|
 
 ---
 

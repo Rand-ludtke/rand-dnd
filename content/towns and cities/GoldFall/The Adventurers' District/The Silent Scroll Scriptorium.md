@@ -25,23 +25,47 @@
 
 ## Services & Items
 
-| Item                               | Description                                                                            | Price (gp) |
-| ---------------------------------- | -------------------------------------------------------------------------------------- | ---------- |
-| **Arcane Lock Scroll**             | A scroll that, when read, casts Arcane Lock.                                           | 50 gp      |
-| **Counterspell Scroll**            | A scroll that, when read, allows the caster to counter a spell in progress.            | 200 gp     |
-| **Feather Fall Scroll**            | A scroll that, when read, casts Feather Fall to slow the descent of falling creatures. | 50 gp      |
-| **Fireball Scroll**                | A scroll that, when read, casts the Fireball spell.                                    | 150 gp     |
-| **Frostbite Scroll**               | A scroll that, when read, casts Frostbite, dealing cold damage and slowing the target. | 75 gp      |
-| **Greater Invisibility Scroll**    | A scroll that, when read, casts Greater Invisibility.                                  | 400 gp     |
-| **Magic Missile Scroll**           | A scroll that, when read, casts the Magic Missile spell.                               | 50 gp      |
-| **Misty Step Scroll**              | A scroll that, when read, casts Misty Step, allowing the caster to teleport 30 feet.   | 150 gp     |
-| **Scroll of Comprehend Languages** | A scroll that, when read, grants the ability to comprehend any language for 1 hour.    | 40 gp      |
-| **Scroll of Detect Magic**         | A scroll that, when read, casts Detect Magic.                                          | 100 gp     |
-| **Scroll of Dispel Magic**         | A scroll that, when read, casts Dispel Magic to remove magical effects.                | 150 gp     |
-| **Scroll of Healing Word**         | A scroll that, when read, casts Healing Word.                                          | 100 gp     |
-| **Scroll of Plane Shift**          | A scroll that, when read, allows the caster to travel to another plane.                | 2000 gp    |
-| **Shield Scroll**                  | A scroll that, when read, casts the Shield spell, providing extra protection.          | 150 gp     |
-| **Teleportation Scroll**           | A scroll that, when read, casts Teleportation.                                         | 1500 gp    |
+|Item|Description|Price (gp)|
+|---|---|---|
+|**Arcane Lock Scroll**|A scroll that, when read, casts _Arcane Lock_ to magically secure a door or chest.|50 gp|
+|**Counterspell Scroll**|A scroll that, when read, allows the caster to _Counterspell_ a spell in progress.|200 gp|
+|**Darkvision Scroll**|A scroll that, when read, grants _Darkvision_ for 8 hours.|100 gp|
+|**Dimension Door Scroll**|A scroll that, when read, casts _Dimension Door_ to teleport up to 500 feet.|500 gp|
+|**Feather Fall Scroll**|A scroll that, when read, casts _Feather Fall_ to slow falling creatures.|50 gp|
+|**Fireball Scroll**|A scroll that, when read, casts _Fireball_ to unleash fiery destruction.|150 gp|
+|**Flame Blade Scroll**|A scroll that, when read, summons a flaming sword for 10 minutes.|125 gp|
+|**Frostbite Scroll**|A scroll that, when read, casts _Frostbite_, dealing cold damage and slowing enemies.|75 gp|
+|**Greater Invisibility Scroll**|A scroll that, when read, casts _Greater Invisibility_ for stealth and escape.|400 gp|
+|**Haste Scroll**|A scroll that, when read, casts _Haste_, doubling speed and granting an extra action.|300 gp|
+|**Identify Scroll**|A scroll that, when read, reveals the properties of a magical item.|75 gp|
+|**Lightning Bolt Scroll**|A scroll that, when read, casts _Lightning Bolt_ in a 100-foot line.|175 gp|
+|**Magic Missile Scroll**|A scroll that, when read, casts _Magic Missile_ for reliable force damage.|50 gp|
+|**Misty Step Scroll**|A scroll that, when read, allows the caster to _Misty Step_ up to 30 feet.|150 gp|
+|**Phantom Steed Scroll**|A scroll that, when read, summons a spectral horse for 1 hour.|125 gp|
+|**Protection from Evil & Good Scroll**|A scroll that, when read, protects against fiends, undead, and other creatures.|75 gp|
+|**Scroll of Comprehend Languages**|A scroll that, when read, grants the ability to understand any language for 1 hour.|40 gp|
+|**Scroll of Detect Magic**|A scroll that, when read, casts _Detect Magic_ for 10 minutes.|100 gp|
+|**Scroll of Dispel Magic**|A scroll that, when read, casts _Dispel Magic_ to remove magical effects.|150 gp|
+|**Scroll of Healing Word**|A scroll that, when read, casts _Healing Word_ for quick magical healing.|100 gp|
+|**Scroll of Plane Shift**|A scroll that, when read, allows the caster to travel to another plane.|2000 gp|
+|**Shield Scroll**|A scroll that, when read, casts _Shield_ for an instant boost to AC.|150 gp|
+|**Silent Image Scroll**|A scroll that, when read, creates an illusory image.|75 gp|
+|**Teleportation Scroll**|A scroll that, when read, casts _Teleportation_ for near-instant travel.|1500 gp|
+|**Wall of Force Scroll**|A scroll that, when read, conjures an invisible, indestructible wall.|1000 gp|
+|**Wish Scroll (Extremely Rare)**|A scroll that, when read, casts _Wish_—the most powerful spell in existence.|50,000+ gp|
+
+---
+
+### **Arcane Services & Research**
+
+| Service                        | Description                                                                            | Price (gp)   |
+| ------------------------------ | -------------------------------------------------------------------------------------- | ------------ |
+| **Spell Scribing**             | A wizard can transfer a spell from a scroll into their spellbook. _(Time: 1-8 hours.)_ | 50-500 gp    |
+| **Magical Ink & Parchment**    | Arcane-quality materials for wizards and scribes.                                      | 10-100 gp    |
+| **Scroll Commissioning**       | The shop can craft a custom scroll. _(Time: 1d6 days.)_                                | 100-2,000 gp |
+| **Identify & Appraisal**       | Identifies a magic item and its properties. _(Takes 1 hour.)_                          | 50 gp        |
+| **Arcane Research Assistance** | The shop provides access to rare magical texts for research. _(Time: 1 day.)_          | 250 gp       |
+| **Magic for Dummies**          | Can teach even the most stupid a cantrip (2d4 hours)                                   | 500 gp       |
 
 ---
 

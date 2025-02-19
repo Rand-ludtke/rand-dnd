@@ -18,11 +18,50 @@
 
 |Item|Description|Price (gp)|
 |---|---|---|
-|Soothing Saltwater Bath|A relaxing bath that restores 1d4 HP and grants advantage on Wisdom (Perception) checks for 1 hour|10 gp|
-|Seaweed Body Wrap|A rejuvenating body wrap that increases the consumer's swimming speed by 5 ft for 1 hour|15 gp|
-|Ocean Breeze Massage|A full-body massage that grants advantage on Constitution saving throws for 1 hour|20 gp|
-|Saltwater Foot Soak|A foot soak that relieves stress and grants advantage on Dexterity (Acrobatics) checks for 1 hour|5 gp|
-|Deep Sea Elixir|A magical elixir made from deep-sea minerals that heals 1d6 HP and increases resistance to cold damage for 1 hour|25 gp|
+|**Soothing Saltwater Bath**|A relaxing bath that restores 1d4 HP and grants advantage on Wisdom (Perception) checks for 1 hour.|10 gp|
+|**Seaweed Body Wrap**|A rejuvenating body wrap that increases the consumer's swimming speed by 5 ft for 1 hour.|15 gp|
+|**Ocean Breeze Massage**|A full-body massage that grants advantage on Constitution saving throws for 1 hour.|20 gp|
+|**Saltwater Foot Soak**|A foot soak that relieves stress and grants advantage on Dexterity (Acrobatics) checks for 1 hour.|5 gp|
+|**Deep Sea Elixir**|A magical elixir made from deep-sea minerals that heals 1d6 HP and increases resistance to cold damage for 1 hour.|25 gp|
+|**Pearl Essence Facial**|A luxurious facial treatment that grants advantage on Charisma (Persuasion) checks for 1 hour.|30 gp|
+|**Tidal Wave Sauna**|A sauna infused with saltwater steam, granting temporary hit points (1d8) and resistance to fire damage for 1 hour.|40 gp|
+|**Coral Scrub Exfoliation**|A full-body scrub that removes toxins, curing one level of exhaustion.|50 gp|
+|**Moonlit Pool Meditation**|A guided meditation session in a moonlit saltwater pool, granting advantage on Wisdom saving throws for 1 hour.|25 gp|
+|**Abyssal Mud Mask**|A mask made from deep-sea mud that grants advantage on Constitution checks for 1 hour.|20 gp|
+|**Brine Soak**|A concentrated saltwater soak that grants resistance to acid damage for 1 hour.|35 gp|
+|**Mermaid’s Tear Tonic**|A tonic that grants water breathing for 1 hour and a swimming speed of 30 ft.|50 gp|
+|**Tidal Harmony Bath**|A bath infused with calming sea herbs, granting immunity to fear and charm for 1 hour.|60 gp|
+
+---
+
+### **Services Offered**
+
+|Service|Description|Price (gp)|
+|---|---|---|
+|**Private Saltwater Pool**|Exclusive access to a private saltwater pool for 1 hour, with personalized services.|50 gp|
+|**Couples’ Relaxation Package**|A shared bath, massage, and foot soak for two, granting both participants advantage on saving throws for 1 hour.|100 gp|
+|**Healing Waters Ritual**|A ritual performed by a bathhouse mystic, curing one disease or condition (e.g., poisoned).|75 gp|
+|**Aquatic Therapy Session**|A guided water therapy session that restores 2d6 HP and removes one level of exhaustion.|60 gp|
+|**Saltwater Yoga**|A yoga session in the saltwater pools, granting advantage on Dexterity saving throws for 1 hour.|30 gp|
+|**Custom Bath Blend**|A bath tailored to the customer’s needs, with specific magical or restorative properties.|40-100 gp|
+|**Luxury Robe and Sandals**|A set of high-quality bathhouse attire that grants +1 to Charisma checks while worn.|25 gp|
+|**Sea Salt Candle**|A candle infused with sea salt and herbs, creating a calming atmosphere that grants advantage on Wisdom (Insight) checks.|15 gp|
+|**Bathhouse Membership**|A monthly membership granting unlimited access to the bathhouse and discounts on services.|200 gp|
+
+---
+
+### **Special Items (Rare)**
+
+|Item|Description|Price (gp)|
+|---|---|---|
+|**Pearl of Serenity**|A pearl that, when placed in water, creates a calming aura (grants advantage on saving throws against fear and charm).|500 gp|
+|**Tidepool Crystal**|A crystal that grants the user the ability to cast _Cure Wounds_ (2nd level) once per day.|750 gp|
+|**Mermaid’s Comb**|A comb that grants the user advantage on Charisma checks and allows them to cast _Charm Person_ once per day.|1,000 gp|
+|**Coral Amulet of the Deep**|An amulet that grants water breathing and a swimming speed of 30 ft permanently.|1,500 gp|
+|**Saltwater Orb**|An orb that can be used to cast _Control Water_ once per day.|1,200 gp|
+|**Abyssal Pearl**|A pearl that grants resistance to cold and necrotic damage while worn.|800 gp|
+|**Tidal Cloak**|A cloak that grants the wearer advantage on Stealth checks in watery environments and +1 to AC.|1,000 gp|
+|**Ocean’s Embrace Ring**|A ring that grants the wearer advantage on Constitution saving throws and immunity to drowning.|1,200 gp|
 
 ---
 

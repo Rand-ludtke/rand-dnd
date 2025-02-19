@@ -16,14 +16,23 @@
 
 ## Services & Items
 
-|Item|Description|Price (gp)|
-|---|---|---|
-|Driftwood Hull|A sturdy ship hull made from enchanted driftwood, increases speed in rough waters|500 gp|
-|Sea Breeze Sail|A magically enhanced sail that allows the ship to glide smoothly even in light winds|100 gp|
-|Coral Anchor|An anchor made from enchanted coral, grants resistance to storms when dropped|75 gp|
-|Shipwright’s Tools|A set of high-quality tools for ship repair and building|50 gp|
-|Reinforced Timber|Special timber that increases the durability of ships|15 gp per plank|
-|Wavecaller’s Rudder|A rudder that enhances a ship’s maneuverability and controls|150 gp|
+| Item                         | Description                                                                                 | Price (gp)      |
+| ---------------------------- | ------------------------------------------------------------------------------------------- | --------------- |
+| **Reinforced Timber**        | Special timber that increases the durability of ships.                                      | 15 gp per plank |
+| **Shipwright’s Tools**       | A set of high-quality tools for ship repair and building.                                   | 50 gp           |
+| **Coral Anchor**             | An anchor made from enchanted coral, grants resistance to storms when dropped.              | 75 gp           |
+| **Krakenhide Patches**       | Durable patches made from kraken skin, used for emergency hull repairs.                     | 80 gp           |
+| **Sea Breeze Sail**          | A magically enhanced sail that allows the ship to glide smoothly even in light winds.       | 100 gp          |
+| **Bilge Purifier**           | A magical device that keeps a ship’s bilge water clean, preventing disease.                 | 100 gp          |
+| **Merrow’s Whisper Rigging** | Ropes woven with enchanted fibers, making climbing and adjusting sails effortless.          | 125 gp          |
+| **Wavecaller’s Rudder**      | A rudder that enhances a ship’s maneuverability and controls.                               | 150 gp          |
+| **Depthsounder Compass**     | A compass that detects underwater hazards and hidden reefs.                                 | 180 gp          |
+| **Ghostwake Lantern**        | A spectral lantern that creates an eerie glow, making the ship harder to track at night.    | 200 gp          |
+| **Barnacle Shielding**       | A magical coating that hardens a ship’s hull, granting resistance to damage.                | 250 gp          |
+| **Stormbreaker Keel**        | A reinforced keel that stabilizes a ship in stormy weather, reducing risk of capsizing.     | 300 gp          |
+| **Phantom Wake Tiller**      | A tiller that leaves no visible wake, making the ship harder to track.                      | 300 gp          |
+| **Leviathan Harpoon**        | A massive harpoon designed for hunting sea monsters, deals extra damage to large creatures. | 400 gp          |
+| **Driftwood Hull**           | A sturdy ship hull made from enchanted driftwood, increases speed in rough waters.          | 500 gp          |
 
 ---
 

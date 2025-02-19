@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 ---
 ![[Pasted image 20250119222123.png]]
 **Wondrous Item, Rare (requires attunement)**

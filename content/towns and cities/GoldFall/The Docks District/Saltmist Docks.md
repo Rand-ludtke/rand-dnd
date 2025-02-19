@@ -16,14 +16,20 @@
 
 ## Services & Items
 
-| Item                | Description                                                                 | Price (gp) |
-| ------------------- | --------------------------------------------------------------------------- | ---------- |
-| Fisherman's Net     | A durable net that increases fishing yields and catches rare fish           | 10 gp      |
-| Saltwater Chalice   | A chalice that can purify water from the sea, turning it into potable water | 15 gp      |
-| Wrought Iron Hook   | A hook used for climbing or as a prosthetic limb, with excellent durability | 20 gp      |
-| Stormbreaker Nets   | Enchanted fishing nets that capture rare, magical aquatic creatures         | 25 gp      |
-| Waterproof Cloak    | A cloak that provides resistance to cold and wet conditions                 | 150 gp     |
-| Anchor of the Storm | A heavy anchor that can summon a small thunderstorm once per day            | 250 gp     |
+| Item                       | Description                                                                         | Price (gp) |
+| -------------------------- | ----------------------------------------------------------------------------------- | ---------- |
+| **Fisherman's Net**        | A durable net that increases fishing yields and catches rare fish.                  | 10 gp      |
+| **Saltwater Chalice**      | A chalice that can purify seawater, turning it into potable water.                  | 15 gp      |
+| **Wrought Iron Hook**      | A sturdy hook used for climbing or as a prosthetic limb, with excellent durability. | 20 gp      |
+| **Stormbreaker Nets**      | Enchanted fishing nets that capture rare, magical aquatic creatures.                | 25 gp      |
+| **Wavecaller’s Shell**     | A conch shell that allows the user to cast _Message_ up to 500 feet over water.     | 50 gp      |
+| **Mariner’s Rope**         | An enchanted rope that untangles itself and secures knots perfectly.                | 75 gp      |
+| **Tideforged Compass**     | A magical compass that always points to the nearest coastline.                      | 100 gp     |
+| **Quartz Koi**             | Britta                                                                              | 100 gp     |
+| **Waterproof Cloak**       | A cloak that provides resistance to cold and wet conditions.                        | 150 gp     |
+| **Anchor of the Storm**    | A heavy anchor that can summon a small thunderstorm once per day.                   | 250 gp     |
+| **Angler's Wordly Fisher** | Catch Fish from anywhere even on land                                               | 250 gp     |
+| **Barnacle Bracers**       | Bracers that grant a swimming speed equal to walking speed.                         | 300 gp     |
 
 ---
 

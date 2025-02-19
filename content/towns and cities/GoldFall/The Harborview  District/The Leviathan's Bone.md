@@ -25,18 +25,39 @@
 
 ## Services & Items
 
+### **Signature Drinks & Delicacies** 
+
 |Item|Description|Price (gp)|
 |---|---|---|
-|**Seashell Necklace**|A delicate necklace made from enchanted seashells, grants the wearer advantage on Charisma (Persuasion) checks.|75 gp|
-|**Leviathan’s Breath Ale**|A specialty brew made from rare sea herbs, known for its calming and invigorating properties.|10 gp|
+|**Leviathan’s Breath Ale**|A specialty brew made from rare sea herbs, calming the mind and invigorating the body.|10 gp|
+|**Moonlit Wine**|A magical wine that glows faintly in the dark, increasing the drinker’s luck for an hour.|50 gp|
+|**Abyssal Trance Mead**|A dark, syrupy mead that induces hypnotic visions of the deep ocean.|30 gp|
+|**Kraken’s Black Rum**|A strong, inky-black rum that briefly enhances Constitution saves against poison.|25 gp|
 |**Saltwater Kiss Lip Balm**|A lip balm made from seaweed and coral, prevents chapped lips and heals minor wounds.|5 gp|
-|**Moonlit Wine**|A magical wine that glows faintly in the dark, said to increase one’s luck for an hour.|50 gp|
-|**Whirlpool Charm**|A charm made from a shark’s tooth, offers protection against drowning or being pulled into the water.|200 gp|
-|**Coral-Fin Boots**|Enchanted boots made from coral and sea creatures, grants the wearer a swimming speed of 30 feet.|150 gp|
-|**Leviathan's Spine Sword**|A sword crafted from the spine of a leviathan, deals an additional 2d6 damage to sea creatures.|400 gp|
-|**Mermaid’s Tears Perfume**|A sweet-smelling perfume made from rare ocean flowers, allows the wearer to breathe underwater for 1 hour per day.|100 gp|
-|**Tidal Lash Whip**|A whip crafted from kelp and sharkskin, deals 1d6 extra water damage and entangles opponents.|250 gp|
-|**Storm-Forged Hook**|A large hook forged from thunder-struck steel, grants the user advantage on Strength checks.|300 gp|
+
+---
+
+### **Exotic Entertainment & Services** 
+
+- **The Siren’s Ballad:** Enchanted merfolk sing hauntingly beautiful songs that can charm or soothe guests.
+- **The Phantom Waltz:** Dance with an illusionary partner crafted from sea mist—rumors say the spirits of the sea sometimes join in.
+- **Tidal Fortune-Telling:** A mysterious oracle reads fates from shifting water patterns in a silver basin.
+- **Deep Dive Gambling:** A high-stakes game played with enchanted coral dice, with gold and rare magical trinkets on the line.
+- **Shapeshifter Courtesans:** Some workers have minor magical abilities, allowing them to take on aquatic forms or subtle glamours.
+
+---
+
+### **Enchanted Trinkets & Artifacts** 
+
+|Item|Description|Price (gp)|
+|---|---|---|
+|**Seashell Necklace**|Grants advantage on Charisma (Persuasion) checks when engaging in romantic or diplomatic dealings.|75 gp|
+|**Whirlpool Charm**|A shark’s tooth talisman that protects against drowning or being dragged into the sea.|200 gp|
+|**Mermaid’s Tears Perfume**|A rare perfume that allows the wearer to breathe underwater for 1 hour per day.|100 gp|
+|**Coral-Fin Boots**|Boots made from enchanted coral, granting a swimming speed of 30 feet.|150 gp|
+|**Storm-Forged Hook**|A hook crafted from metal struck by lightning, giving advantage on Strength checks.|300 gp|
+|**Tidal Lash Whip**|A whip made from woven kelp and sharkskin, dealing 1d6 extra water damage and entangling foes.|250 gp|
+|**Leviathan's Spine Sword**|A sword crafted from the vertebrae of a leviathan, dealing 2d6 extra damage to sea creatures.|400 gp|
 
 ---
 

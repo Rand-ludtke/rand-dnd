@@ -16,14 +16,25 @@
 
 ## Services & Items
 
-|Item|Description|Price (gp)|
-|---|---|---|
-|Fresh Fish|A variety of fish, from small sardines to large tuna, perfect for meals or potions|1-10 gp|
-|Seaweed Rolls|Nutrient-rich seaweed, great for health potions and restorative brews|5 gp|
-|Giant Clam|A large clam shell that can be harvested for pearl or used in crafting|10 gp|
-|Drowned Shrimp|Rare shrimp with an electric charge, can be used in alchemy or poisons|20 gp|
-|Squid Ink|A vial of ink from a giant squid, used in spellcasting or potion brewing|15 gp|
-|Lobster Tail|A rare delicacy, known to enhance endurance and stamina temporarily|25 gp|
+| Item                       | Description                                                                                         | Price (gp) |
+| -------------------------- | --------------------------------------------------------------------------------------------------- | ---------- |
+| **Fresh Fish**             | A variety of fish, from small sardines to large tuna, perfect for meals or potions.                 | 1-10 gp    |
+| **Seaweed Rolls**          | Nutrient-rich seaweed, great for health potions and restorative brews.                              | 5 gp       |
+| **Giant Clam**             | A large clam shell that can be harvested for pearls or used in crafting.                            | 10 gp      |
+| **Drowned Shrimp**         | Rare shrimp with an electric charge, can be used in alchemy or poisons.                             | 20 gp      |
+| **Squid Ink**              | A vial of ink from a giant squid, used in spellcasting or potion brewing.                           | 15 gp      |
+| **Lobster Tail**           | A rare delicacy, known to enhance endurance and stamina temporarily.                                | 25 gp      |
+| **Stormray Eel**           | A bioluminescent eel that can discharge static energy, useful in potions of shocking grasp.         | 30 gp      |
+| **Triton's Bounty**        | A shimmering fish with gold-flecked scales, rumored to increase charisma when eaten.                | 50 gp      |
+| **Kraken's Whisker**       | A deep-sea fish with long tendrils that can be used as a component in illusion spells.              | 100 gp     |
+| **Abyssal Anglerfish**     | A monstrous fish with a glowing lure, can be ground into a powder for night vision potions.         | 80 gp      |
+| **Firefin Snapper**        | A bright red fish that stays warm even when removed from water, used in heating salves.             | 40 gp      |
+| **Chimera Trout**          | A strange fusion of multiple fish species, its flesh can grant temporary resistance to poisons.     | 60 gp      |
+| **Sirenscale Carp**        | A beautiful fish that hums faint melodies, said to calm those who hear it.                          | 75 gp      |
+| **Moonshadow Ray**         | A translucent stingray that only appears under moonlight, used in invisibility potions.             | 90 gp      |
+| **Gale Shark Fillet**      | Meat from a flying shark, known to enhance agility and speed for a short time.                      | 120 gp     |
+| **Leviathan Roe**          | The rare eggs of an ancient sea creature, can be brewed into a potent vitality elixir.              | 500 gp     |
+| **Deepdweller’s Tentacle** | A severed tentacle from a mysterious abyssal beast, rumored to grant water breathing when consumed. | 900 gp     |
 
 ---
 

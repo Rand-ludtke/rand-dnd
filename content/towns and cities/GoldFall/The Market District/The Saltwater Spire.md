@@ -18,12 +18,21 @@
 
 |Item|Description|Price (gp)|
 |---|---|---|
-|Coral Healing Salve|Restores 1d4 HP when applied to wounds, especially effective for water-based injuries|25 gp|
-|Tidal Wave Charm|A small talisman that grants the user the ability to breathe underwater for 1 hour|100 gp|
-|Aquatic Spirit Amulet|Protects the wearer from drowning, grants advantage on swimming checks|150 gp|
-|Seaweed Tonic|A restorative beverage that grants temporary water resistance and +1 to Constitution saving throws for 1 hour|50 gp|
-|Driftwood Staff|A magical staff that increases control over water-based spells, grants +1 to spellcasting checks related to water|250 gp|
-|Ocean’s Embrace Ring|Grants the wearer the ability to speak with marine creatures once per day|200 gp|
+|**Coral Healing Salve**|Restores 1d4 HP when applied to wounds, especially effective for water-based injuries.|25 gp|
+|**Tidal Wave Charm**|A small talisman that grants the user the ability to breathe underwater for 1 hour.|100 gp|
+|**Aquatic Spirit Amulet**|Protects the wearer from drowning, grants advantage on swimming checks.|150 gp|
+|**Seaweed Tonic**|A restorative beverage that grants temporary water resistance and +1 to Constitution saving throws for 1 hour.|50 gp|
+|**Driftwood Staff**|A magical staff that increases control over water-based spells, grants +1 to spellcasting checks related to water.|250 gp|
+|**Ocean’s Embrace Ring**|Grants the wearer the ability to speak with marine creatures once per day.|200 gp|
+|**Moonlit Algae Pouch**|A small bag of bioluminescent algae that glows in darkness, can be used to create faint light underwater.|20 gp|
+|**Tidebinder’s Cloak**|A flowing blue cloak that enhances the wearer’s ability to move through water, granting +10 ft. swim speed.|175 gp|
+|**Pearl of the Shallows**|Allows the user to detect nearby sources of fresh water when submerged in seawater.|75 gp|
+|**Ebb and Flow Bracelet**|Grants the wearer resistance to the effects of strong currents and tides.|125 gp|
+|**Waveborn Anklet**|Allows the wearer to walk on water for up to 5 minutes per day.|250 gp|
+|**Barnacle Shield**|A shield reinforced with magical barnacles, grants +1 AC and resistance to bludgeoning damage from underwater foes.|300 gp|
+|**Song of the Seashell**|A conch shell that, when blown, calms nearby marine creatures within a 30-foot radius.|100 gp|
+|**Nautilus Oracle Stone**|A polished spiral stone that provides brief glimpses of the future when submerged in seawater.|400 gp|
+|**Verdant Coral Pendant**|A druidic pendant that allows the wearer to cast _Entangle_ once per long rest.|250 gp|
 
 ---
 
