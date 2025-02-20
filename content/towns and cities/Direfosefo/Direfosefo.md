@@ -73,7 +73,7 @@ A charming two-story home near **High Altitude Brews**, with a small herb garden
 Whether stopping for a break on a long journey or staying to enjoy the scenic beauty and warm hospitality, Direfosefo offers an experience unlike any other.
 
 
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
