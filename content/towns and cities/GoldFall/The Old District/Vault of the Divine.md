@@ -36,7 +36,7 @@
 | **Ring of Sacred Oath**        | A ring that grants +1 to saving throws and advantage on Charisma (Persuasion) checks when swearing an oath.                  | 500 gp     |
 | **Scroll of Protection**       | A scroll that allows the user to cast _Protection from Evil and Good_ once.                                                  | 150 gp     |
 | **Censer of Purification**     | A censer that, when burned, purifies a 20-foot radius of disease or poison.                                                  | 350 gp     |
-| **Helm of the Righteous**      | A helm that grants immunity to fear and +1 to Wisdom saving throws.                                                          | 600 gp     |
+| **Helm of the Righteous**      | A helm that grants immunity to fear and +1 to Wisdom saving throws.                                                          | 1000 gp    |
 
 ---
 
@@ -59,16 +59,16 @@
 
 ### **Special Items (Rare)**
 
-|Item|Description|Price (gp)|
-|---|---|---|
-|**Sword of Divine Justice**|A +1 longsword that deals an additional 1d6 radiant damage to evil-aligned creatures.|1,500 gp|
-|**Shield of the Righteous**|A +2 shield that grants immunity to charm and fear while wielded.|2,000 gp|
-|**Tome of Ultimate Truth**|A book that allows the reader to cast _Legend Lore_ once per week.|1,200 gp|
-|**Crown of the Just**|A crown that grants advantage on Charisma (Persuasion) and Wisdom (Insight) checks.|1,000 gp|
-|**Amulet of Divine Protection**|An amulet that grants resistance to radiant and necrotic damage.|1,500 gp|
-|**Staff of the High Priest**|A staff that allows the wielder to cast _Bless_, _Cure Wounds_, and _Hold Person_ once per day each.|2,500 gp|
-|**Cloak of the Righteous**|A cloak that grants advantage on saving throws against spells and magical effects.|1,800 gp|
-|**Ring of Divine Favor**|A ring that allows the wearer to cast _Divine Favor_ once per day.|1,000 gp|
+| Item                            | Description                                                                                          | Price (gp) |
+| ------------------------------- | ---------------------------------------------------------------------------------------------------- | ---------- |
+| **Sword of Divine Justice**     | A +1 longsword that deals an additional 1d6 radiant damage to evil-aligned creatures.                | 1,500 gp   |
+| **Shield of the Righteous**     | A +2 shield that grants immunity to charm and fear while wielded.                                    | 6,000 gp   |
+| **Tome of Ultimate Truth**      | A book that allows the reader to cast _Legend Lore_ once per week.                                   | 10,000 gp  |
+| **Crown of the Just**           | A crown that grants advantage on Charisma (Persuasion) and Wisdom (Insight) checks.                  | 2,000 gp   |
+| **Amulet of Divine Protection** | An amulet that grants resistance to radiant and necrotic damage.                                     | 10,000 gp  |
+| **Staff of the High Priest**    | A staff that allows the wielder to cast _Bless_, _Cure Wounds_, and _Hold Person_ once per day each. | 3,500 gp   |
+| **Cloak of the Righteous**      | A cloak that grants advantage on saving throws against spells and magical effects.                   | 2,500 gp   |
+| **Ring of Divine Favor**        | A ring that allows the wearer to cast _Divine Favor_ once per day.                                   | 500 gp     |
 
 ---
 

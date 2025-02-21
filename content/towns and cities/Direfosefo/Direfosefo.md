@@ -22,7 +22,7 @@ darkMode: false
 
 Direfosefo is a modest but charming town nestled by a small lake, serving as a rest stop for travelers journeying between Ghostfall and Goldfall. Though its market and amenities cater to passing adventurers, merchants, and traders, the town has grown into a destination in its own right thanks to **High Altitude Brews**, an up-and-coming café with a stunning lakeside view, and a unique natural phenomenon: **The Whispering Grotto**.
 
-#### **Notable Locations**
+### **Notable Locations**
 
 ##### **High Altitude Brews**
 
@@ -56,7 +56,7 @@ A two-story stone structure that houses the town’s guard force. The prison sec
 
 A picturesque lake known for its crystal-clear waters and tranquil ambiance. Visitors often take small boats out for fishing, and the lake is said to hold a small, elusive species of shimmering fish that glows faintly under moonlight.
 
-##### **Additional Shops & Establishments**
+### **Additional Shops & Establishments**
 
 - **General Store:** A staple for travelers, offering basic supplies, rations, and equipment.
 - **The Gilded Needle:** A tailor’s shop that specializes in both practical and elegant attire.
@@ -66,7 +66,7 @@ A picturesque lake known for its crystal-clear waters and tranquil ambiance. Vis
 
 ##### Alta Estate
 
-A charming two-story home near **High Altitude Brews**, with a small herb garden where ingredients for the café’s signature drinks are grown. The owners live here, close enough to oversee daily operations while enjoying a peaceful view of the lake.
+A charming three-story home near **High Altitude Brews**, with a small herb garden where ingredients for the café’s signature drinks are grown. The owners live here, close enough to oversee daily operations while enjoying a peaceful view of the lake.
 
 **Culture & Atmosphere:** Direfosefo has a welcoming and laid-back atmosphere, with a mix of locals and travelers creating a dynamic yet peaceful energy. Festivals are occasionally held near the Shimmering Pool, celebrating the town’s unique charm and supernatural allure.
 

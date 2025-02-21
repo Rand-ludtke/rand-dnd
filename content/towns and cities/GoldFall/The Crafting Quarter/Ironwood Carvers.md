@@ -20,7 +20,6 @@
 | ---------------------------- | ----------------------------------------------------------------------------------------------------- | ------------ |
 | **Enchanted Walking Stick**  | A walking stick that grants +2 to Wisdom (Perception) checks (no weapons while holding).              | 50 gp        |
 | **Carved Totem of Strength** | A wooden totem that grants a +2 bonus to Strength checks while carried (lasts 3 days).                | 75 gp        |
-| **Tanglewood Arrows**        | On impact, these arrows burst into grasping vines, attempting to restrain the target (DC 14).         | 120 gp per 5 |
 | **Runed Oak Totem**          | A totem carved with ancient symbols, grants resistance to one chosen elemental damage type.           | 125 gp       |
 | **Sentinel's Carving**       | A carved wooden shield that grants +1 to AC while in combat.                                          | 150 gp       |
 | **Verdant Grove Staff**      | A staff imbued with druidic magic, allows the wielder to cast _Druidcraft_ at will.                   | 150 gp       |
@@ -35,7 +34,6 @@
 | **Starlight Quiver**         | A quiver that magically replenishes its arrows after a long rest.                                     | 300 gp       |
 | **Stormcaller Bow**          | A bow that deals an extra 1d4 lightning damage on a hit.                                              | 350 gp       |
 | **Feywood Longbow**          | A magical longbow made from fey-infused wood, grants advantage on attack rolls against fey creatures. | 400 gp       |
-| **Evertrue Arrows**          | A bundle of five enchanted arrows that return to the quiver after being shot.                         | 400 gp per 5 |
 | **Harmonic Resonance Staff** | A staff that vibrates with mystical energy, granting +1 to spell DCs for Bard spells.                 | 450 gp       |
 | **Arcane Staff**             | A staff imbued with magical energy, grants +1 to spell attack rolls.                                  | 500 gp       |
 | **Staff of the Winds**       | A staff that grants the ability to cast _Fly_ once per day.                                           | 500 gp       |

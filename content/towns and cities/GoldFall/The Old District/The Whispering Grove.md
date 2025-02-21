@@ -19,7 +19,7 @@
 | **Grove’s Blessing**       | A potion that grants resistance to fire or cold damage for 1 hour.                              | 100 gp     |
 | **Nature’s Gift**          | A charm that can be used to heal 1d4+2 hit points once per day.                                 | 75 gp      |
 | **Vine Whip**              | A magical whip made of enchanted vines, dealing 1d6 + 1 damage and restraining foes.            | 150 gp     |
-| **Moonlight Dew**          | A vial of dew from sacred plants, when consumed, grants advantage on Stealth checks for 1 hour. | 50 gp      |
+| **Moonlight Dew**          | A vial of dew from sacred plants, when consumed, grants advantage on Stealth checks for 1 hour. | 150 gp     |
 | **Seed of Renewal**        | A magical seed that, when planted, grows into a healing fruit (restores 2d8+4 HP when eaten).   | 120 gp     |
 | **Barkskin Amulet**        | A wooden amulet that grants the wearer +2 AC for 1 hour (once per day).                         | 200 gp     |
 | **Thorned Cloak**          | A cloak woven with magical thorns; deals 1d4 piercing damage to melee attackers.                | 275 gp     |
@@ -42,7 +42,7 @@
 | **Animal Companion Bonding**    | A druid helps a character bond with a willing beast as a companion (lasts 1 week).                                         | 150 gp              |
 | **Herbalism Training**          | A druid teaches the basics of herbalism, allowing the character to craft basic potions.                                    | 200 gp              |
 | **Sacred Grove Blessing**       | A druid blesses a character, granting them +1 to saving throws for 24 hours.                                               | 75 gp               |
-| **Wildshape Training**          | A druid teaches a character the basics of Wildshape (requires DM approval).                                                | 500 gp              |
+| **Wildshape Training**          | A druid teaches a character the basics of Wildshape (multiclass teacher).                                                  | 500 gp              |
 | **Nature’s Bounty**             | A druid provides a week’s worth of rations made from magical fruits and nuts (never spoils).                               | 150 gp              |
 | **Druidic Tattoo**              | A druid inscribes a magical tattoo that grants +1 to Nature or Survival checks.                                            | 300 gp              |
 
@@ -53,9 +53,9 @@
 | Item                           | Description                                                                                                          | Price (gp) |
 | ------------------------------ | -------------------------------------------------------------------------------------------------------------------- | ---------- |
 | **Staff of the Wild**          | A staff that allows the wielder to cast _Animal Friendship_, _Speak with Animals_, and _Barkskin_ once per day each. | 1,000 gp   |
-| **Cloak of the Forest**        | A cloak that grants advantage on Stealth checks in natural environments and +1 to AC.                                | 1,800 gp   |
-| **Seed of the World Tree**     | A magical seed that grows into a temporary shelter (lasts 24 hours) or can be used to summon a Treant once.          | 15,000 gp  |
-| **Ring of Elemental Affinity** | A ring that grants resistance to one elemental damage type (fire, cold, lightning, or acid) chosen at attunement.    | 1,200 gp   |
+| **Cloak of the Forest**        | A cloak that grants advantage on Stealth checks in natural environments and +1 to AC.                                | 2,000 gp   |
+| **Seed of the World Tree**     | A magical seed that grows into a temporary shelter (lasts 24 hours) or can be used to summon a Treant once.          | 5,000 gp   |
+| **Ring of Elemental Affinity** | A ring that grants resistance to one elemental damage type (fire, cold, lightning, or acid) chosen at attunement.    | 2,500 gp   |
 | **Druidic Circle Stone**       | A stone that allows the user to cast _Druidcraft_ at will and _Conjure Animals_ once per day.                        | 2,000 gp   |
 
 ---
