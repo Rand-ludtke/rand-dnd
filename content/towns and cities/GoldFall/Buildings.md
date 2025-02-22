@@ -59,7 +59,7 @@ darkMode: false
     A peaceful chapel dedicated to The Sea Angel, with a tranquil view of the sea.
 - **[[The Fisher’s Respite]]**  
     A low-key inn favored by local fishermen and weary sailors.
-- **[[The Ocean's Embrace]]]**  
+- **[[The Ocean’s Embrace]]**  
     A serene bathhouse with natural saltwater pools for relaxation.
 - **[[The Waverider Guild]]**  
     A guild dedicated to sailing, exploring, and mapping the seas.
