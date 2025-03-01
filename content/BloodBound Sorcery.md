@@ -32,13 +32,13 @@ Each essence grants:
 
 Switching active abilities requires a Short Rest.
 
-|**Rank**|**Creature Examples**|**Passive Effect Examples**|**Active Ability Examples**|
-|---|---|---|---|
-|Rank 1|Pixie, Blink Dog, Sprite|Learn a cantrip related to the creature (e.g., _Dancing Lights_, _Thaumaturgy_).|Fire a magical dart (1d6 poison, DC 12 Con save or poisoned).|
-|Rank 2|Dryad, Elemental (Small)|Gain limited resistance: Take 3 less damage from one type (fire, cold, etc.).|Release a 15-ft cone of elemental force (2d6 damage of type, DC 13 Dex save).|
-|Rank 3|Wyvern, Unicorn, Medusa|Learn a spell such as _Lesser Restoration_ or _Suggestion_.|Poisonous gaze: Action to force a DC 14 Con save or take 4d6 poison damage.|
-|Rank 4|Adult Dragon, Aboleth|Resistance to one damage type permanently (fire, acid, psychic, etc.).|Dragon’s breath (60-ft cone, 6d6 damage of chosen type, DC 15 Dex save, 1/day).|
-|Rank 5|Kraken, Ancient Dragon|Immunity to restrained underwater, or learn a 4th-level spell.|Transform arms into tentacles (15-ft reach, grapple on hit, DC 16 escape).|
+| **Rank** | **Creature Examples**    | **Passive Effect Examples**                                                      | **Active Ability Examples**                                                     |
+| -------- | ------------------------ | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| Rank 1   | Pixie, Blink Dog, Sprite | Learn a cantrip related to the creature (e.g., _Dancing Lights_, _Thaumaturgy_). | Fire a magical dart (1d6 poison, DC 12 Con save or poisoned).                   |
+| Rank 2   | Dryad, Elemental (Small) | Gain limited resistance: Take 3 less damage from one type (fire, cold, etc.).    | Release a 15-ft cone of elemental force (2d6 damage of type, DC 13 Dex save).   |
+| Rank 3   | Wyvern, Unicorn, Medusa  | Learn a spell such as _Lesser Restoration_ or _Suggestion_.                      | Poisonous gaze: Action to force a DC 14 Con save or take 4d6 poison damage.     |
+| Rank 4   | Adult Dragon, Aboleth    | Resistance to one damage type permanently (fire, acid, psychic, etc.).           | Dragon’s breath (60-ft cone, 6d6 damage of chosen type, DC 15 Dex save, 1/day). |
+| Rank 5   | Kraken, Ancient Dragon   | Immunity to restrained underwater, or learn a 4th-level spell.                   | Transform arms into tentacles (15-ft reach, grapple on hit, DC 16 escape).      |
 
 #### **Good Magical Mutation Table (d100)**
 
