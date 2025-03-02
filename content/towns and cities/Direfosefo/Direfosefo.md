@@ -48,7 +48,7 @@ A picturesque lake known for its crystal-clear waters and tranquil ambiance. Vis
 
 The administrative center of Direfosefo, the town hall hosts meetings, handles disputes, and manages records. The mayor’s office is located here, overseeing trade and town development.
 
-#### **Guard Hall & Prison**
+#### **[[Guard Hall & Prison]]**
 
 A two-story stone structure that houses the town’s guard force. The prison section is small, mostly used for detaining drunks, petty criminals, and the occasional bandit caught on the roads.
 
@@ -64,9 +64,9 @@ A bustling hub for travelers and locals alike, the market offers fresh produce, 
 - **[[The Wandering Quill]]:** A bookshop and scribe service, selling maps and journals.
 - **[[Lakeside Apothecary]]:** A herbalist shop selling potions, salves, and remedies.
 
-#### **Alta Estate**
+#### **[[Alta Estate]]**
 
-A charming three-story home near **High Altatude Brews**, with a small herb garden where ingredients for the café’s signature drinks are grown. The owners live here, close enough to oversee daily operations while enjoying a peaceful view of the lake.
+A charming four-story home near **High Altatude Brews**, with a small herb garden where ingredients for the café’s signature drinks are grown. The owners live here, close enough to oversee daily operations while enjoying a peaceful view of the lake.
 
 **Culture & Atmosphere:** Direfosefo has a welcoming and laid-back atmosphere, with a mix of locals and travelers creating a dynamic yet peaceful energy. Festivals are occasionally held near the Shimmering Pool, celebrating the town’s unique charm and supernatural allure.
 

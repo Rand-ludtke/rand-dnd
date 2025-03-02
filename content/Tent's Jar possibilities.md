@@ -3,9 +3,9 @@ draft: true
 ---
 #### **Active Transformation**
 
-| Origin                      | Days Remaining | d20 Result (Ability)                                                                                                       |
-| --------------------------- | -------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| Heart of an Undead Basilisk |                | **Undead Chill:** The drinker exudes an aura of cold; creatures within 5 feet take 1d4 cold damage each turn for 1 minute. |
+| Origin | Days Remaining | d20 Result (Ability) |
+| ------ | -------------- | -------------------- |
+|        |                |                      |
 
 ---
 

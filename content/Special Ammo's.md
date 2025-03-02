@@ -66,8 +66,9 @@ Available in some weapon stores and most magical stores
 | **Scrying Arrow**        | Allows the shooter to **see through the arrow** for **1 minute**.                                                                                          | 200 gp                |
 | **Gossip Arrow**         | **Reveals and broadcasts** a **mundane secret** about the target.                                                                                          | 75 gp                 |
 | **Arrow of Anti-Magic**  | **Dispels all magic effects** in a **10ft radius** upon impact.                                                                                            | 200 gp                |
-| **Short Jump Arrow**     | **Teleports the shooter** to the arrow's location within **30ft**.                                                                                         | 100 gp                |
-| **Blink Arrow**          | **Teleports the shooter** to the arrow's location.                                                                                                         | 200 gp                |
+| **Short Jump Arrow**     | **Teleports the shooter** to the arrow's location within **30ft**.                                                                                         | 200 gp                |
+| **Blink Arrow**          | **Teleports the shooter** to the arrow's location.                                                                                                         | 500 gp                |
+| **Shadowpiercer Arrows** | Becomes **invisible** mid-flight. Attacks made with this arrow ignore **half cover and three-quarters cover**.                                             | 60 gp                 |
 
 ---
 
@@ -104,3 +105,5 @@ available in some weapon stores and most magical stores
 - +2 Version: 10x base price
     
 - +3 Version: 20x base price
+
+

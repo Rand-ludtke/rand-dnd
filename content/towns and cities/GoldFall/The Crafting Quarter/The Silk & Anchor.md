@@ -59,15 +59,15 @@ A prestigious tailor shop catering to merchants, sailors, and nobles alike, _The
 | **Item**                      | **Rarity** | **Effect**                                                       | **Price** |
 | ----------------------------- | ---------- | ---------------------------------------------------------------- | --------- |
 | **Gloves of Missile Snaring** | Uncommon   | Reduces damage from ranged attacks.                              | 2,500 gp  |
-| **Cloak of Protection**       | Uncommon   | +1 to AC and saving throws.                                      | 4,500 gp  |
+| **Cloak of Protection**       | Uncommon   | +1 to AC and saving throws.                                      | 1,500 gp  |
 | **Hat of Disguise**           | Uncommon   | Lets the wearer cast _Disguise Self_ at will.                    | 5,000 gp  |
 | **Rainwarder’s Cloak**        | Common     | Wearer stays dry in any weather.                                 | 100 gp    |
 | **Cloak of Many Fashions**    | Common     | Changes color and style at will.                                 | 150 gp    |
-| **Weaver’s Gloves**           | Common     | Can magically mend any fabric or thread.                         | 200 gp    |
+| **Weaver’s Gloves**           | Common     | Can magically mend any fabric or thread(no larger than 2 in.).   | 200 gp    |
 | **Gloves of the Tinkerer**    | Common     | Grants +2 on checks related to crafting or fixing small objects. | 250 gp    |
 | **Shoes of Silent Steps**     | Common     | Wearer’s footsteps make no noise.                                | 300 gp    |
 | **Belt of the Laborer**       | Common     | Wearer can carry 25% more weight before being encumbered.        | 400 gp    |
-| **Boots of Elvenkind**        | Uncommon   | Grants advantage on Stealth checks.                              | 1,500 gp  |
+| **Boots of Elvenkind**        | Uncommon   | Grants advantage on Stealth checks(within 15ft of a tree).       | 2,500 gp  |
 
 ---
 

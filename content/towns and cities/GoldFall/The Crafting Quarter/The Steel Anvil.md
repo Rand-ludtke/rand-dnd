@@ -36,7 +36,7 @@
 | **Lightning Enchanted Spear**  | A spear imbued with electricity, grants the ability to cast _Lightning Bolt_ once per day.        | 500 gp     |
 | **Stormforged Blade**          | A sword forged with storm magic, deals an extra 1d4 lightning damage on a hit.                    | 500 gp     |
 | **Vampiric Dagger**            | A cursed dagger that heals the wielder for half the damage dealt (rounded down).                  | 600 gp     |
-| **Mithril Chainmail**          | Lightweight chainmail that seems to absorb sound (grants advantage on Stealth checks).            | 750 gp     |
+| **Mithril Chainmail**          | Lightweight chainmail that seems to absorb sound (no disadvantage on Stealth checks).             | 750 gp     |
 | **Iron Plate Armor**           | Heavy armor made from tempered iron, provides +5 to AC.                                           | 2000 gp    |
 | **Dragonscale Armor**          | Armor made from the scales of a dragon, grants resistance to elemental damage.                    | 2500 gp    |
 

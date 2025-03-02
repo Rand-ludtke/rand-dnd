@@ -5,8 +5,8 @@
 | Kingdom             | Total Fame |
 | ------------------- | ---------- |
 | Aynakyurt           |            |
-| Republic of Whirong | 25         |
-| Eshlong             |            |
+| Republic of Whirong | 40         |
+| Eshlong             | -5         |
 | Desert of Doom      |            |
 | Other Territories   |            |
 | **Total Fame**      |            |
@@ -19,15 +19,15 @@ Each kingdom is divided into five regions. Fame can be tracked separately for ea
 
 ### **Aynakyurt Regions**
 
-|   |   |
-|---|---|
-|Region|Fame|
-|Silverkeep (Capital)||
-|Western Coastlines||
-|Borderlands||
-|Eastern Plains||
-|Southern Villages||
-|**Total (Aynakyurt)**||
+|                       |      |
+| --------------------- | ---- |
+| Region                | Fame |
+| Silverkeep (Capital)  |      |
+| Western Coastlines    |      |
+| Borderlands           |      |
+| Eastern Plains        |      |
+| Southern Villages     |      |
+
 
 ### **Republic of Whirong Regions**
 
@@ -38,46 +38,46 @@ Each kingdom is divided into five regions. Fame can be tracked separately for ea
 | Central Cities       |                                            |
 | Southern Forests     |                                            |
 | Mountain Settlements |                                            |
-| Western Coast        | 100 (180 for Arlo but only in this region) |
+| Western Coast        | 200 (280 for Arlo but only in this region) |
 | East Coast           |                                            |
-| **Total (Whirong)**  | 88                                         |
+
 
 
 ### **Eshlong Regions**
 
-|   |   |
-|---|---|
-|Region|Fame|
-|Greenwatch (Capital)||
-|Coastal Areas||
-|Inner Forests||
-|Druidic Circles||
-|Island Settlements||
-|**Total (Eshlong)**||
+|                      |                            |
+| -------------------- | -------------------------- |
+| Region               | Fame                       |
+| Greenwatch (Capital) |                            |
+| Coastal Areas        |                            |
+| Inner Forests        |                            |
+| Druidic Circles      |                            |
+| Isla Daya            | (-200 tenten) (-100 Sarro) |
+
 
 ### **Desert of Doom Regions**
 
-|   |   |
-|---|---|
-|Region|Fame|
-|Northern Desert Towns||
-|Central Desert||
-|Oasis Settlements||
-|Ruins and Wastelands||
-|Southern Border Villages||
-|**Total (Desert of Doom)**||
+|                            |      |
+| -------------------------- | ---- |
+| Region                     | Fame |
+| Northern Desert Towns      |      |
+| Central Desert             |      |
+| Oasis Settlements          |      |
+| Ruins and Wastelands       |      |
+| Southern Border Villages   |      |
+
 
 ### **Other Territories**
 
-|   |   |
-|---|---|
-|Region|Fame|
-|Wildlands||
-|Independent Islands||
-|Uncharted Settlements||
-|Remote Villages||
-|Sacred/Forbidden Areas||
-|**Total (Other)**||
+|                        |      |
+| ---------------------- | ---- |
+| Region                 | Fame |
+| Wildlands              |      |
+| Independent Islands    |      |
+| Uncharted Settlements  |      |
+| Remote Villages        |      |
+| Sacred/Forbidden Areas |      |
+
 
 ---
 
@@ -97,7 +97,7 @@ This section allows you to track fame in specific towns. You can add as many row
 | ShakenKeep        | Republic of Whirong | 50   |                              |
 | BrightShore       | Republic of Whirong | 75   | free inn stay for life       |
 |                   |                     |      |                              |
-| **Total (Towns)** |                     |      |                              |
+
 
 ---
 
@@ -107,10 +107,9 @@ This section is for tracking fame across all regions and kingdoms.
 
 ### **General Fame**
 
-|   |   |
-|---|---|
-|Category|Total Fame|
-|Regional Fame Total||
-|Town Fame Total||
-|Kingdom Fame Total||
-|**Overall Fame**||
+|                     |            |
+| ------------------- | ---------- |
+| Category            | Total Fame |
+| Regional Fame Total |            |
+| Town Fame Total     |            |
+| Kingdom Fame Total  |            |

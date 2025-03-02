@@ -62,6 +62,7 @@
 | **Poison Identification**       | Identifies and catalogs a poison or unknown potion. _(Takes 1 hour.)_                                               | 20 gp         |
 | **Potion Brewing (Commission)** | Orders a potion that is not in stock. _(Time: 1d6 days.)_                                                           | 100-1,000 gp  |
 | **Distillation of Essences**    | The apothecary can extract magical properties from certain ingredients. (Time: 1d4 days.) (??? for Lu)              | 150-500 gp    |
+| **poison distilation**          | per halving the poison volume add a +1 to dc to max of 20 opposite for diluting                                     | 50-100 gp     |
 
 ---
 

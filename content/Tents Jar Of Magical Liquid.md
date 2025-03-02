@@ -1,8 +1,8 @@
 #### **Active Transformation**
 
-| Origin                      | Days Remaining | d20 Result (Ability) |
-| --------------------------- | -------------- | -------------------- |
-| Heart of an Undead Basilisk | 2              | Undead Chill         |
+| Origin | Days Remaining | d20 Result (Ability) |
+| ------ | -------------- | -------------------- |
+|        |                |                      |
 
 ---
 
