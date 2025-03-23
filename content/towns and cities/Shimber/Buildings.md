@@ -88,7 +88,7 @@ darkMode: false
 - [[The Nook's Bounty]] - General Store
 - [[Guild Hospital]] - Hospital (Medical Treatment & Healing Services)
 - [[Guild Bar The Adventurer's Respite]] - Bar (Drinks & Social Hub)
-- [[Guild General Store The Adventurer's Pack]] - General Store (Supplies & Gear)
+- [[Guild General Store aka The Adventurer's Pack]] - General Store (Supplies & Gear)
 - [[Guild Dorm Adventurer’s Rest]] - Dormitory (Adventurer Housing)
 - [[Guild Animal Care Beastmaster’s Haven]] - Animal Care Facility (For Adventurers' Pets & Mounts)
 - [[Adventurer’s Guild Training Ground]] - Training Facility

@@ -27,16 +27,18 @@
 
 ### **Silver Rank**
 
+
 1. **Glaive of Dawn** – A paladin-led group, known for fighting undead.
 2. **Moonlight Blades** – Masters of stealth operations.
-3. **The Azure Wings** – Aerial specialists led by aarakocra.
-4. **The Stormriders** – Lightning-fast adventurers who travel by land and sea.
-5. **Flamekeepers** – Known for controlling fire magic in battle.
-6. **The Grinning Hammers** – Expert crafters and frontline fighters.
-7. **The Forest Sentinels** – Guardians of sacred groves and natural areas.
-8. **The Crescent Spears** – Skilled fighters trained in spear combat.
-9. **Ivory Claw** – Specialists in exotic beasts and taming monsters.
-10. **Serpent’s Whisper** – Silent assassins with a penchant for poison.
+3. **Band O Dummies** - A paladin-led group known for their idiocy (Arlo = **The Bald**, Lu = **Man Of Fire**, Tent = **Frakensneak**, lyra = **birdbrain**, sarro= **The False Noble**, atlas = **Hat of dicks**)
+4. **The Azure Wings** – Aerial specialists led by aarakocra.
+5. **The Stormriders** – Lightning-fast adventurers who travel by land and sea.
+6. **Flamekeepers** – Known for controlling fire magic in battle.
+7. **The Grinning Hammers** – Expert crafters and frontline fighters.
+8. **The Forest Sentinels** – Guardians of sacred groves and natural areas.
+9. **The Crescent Spears** – Skilled fighters trained in spear combat.
+10. **Ivory Claw** – Specialists in exotic beasts and taming monsters.
+
 
 ### **Gold Rank**
 
@@ -58,11 +60,7 @@
 3. **The Astral Blades** – Masters of psionics and astral travel.
 4. **The Eternal Wardens** – Protectors of ancient, world-ending seals.
 5. **Furyborn** – Elemental warriors with mastery over all four elements.
-6. **The Void Striders** – Time-traveling adventurers with unknown motives.
-7. **The Lightbearers** – Wielders of divine magic.
-8. **The Blackthorn Covenant** – Ruthless mercenaries dealing in impossible missions.
-9. **The Wild Hunt** – Hunters of gods and demigods.
-10. **The Arcane Blades** – Warriors blending swordplay with arcane magic.
+
 
 ## Flavor  
 - The atmosphere is bustling with the sounds of adventurers sharing tales of their exploits. Shelves are lined with colorful potions, strange trinkets, and neatly organized maps. A cozy fire crackles in the corner, creating a warm and inviting environment.

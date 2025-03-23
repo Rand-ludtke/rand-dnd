@@ -15,35 +15,68 @@
 
 ## Services & Items
 
-| Item                     | Description                                                              | Price (gp) |
-| ------------------------ | ------------------------------------------------------------------------ | ---------- |
-| Charm of Luck            | Grants +1 on saving throws for 24 hours                                  | 150 gp     |
-| Scroll of Fireball       | Contains the spell Fireball (level 3)                                    | 300 gp     |
-| Enchanted Amulet         | Protects from divination magic for 24 hours                              | 200 gp     |
-| Spellbinding Rope        | Binds creatures with magical force                                       | 250 gp     |
-| Whispering Ring          | Allows telepathic communication within 1 mile                            | 400 gp     |
-| Scroll of Healing        | Contains the spell Cure Wounds (level 1)                                 | 150 gp     |
-| Charm of Strength        | Grants +2 to Strength for 1 hour                                         | 180 gp     |
-| Potion of Resistance     | Grants resistance to a chosen damage type for 1 hour                     | 250 gp     |
-| Enchantment Scroll       | Allows the user to add a +1 bonus to a weapon for 1 hour                 | 200 gp     |
-| Luckstone                | A small stone that grants advantage on one roll per day                  | 100 gp     |
-| Enchanted Journal        | A journal that records everything written in it and can recall any entry | 300 gp     |
-| Scroll of Invisibility   | Contains the spell Invisibility (level 2)                                | 200 gp     |
-| Charm of Protection      | Grants +1 to AC for 24 hours                                             | 150 gp     |
-| Scroll of Detect Magic   | Contains the spell Detect Magic (level 1)                                | 100 gp     |
-| Spellbook of Cantrips    | A spellbook containing a variety of cantrips to choose from              | 250 gp     |
-| Magical Thread           | Can be used to create magical constructs, grants +1 to craft checks      | 80 gp      |
-| Ring of Shielding        | Grants a +1 bonus to AC for 10 minutes, usable once per day              | 200 gp     |
-| Scroll of Polymorph      | Contains the spell Polymorph (level 4)                                   | 1500 gp    |
-| Charm of Clarity         | Grants advantage on Intelligence checks for 1 hour                       | 100 gp     |
-| Scroll of Misty Step     | Contains the spell Misty Step (level 2)                                  | 150 gp     |
-| Enchanted Compass        | Always points toward the nearest magical item or source                  | 120 gp     |
-| Scroll of Feather Fall   | Contains the spell Feather Fall (level 1)                                | 100 gp     |
-| Shielding Charm          | Provides a +2 bonus to saving throws against spells for 1 hour           | 200 gp     |
-| Potion of Speed          | Increases movement speed by 10 feet for 1 hour                           | 150 gp     |
-| Scroll of Lightning Bolt | Contains the spell Lightning Bolt (level 3)                              | 300 gp     |
-| +1 enchantment to weapon |                                                                          | 750        |
-| +1 enchantment to armor  |                                                                          | 1000       |
+| Item                              | Description                                                                   | Price (gp) |
+| --------------------------------- | ----------------------------------------------------------------------------- | ---------- |
+| **Charm of Luck**                 | Grants **+1 on saving throws** for 24 hours.                                  | 150 gp     |
+| **Scroll of Fireball**            | Contains the spell **Fireball (level 3)**.                                    | 300 gp     |
+| **Enchanted Amulet**              | Protects from **divination magic** for 24 hours.                              | 200 gp     |
+| **Spellbinding Rope**             | **Binds creatures** with magical force.                                       | 250 gp     |
+| **Whispering Ring**               | Allows **telepathic communication** within 1 mile.                            | 400 gp     |
+| **Scroll of Healing**             | Contains the spell **Cure Wounds (level 1)**.                                 | 50 gp      |
+| **Charm of Strength**             | Grants **+2 to Strength** for 1 hour.                                         | 180 gp     |
+| **Potion of Resistance**          | Grants **resistance to a chosen damage type** for 1 hour.                     | 250 gp     |
+| **Enchantment Scroll**            | Allows the user to **add a +1 bonus to a weapon** for 1 hour.                 | 200 gp     |
+| **Luckstone**                     | A small stone that grants **advantage on one roll per day**.                  | 100 gp     |
+| **Enchanted Journal**             | A journal that **records everything written in it** and can recall any entry. | 300 gp     |
+| **Scroll of Invisibility**        | Contains the spell **Invisibility (level 2)**.                                | 200 gp     |
+| **Charm of Protection**           | Grants **+1 to AC** for 24 hours.                                             | 150 gp     |
+| **Scroll of Detect Magic**        | Contains the spell **Detect Magic (level 1)**.                                | 100 gp     |
+| **Spellbook of Cantrips**         | A spellbook containing a **variety of cantrips** to choose from.              | 250 gp     |
+| **Magical Thread**                | Can be used to **create magical constructs**; grants **+1 to craft checks**.  | 80 gp      |
+| **Ring of Shielding**             | Grants a **+1 bonus to AC** for 10 minutes, usable once per day.              | 200 gp     |
+| **Scroll of Polymorph**           | Contains the spell **Polymorph (level 4)**.                                   | 1,000 gp   |
+| **Charm of Clarity**              | Grants **advantage on Intelligence checks** for 1 hour.                       | 100 gp     |
+| **Scroll of Misty Step**          | Contains the spell **Misty Step (level 2)**.                                  | 150 gp     |
+| **Enchanted Compass**             | Always points toward the **nearest magical item or source**.                  | 120 gp     |
+| **Scroll of Feather Fall**        | Contains the spell **Feather Fall (level 1)**.                                | 100 gp     |
+| **Shielding Charm**               | Provides a **+2 bonus to saving throws against spells** for 1 hour.           | 200 gp     |
+| **Potion of Speed**               | **Increases movement speed by 10 feet** for 1 hour.                           | 150 gp     |
+| **Scroll of Lightning Bolt**      | Contains the spell **Lightning Bolt (level 3)**.                              | 300 gp     |
+| **+1 Enchantment to Weapon**      | Adds a **+1 bonus to attack and damage rolls** for a weapon.                  | 750 gp     |
+| **+1 Enchantment to Armor**       | Adds a **+1 bonus to AC** for armor.                                          | 1,000 gp   |
+| **Scroll of Counterspell**        | Contains the spell **Counterspell (level 3)**.                                | 300 gp     |
+| **Charm of Wisdom**               | Grants **+2 to Wisdom** for 1 hour.                                           | 180 gp     |
+| **Scroll of Haste**               | Contains the spell **Haste (level 3)**.                                       | 300 gp     |
+| **Enchanted Quill**               | A quill that **writes on its own** (requires ink and paper).                  | 50 gp      |
+| **Scroll of Dispel Magic**        | Contains the spell **Dispel Magic (level 3)**.                                | 300 gp     |
+| **Charm of Dexterity**            | Grants **+2 to Dexterity** for 1 hour.                                        | 180 gp     |
+| **Scroll of Greater Restoration** | Contains the spell **Greater Restoration (level 5)**.                         | 1,000 gp   |
+| **Enchanted Lantern**             | A lantern that **never runs out of fuel** and emits bright light.             | 75 gp      |
+| **Scroll of Teleportation**       | Contains the spell **Teleportation (level 7)**.                               | 2,000 gp   |
+
+---
+
+### **Services Offered**
+
+| Service                        | Description                                                                     | Price (gp)         |
+| ------------------------------ | ------------------------------------------------------------------------------- | ------------------ |
+| **Custom Enchantment**         | Collaborate with the shop to **create a custom enchantment** for your item.     | 500 gp             |
+| **Scroll Crafting**            | **Create a custom scroll** for a spell you know.                                | 100 gp/spell level |
+| **Charm Creation**             | **Design a custom charm** with specific effects.                                | 200 gp             |
+| **Enchantment Repair**         | **Repair damaged enchantments** to restore functionality.                       | 50 gp              |
+| **Magical Consultation**       | **Expert advice** on enchantments, charms, and scrolls.                         | 50 gp/hour         |
+| **Scroll Identification**      | Identify the **properties of a magical scroll**.                                | 25 gp              |
+| **Charm Recharging**           | **Recharge a spent charm** to restore its magical properties.                   | 100 gp             |
+| **Enchantment Workshop**       | Attend a **workshop on advanced enchantment techniques**.                       | 75 gp              |
+| **Magical Item Appraisal**     | Appraise the **value and properties** of a magical item.                        | 50 gp              |
+| **Scroll Library Access**      | Access to the shop’s **library of scrolls and enchantments**.                   | 25 gp/day          |
+| **Magical Tour**               | A **guided tour** of the shop’s most valuable and rare items.                   | 10 gp              |
+| **Enchantment Lecture Series** | Attend a series of **lectures on advanced enchantment topics**.                 | 100 gp             |
+| **Magical Experimentation**    | Conduct **experiments** in the shop’s enchantment laboratory.                   | 50 gp/day          |
+| **Enchantment Merchandise**    | Purchase **souvenirs** like branded gear, manuals, and potions.                 | 5-50 gp            |
+| **Custom Charm Design**        | Collaborate with the shop to **design a unique charm** with specific effects.   | 200 gp             |
+| **Scroll Transcription**       | Transcribe a **spell into your spellbook**.                                     | 50 gp/spell        |
+| **Enchantment Membership**     | Become a member for **exclusive access** to the shop’s resources and discounts. | 500 gp/year        |
 # Weapon Enchantments
  
 ## Certain Death
