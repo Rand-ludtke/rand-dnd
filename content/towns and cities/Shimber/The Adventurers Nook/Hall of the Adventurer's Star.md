@@ -30,7 +30,7 @@
 
 1. **Glaive of Dawn** – A paladin-led group, known for fighting undead.
 2. **Moonlight Blades** – Masters of stealth operations.
-3. **Band O Dummies** - A paladin-led group known for their idiocy (Arlo = **The Bald**, Lu = **Man Of Fire**, Tent = **Frakensneak**, lyra = **birdbrain**, sarro= **The False Noble**, atlas = **Hat of dicks**)
+3. **Back street Dummies** - A paladin-led group known for their idiocy (Arlo = **The Sad Vengeance**, Lu = **Man Of Fire**, Tent = **Frakensneak**, lyra = **birdbrain**, sarro= **The False Noble**, atlas = **Hat of dicks**)
 4. **The Azure Wings** – Aerial specialists led by aarakocra.
 5. **The Stormriders** – Lightning-fast adventurers who travel by land and sea.
 6. **Flamekeepers** – Known for controlling fire magic in battle.

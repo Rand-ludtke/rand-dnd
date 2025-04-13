@@ -5,7 +5,7 @@ A prestigious tailor shop catering to merchants, sailors, and nobles alike, _The
 
 ## **NPCs**
 
-### **Master Tailor Lysara Valenn** (Half-Elf)
+### **Master Tailor Lysara Valenn** (Half-Elf)(in love with sarro)
 
 - A renowned tailor with a sharp eye for detail and a preference for elegant designs.
 - Formerly worked in noble courts but moved to the port for greater trade opportunities.

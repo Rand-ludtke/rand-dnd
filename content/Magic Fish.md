@@ -546,7 +546,7 @@
 
 ## **Very Rare (91-100)**
 
-1. **Dragon’s Tear Fish**
+91. **Dragon’s Tear Fish**
     
     - **Description:** A crystalline fish formed from a dragon’s tear.
         

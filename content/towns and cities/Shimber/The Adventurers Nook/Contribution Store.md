@@ -14,27 +14,28 @@
 
 #### **Essentials**
 
-|Item Name|Cost (CP)|Description|
-|---|---|---|
-|**Healing Potion**|10 CP|Restores **2d4 + 2 HP**.|
-|**Antitoxin**|8 CP|Grants **advantage on saving throws against poison** for 1 hour.|
-|**Alchemist’s Fire**|15 CP|Deals **1d4 fire damage per turn** when splashed.|
-|**Basic Ammunition**|5 CP|Bundle of **20 arrows, bolts, or bullets**.|
-|**Rope of Climbing**|30 CP|An **animated rope** that follows commands for climbing.|
-|**Explorer's Pack**|25 CP|Contains **essential adventuring gear** (backpack, bedroll, etc.).|
-|**Common Clothes**|3 CP|Basic outfit suitable for **everyday wear**.|
-|**Lantern**|10 CP|Provides **bright light for 6 hours**, can be refueled.|
-|**Healing Salve**|12 CP|Restores **1d6 HP** when applied, useful for minor wounds.|
-|**Bedroll**|2 CP|Comfortable roll for **sleeping**; provides warmth.|
-|**Waterskin**|1 CP|Holds water; essential for **long journeys**.|
-|**Tindertwig**|1 CP|Easily ignitable stick for **starting fires**.|
-|**Grappling Hook**|15 CP|Useful for **climbing or securing items**.|
-|**Flasks of Oil**|5 CP each|Each flask provides enough oil for multiple uses; can be **ignited**.|
-|**Traveler's Clothes**|10 CP|Durable clothing designed for **adventurers**; resistant to wear.|
-|**Candle**|1 CP|Burns for **1 hour**, provides light.|
-|**Fishing Tackle**|2 CP|Basic gear for **fishing**; includes line, hook, and lure.|
-|**Rations**|5 CP|Sustains **one person for one day**.|
-|**Spell Components**|1-50 CP|Varied costs depending on rarity; required for **spellcasting**.|
+| Item Name              | Cost (CP) | Description                                                           |
+| ---------------------- | --------- | --------------------------------------------------------------------- |
+| **Healing Potion**     | 10 CP     | Restores **2d4 + 2 HP**.                                              |
+| **Antitoxin**          | 8 CP      | Grants **advantage on saving throws against poison** for 1 hour.      |
+| **Alchemist’s Fire**   | 15 CP     | Deals **1d4 fire damage per turn** when splashed.                     |
+| **Basic Ammunition**   | 5 CP      | Bundle of **20 arrows, bolts, or bullets**.                           |
+| **Rope of Climbing**   | 30 CP     | An **animated rope** that follows commands for climbing.              |
+| **Explorer's Pack**    | 25 CP     | Contains **essential adventuring gear** (backpack, bedroll, etc.).    |
+| **Common Clothes**     | 3 CP      | Basic outfit suitable for **everyday wear**.                          |
+| **Lantern**            | 10 CP     | Provides **bright light for 6 hours**, can be refueled.               |
+| **Healing Salve**      | 12 CP     | Restores **1d6 HP** when applied, useful for minor wounds.            |
+| **Bedroll**            | 2 CP      | Comfortable roll for **sleeping**; provides warmth.                   |
+| **Waterskin**          | 1 CP      | Holds water; essential for **long journeys**.                         |
+| **Tindertwig**         | 1 CP      | Easily ignitable stick for **starting fires**.                        |
+| **Grappling Hook**     | 15 CP     | Useful for **climbing or securing items**.                            |
+| **Flasks of Oil**      | 5 CP each | Each flask provides enough oil for multiple uses; can be **ignited**. |
+| **Traveler's Clothes** | 10 CP     | Durable clothing designed for **adventurers**; resistant to wear.     |
+| **Candle**             | 1 CP      | Burns for **1 hour**, provides light.                                 |
+| **Fishing Tackle**     | 2 CP      | Basic gear for **fishing**; includes line, hook, and lure.            |
+| **Rations**            | 5 CP      | Sustains **one person for one day**.                                  |
+| **Spell Components**   | 1-50 CP   | Varied costs depending on rarity; required for **spellcasting**.      |
+| **No-Stones**          | 100 Cp    | mini map kinda                                                        |
 
 ---
 

@@ -21,7 +21,7 @@ You can infuse essence into your body during a long rest. The infusion process c
     - On a failure, roll on the **Bad Magical Mutation Table** and suffer one of its effects permanently.
     - On a success, choose one of the essence's **passive benefit** and choose one **active ability** related to the infused creature.
     - On a natural 20, roll on the **Good Magical Mutation Table** and gain one mutation in addition to the essence effects or remove 1 bad mutation effect that you currently have.
-    - **Essence Limits**: You can have 2 * character level number of **passive** benefits, but only a number of **active** abilities equal to your Charisma modifier (minimum 1) can be available at a time(you have x active ability slots that you can fill only 1 can be used at a time). Switching active abilities requires a Short Rest.
+    - **Essence Limits**: You can have 1.5 * character level(rounded down) total ranks of **passive** benefits(meaning rank number for each essence combined), but only a number of **active** abilities equal to your Charisma modifier (minimum 1) can be available at a time(you have x active ability slots that you can fill only 1 can be used at a time). Switching active abilities requires a Short Rest.
 
 #### **Essence Effects**
 
@@ -167,7 +167,7 @@ You have refined control over your infusions:
 
 ### **Level 10: Mutative Arcana**
 
-You embrace the transformative power of magic. Each Rank 4 or 5 infusion grants a roll on the **Good Magical Mutation Table**. You can reroll a mutation once per long rest.
+You embrace the transformative power of magic. Each Rank 4 or 5 infusion grants a roll on the **Good Magical Mutation Table**. You can reroll a mutation once per long rest. You can infuse Rank 1, 2, and 3 essences without making Constitution saving throws
 
 ### **Level 14: Creature’s Essence**
 

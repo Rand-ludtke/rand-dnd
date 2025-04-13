@@ -12,3 +12,5 @@ current active abilities
 - **Sea Witch's Curse** 
 - **Blink Dash**
 - **Thorned Vitae**
+- empty
+- empty

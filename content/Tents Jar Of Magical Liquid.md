@@ -2,7 +2,7 @@
 
 | Origin | Days Remaining | d20 Result (Ability) |
 | ------ | -------------- | -------------------- |
-|        |                |                      |
+| mimic  | 3              | ?                    |
 
 ---
 
