@@ -5,7 +5,7 @@ draft: true
 
 | Origin | Days Remaining | d20 Result (Ability) |
 | ------ | -------------- | -------------------- |
-| mimic  | 3              |                      |
+| mimic  | 1              |                      |
 
 ---
 
