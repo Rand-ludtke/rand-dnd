@@ -15,7 +15,7 @@ Their primary goal in Direfosefo appears to be twofold:
 
 ## **Key Infernal Figures**
 
-### **Mayor Vaelcor Fane** (Devil in Disguise)
+### **Mayor Renald Valtorin** (Devil in Disguise)
 
 - **True Form:** A charming yet ruthless devil, possibly a cambion or higher-ranking fiend.
 - **Public Persona:** A competent, well-spoken mayor who has rapidly improved the town’s prosperity. He claims to be a noble from a distant land seeking to bring _"order and success"_ to Direfosefo.
@@ -59,7 +59,7 @@ The devils do not rule openly, preferring contracts, coercion, and manipulation.
 
 **Clues for the Party to Uncover:**
 
-- Old records show that **Vaelcor Fane has no true history** before his arrival.
+- Old records show that **Renald Valtorin has no true history** before his arrival.
 - The prison has **an underground section** that isn’t on the official town records.
 - Some merchants whisper that **Marla’s deals always seem too good to be true**.
 - A strange symbol appears **near the lake** on certain nights, hinting at infernal rituals.

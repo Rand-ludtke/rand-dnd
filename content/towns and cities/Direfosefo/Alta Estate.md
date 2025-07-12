@@ -1,7 +1,7 @@
 **Location:** Lakeside, Direfosefo  
 **Type:** Private Home
 
-The **Alta Residence** is the cozy yet elegant home of **Patsy and Calluway Alta**, the successful owners of _High Altatude Brews_. Nestled near the lake, their house is both a warm family home and a testament to their recent prosperity. With the café’s booming business, their residence has seen significant renovations in the past year, though an air of unease lingers beneath the surface—especially for those who can sense the infernal influence at play.
+The **Alta Residence** is the cozy yet elegant home of **Patsy and Calluway Alta**, the successful owners of _High Altatude Brews_. Nestled near the lake, their house is both a warm family home and a testament to their recent prosperity. With the café’s booming business, their residence has seen significant renovations in the past year.
 
 ---
 
@@ -9,7 +9,7 @@ The **Alta Residence** is the cozy yet elegant home of **Patsy and Calluway Alta
 
 The Alta family owns and resides in a **large multi-story home** with a smaller **secondary house** nearby, both located close to **High Altatude Brews** in Direfosefo. Their home reflects their rising success, thanks to their thriving café, which has seen an unexpected boom in recent months—coinciding with the arrival of the new mayor.
 
-The primary home is **a spacious, well-kept townhouse** with multiple floors, including a **workshop, kitchen, several bedrooms, storage areas, and a cozy living room.** The secondary house, though smaller, serves as a **guest house, extra storage, and workspace.** Some locals suspect the sudden prosperity of the Alta family may be tied to a secretive deal, but few dare to question it openly.
+The primary home is **a spacious, well-kept townhouse** with multiple floors, including a **workshop, kitchen, several bedrooms, storage areas, and a cozy living room.** The secondary house, though smaller, serves as a **guest house, extra storage, and workspace.**
 
 A **small dock** extends into the lake, where the couple occasionally enjoys quiet evenings—though Patsy has grown hesitant about lingering there too long as of late.
 
@@ -40,16 +40,12 @@ A **small dock** extends into the lake, where the couple occasionally enjoys qui
 
 ## **Residents**
 
-### **Patsy Alta (Human, Female, Mid-30s)**
+### **Patsy Alta (Elf, Female)**
 
-A talented barista and herbalist, Patsy has a warm and welcoming demeanor. However, since the **deal with the devils**, she has become more withdrawn, **occasionally staring off into space** as if lost in thought. She still **cares deeply about her business and her customers**, but an underlying anxiety clings to her.
+A talented barista and herbalist, Patsy has a warm and welcoming demeanor. However, in recent months, she has become more withdrawn, **occasionally staring off into space** as if lost in thought. She still **cares deeply about her business and her customers**, but an underlying anxiety clings to her. With the café’s recent success and the opening of a second location, she seems stretched thin, juggling growth with personal reflection. As a mother, she was often distant—**more focused on operations than affection**—leaving Lu Alta to grow up in a home where love was measured in results.
 
-- **Suspicious of the Mayor:** Patsy regrets their arrangement but feels trapped.
-- **Still Holds Faith:** Secretly **carries a small holy symbol**, hoping it will protect her from whatever she’s entangled in.
+---
 
-### **Calluway Alta (Human, Male, Late-30s)**
+### **Calluway Alta (Elf, Male)**
 
-The business-minded half of the couple, Calluway is **fully committed** to ensuring the café’s success. While he claims to have no regrets, his **nervous glances at the mayor’s representatives** tell a different story. He has become more ruthless in his business dealings, unwilling to jeopardize what they’ve built.
-
-- **Loyal, but Hiding Something:** He keeps an **extra contract separate from the others**, hidden within the locked desk in his study.
-- **Sleepless Nights:** Often **paces the house at night**, muttering to himself.
+The business-minded half of the couple, Calluway is **fully committed** to ensuring the café’s success. With their recent expansion into a second location, he’s become even more focused and unyielding. Though he speaks proudly of their achievements, **there’s a tension in his posture**, as if constantly bracing for the next setback. He and Patsy raised Lu Alta with a strict, success-first mindset, often prioritizing the business over their son’s emotional well-being.

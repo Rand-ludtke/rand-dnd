@@ -5,7 +5,7 @@ A sturdy two-story stone structure, the Guard Hall houses Direfosefo’s small b
 
 #### **NPCs:**
 
-- **Captain Rodrik Harrow** (Male Human) – A seasoned warrior and the leader of the town guard. Gruff but fair, he values discipline and efficiency.
+- **Captain Thaldris Kael** (Male Human) – A seasoned warrior and the leader of the town guard. Gruff but fair, he values discipline and efficiency.
 - **Sergeant Valya Sternbrook** (Female Half-Orc) – A no-nonsense officer who oversees training and patrols. She has a sharp tactical mind.
 - **Jailer Thom Wicks** (Male Halfling) – Despite his small stature, Thom is surprisingly strict and keeps the prison well-maintained.
 - **Patrolman Edrin Voss** (Male Elf) – A younger recruit eager to prove himself, often found patrolling the market district.

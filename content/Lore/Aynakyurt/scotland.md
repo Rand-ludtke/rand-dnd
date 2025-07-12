@@ -1,0 +1,1 @@
+there is a scottish area in aynyakyurt

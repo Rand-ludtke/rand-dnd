@@ -19,6 +19,7 @@ _Tiny Beast, Unaligned_
 ---
 
 - **Woodchipper.** When the woodpecker uses its action to attack a wooden structure, it can deal an additional 2d4 damage.
+- **Wood eater.** When the woodpecker uses its action to attack a wooden structure, it gains advantage.
 
 **Actions**  
 _**Multi-Peck.**_ (can attack 3 times) _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target.  
