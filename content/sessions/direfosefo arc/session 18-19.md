@@ -34,19 +34,19 @@ draft: true
 
 | Town Name      | Direction from Direfosefo | Notable Features / Hooks                                          |
 | -------------- | ------------------------- | ----------------------------------------------------------------- |
-| **Kirthaven**  | NW (1.5 days)             | Forest logging town. Cult of the Dragon cell is **here**.         |
+| **Kirthaven**  | NW (1.5 days)             | Forest logging town. Cult of the Dragon cell is **here**(hidden). |
 | Mossfield      | N (2 days)                | Known for herbal medicine. Rumors of strange dreams.              |
 | Larrow's Point | NE (2 days)               | Cliffside town, known for eagles and trained falcons.             |
 | Orlinstead     | W (1 day)                 | Farming village. Burned barn recently blamed on cultists.         |
 | Coldmere       | S (2.5 days)              | On a misty lake, old ruins nearby. Locals keep vanishing.         |
 | Yulder’s Gap   | SE (1.5 days)             | Crossroads town with tavern that hosts travelers’ secrets.        |
 | Twinbrook      | SW (1 day)                | Known for twin waterfalls and suspicious hunters.                 |
-| Elensford      | E (2 days)                | Bridge town. Guard captain secretly a devil informant.            |
+| Elensford✅     | E (2 days)                | Chaotic Gossip Hell                                               |
 | Shallowgrave   | S (1 day)                 | Morbid name, actually peaceful. Old battlefield nearby.           |
 | Grettan Hill   | W (2 days)                | Hillfort ruins. Someone’s digging for something forbidden.        |
 | Windmere       | N (2.5 days)              | Haunted manor outside town. People dare each other to enter.      |
 | Dovelight      | NW (1 day)                | Famous for cheese and ale. Bard recently disappeared.             |
-| Redwick        | NE (3 days)               | Religious town, mostly worshipers of Lathander.                   |
+| Redwick✅       | NE (3 days)               | Religious town, mostly worshipers of Lathander.                   |
 | Flintgate      | SE (3 days)               | Abandoned mine is now home to monsters.                           |
 | Oakshade       | SW (1.5 days)             | Shady merchant offers “dragonbone relics” of questionable origin. |
 
@@ -62,7 +62,7 @@ draft: true
     
 - Recently “prosperous” café (High Altitude Brews).
     
-- Local devils helping some townsfolk prosper.
+- rumors of devils helping some townsfolk prosper.
     
 
 ### Secret:
