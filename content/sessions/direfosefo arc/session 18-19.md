@@ -45,10 +45,10 @@ draft: true
 | Shallowgrave   | S (1 day)                 | Morbid name, actually peaceful. Old battlefield nearby.           |
 | Grettan Hill   | W (2 days)                | Hillfort ruins. Someone’s digging for something forbidden.        |
 | Windmere       | N (2.5 days)              | Haunted manor outside town. People dare each other to enter.      |
-| Dovelight      | NW (1 day)                | Famous for cheese and ale. Bard recently disappeared.             |
+| Dovelight      | NWW (3 day)               | Famous for cheese and ale. Bard recently disappeared.             |
 | Redwick✅       | NE (3 days)               | Religious town, mostly worshipers of Lathander.                   |
 | Flintgate      | SE (3 days)               | Abandoned mine is now home to monsters.                           |
-| Oakshade       | SW (1.5 days)             | Shady merchant offers “dragonbone relics” of questionable origin. |
+| Oakshade       | SW (2.5 days)             | Shady merchant offers “dragonbone relics” of questionable origin. |
 
 > ✅ **Kirthaven** contains a hidden Dragon Cult cell. Devil-aligned NPCs will encourage investigating it to frame the cult.
 

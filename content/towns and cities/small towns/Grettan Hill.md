@@ -9,21 +9,21 @@
 
 #### **Notable NPCs**
 
-|Name|Role|Personality / Gimmick|Secret/Quirk|
-|---|---|---|---|
-|**Elder Moira**|Village Head|Tired, stern, and desperately trying to hold the village together.|Knows the old stories are true and fears the digging has already "awoken the hill's anger."|
-|**Kaelen**|The Digger (Shepherd)|Once simple and kind, now pale, nervous, and possessed by a frantic energy.|**Secret:** He is the one digging, compelled by the necromancer's whispers. He believes he is digging for treasure to save the village from poverty.|
-|**Borin**|Owner of The Shepherd's Rest|The only publican. Serves weak ale and tough mutton. Watches everyone carefully.|His cellar has a hidden trapdoor that some villagers use to access the ruins unseen. He charges a fee for silence.|
-|**Mara**|Kaelen's Wife|Frightened and heartbroken by the change in her husband.|She has found dirt on his clothes and a strange, cold gleam in his eyes. She suspects the worst.|
-|**Rook**|The Old Shepherd|The oldest villager. Grumpy, superstitious, and hates the hillfort.|His sheep have been acting strangely, refusing to graze near the ruins and giving sour milk.|
-|**Finn**|A Shepherd Boy|Young and easily impressed. Looks up to Kaelen.|Has been acting as a lookout for Kaelen's nighttime activities, thinking it's a fun game.|
-|**Thorne**|The Blacksmith (Part-time)|A large, quiet man who mostly repairs tools.|Is secretly forging digging equipment and selling it at a premium to those who ask without questions.|
-|**Elara**|Village Herbalist|A practical woman who treats coughs and sheep-rot.|Has noticed a new, sickly-sweet fungus growing around the ruins that she doesn't recognize.|
-|**Gideon**|Traveling Tinker|Visits once a month to trade news and cheap goods.|Has heard rumors in other towns of "cursed earth" and "walking dead" near old battlefields. He's nervous to be here.|
-|**Pike**|A Laborer|Strong, simple, and easily led.|Has been hired by Kaelen for heavy lifting, paid in vague promises of future wealth. He's getting suspicious.|
-|**Anya**|Moira's Granddaughter|The only one who has been to a large city. Sees the village's hopelessness.|Wants to leave and thinks the obsession with the ruins is foolish. She's saving every copper.|
-|**Corwin**|A Shepherd|Competes with Kaelen for the best grazing land.|Is jealous of Kaelen's secretive "project" and has been following him, hoping to discover it.|
-|**Silas**|The Mason|Knows stonework. Helped repair the village well.|Was asked by Kaelen to examine the ruins' walls for "weak points." Refused, fearing a collapse.|
+| Name            | Role                         | Personality / Gimmick                                                            |
+| --------------- | ---------------------------- | -------------------------------------------------------------------------------- |
+| **Elder Moira** | Village Head                 | Tired, stern, and desperately trying to hold the village together.               |
+| **Kaelen**      | The Digger (Shepherd)        | Once simple and kind, now pale, nervous, and possessed by a frantic energy.      |
+| **Borin**       | Owner of The Shepherd's Rest | The only publican. Serves weak ale and tough mutton. Watches everyone carefully. |
+| **Mara**        | Kaelen's Wife                | Frightened and heartbroken by the change in her husband.                         |
+| **Rook**        | The Old Shepherd             | The oldest villager. Grumpy, superstitious, and hates the hillfort.              |
+| **Finn**        | A Shepherd Boy               | Young and easily impressed. Looks up to Kaelen.                                  |
+| **Thorne**      | The Blacksmith (Part-time)   | A large, quiet man who mostly repairs tools.                                     |
+| **Elara**       | Village Herbalist            | A practical woman who treats coughs and sheep-rot.                               |
+| **Gideon**      | Traveling Tinker             | Visits once a month to trade news and cheap goods.                               |
+| **Pike**        | A Laborer                    | Strong, simple, and easily led.                                                  |
+| **Anya**        | Moira's Granddaughter        | The only one who has been to a large city. Sees the village's hopelessness.      |
+| **Corwin**      | A Shepherd                   | Competes with Kaelen for the best grazing land.                                  |
+| **Silas**       | The Mason                    | Knows stonework. Helped repair the village well.                                 |
 
 ---
 

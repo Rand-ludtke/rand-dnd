@@ -9,23 +9,23 @@
 
 #### **Notable NPCs**
 
-|Name|Role|Personality / Gimmick|Secret/Quirk|
-|---|---|---|---|
-|**Elder Moira**|Town Leader & Head Herbalist|Ancient, wise, with hands stained green and brown. Speaks in proverbs.|Is aware of the dream-plague and is trying to find a natural remedy. Fears it's a sign of her failing strength.|
-|**Kaelen**|Ambitious Alchemist|Intense, restless, with dark circles under his eyes. Always jotting notes in a frantic script.|**Secret:** His sleep-deprived experiments are an attempt to harness the Allip's whispers. He is unknowingly strengthening its connection to the town.|
-|**Bram**|Head Groundskeeper & Guide|Hulking and quiet, knows the safe paths through the marshes like the back of his hand.|His younger sister is one of the worst affected by the dreams. He is desperate for a cure and will guide anyone who offers help.|
-|**Liana**|Head of the Weavers' Guild|Young, vibrant, and artistic. Weaves beautiful tapestries depicting local myths.|Her recent tapestries have been dark and chaotic, influenced by the shared nightmares. She doesn't know why.|
-|**Corwyn**|Retired Adventurer (Ranger)|Grumpy, missing a leg, now carves intricate walking sticks. Has a badger familiar.|The only one who suspects an undead presence. His old instincts are tingling, but no one listens to the "crazy old man."|
-|**Finn**|The Dreamer (Young Boy)|Pale, lethargic, and often zones out mid-conversation.|Has the strongest connection to the Allip. He sleepwalks and draws the same strange, runic symbol over and over.|
-|**Hester**|Owner of The Restful Meadow|Motherly, calm, and an excellent cook. Her inn is a sanctuary of peace.|Doses the evening stew with mild, natural sedatives to help people sleep, which ironically makes them more susceptible to the dreams.|
-|**Elara**|Kaelen's Apprentice|Eager to please, brilliant but naive. Looks up to Kaelen immensely.|Is growing worried about her master's erratic behavior and the strange, psychic feedback from his latest experiments.|
-|**Orvin**|Local Hunter|Practical, superstitious, carries a rabbit's foot and charms against evil spirits.|Claims he's seen "will-o-wisps with screaming faces" deep in the fen. He avoids the area now.|
-|**Petra**|Town Historian & Librarian|Meticulous, wears spectacles, obsessed with cataloging everything.|Has found old records hinting that a scholar who sought "ultimate truth" vanished in the fen centuries ago.|
-|**Thistle**|Hester's Daughter|A cheerful, no-nonsense young woman who helps run the inn.|Is one of the few townsfolk completely unaffected by the dreams. She has a natural psychic resistance she's unaware of.|
-|**Gideon**|Traveling Toymaker|Just arrived in town, sells beautiful wooden toys that move on their own.|**Secret:** A member of the Harpers. He's investigating the strange dreams, suspecting foul play or a magical threat.|
-|**Mallow**|Herb Farmer|Cheerful and simple, loves his plants more than people.|His prized "Moonpetal" flowers have begun to wilt and weep a black sap since the dreams started.|
-|**Captain Valen**|Leader of the Militia (3 people)|Takes his role very seriously despite the lack of threat. Polishes his helmet constantly.|His dreams are of failing to protect the town from an unseen enemy, fueling his paranoia.|
-|**Nyssa**|Local Artist|Sees the world in shades of grey and color. Often in a daze.|Paints her dreams. Her latest works are abstract and horrifying, but she finds them "inspiring."|
+| Name              | Role                             | Personality / Gimmick                                                                          |
+| ----------------- | -------------------------------- | ---------------------------------------------------------------------------------------------- |
+| **Elder Moira**   | Town Leader & Head Herbalist     | Ancient, wise, with hands stained green and brown. Speaks in proverbs.                         |
+| **Kaelen**        | Ambitious Alchemist              | Intense, restless, with dark circles under his eyes. Always jotting notes in a frantic script. |
+| **Bram**          | Head Groundskeeper & Guide       | Hulking and quiet, knows the safe paths through the marshes like the back of his hand.         |
+| **Liana**         | Head of the Weavers' Guild       | Young, vibrant, and artistic. Weaves beautiful tapestries depicting local myths.               |
+| **Corwyn**        | Retired Adventurer (Ranger)      | Grumpy, missing a leg, now carves intricate walking sticks. Has a badger familiar.             |
+| **Finn**          | The Dreamer (Young Boy)          | Pale, lethargic, and often zones out mid-conversation.                                         |
+| **Hester**        | Owner of The Restful Meadow      | Motherly, calm, and an excellent cook. Her inn is a sanctuary of peace.                        |
+| **Elara**         | Kaelen's Apprentice              | Eager to please, brilliant but naive. Looks up to Kaelen immensely.                            |
+| **Orvin**         | Local Hunter                     | Practical, superstitious, carries a rabbit's foot and charms against evil spirits.             |
+| **Petra**         | Town Historian & Librarian       | Meticulous, wears spectacles, obsessed with cataloging everything.                             |
+| **Thistle**       | Hester's Daughter                | A cheerful, no-nonsense young woman who helps run the inn.                                     |
+| **Gideon**        | Traveling Toymaker               | Just arrived in town, sells beautiful wooden toys that move on their own.                      |
+| **Mallow**        | Herb Farmer                      | Cheerful and simple, loves his plants more than people.                                        |
+| **Captain Valen** | Leader of the Militia (3 people) | Takes his role very seriously despite the lack of threat. Polishes his helmet constantly.      |
+| **Nyssa**         | Local Artist                     | Sees the world in shades of grey and color. Often in a daze.                                   |
 
 ---
 

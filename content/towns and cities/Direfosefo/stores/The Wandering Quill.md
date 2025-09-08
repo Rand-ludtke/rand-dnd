@@ -6,7 +6,7 @@ A cozy wooden stall filled with shelves of books, rolled-up maps, and neatly bou
 #### **NPCs:**
 
 - **Eldric Varnholm** (Male Human) – A soft-spoken but knowledgeable bookkeeper who has an eye for rare tomes. His ink-stained hands and thick glasses make him look older than he is.
-- **Marla Tenwick** (Female Half-Elf) – A skilled calligrapher and mapmaker who sells custom work and takes pride in her detailed maps.
+- **Marla Tenwick** (Female Half-Elf) – A skilled calligrapher and mapmaker who sells custom work and takes pride in her detailed maps.- friend of lu
 
 ---
 

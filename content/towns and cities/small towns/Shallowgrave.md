@@ -12,23 +12,23 @@
 
 #### **Notable NPCs**
 
-|Name|Role|Personality / Gimmick|Secret/Quirk|
-|---|---|---|---|
-|**Elder Moira**|Town Leader|Gentle, kind, and the guardian of the town's stories. Wants everyone to feel safe and respected.|Privately worries the town is too focused on the past to handle the future.|
-|**Kaelen**|The Historian (Recluse)|Intense, disheveled, and obsessed with the battlefield. Mumbles to himself about "unheard voices."|**Secret:** He is using experimental magic to try and communicate with the battlefield's echo, dangerously destabilizing the psychic residue.|
-|**Borin**|Owner of The Restful Watch|A stout, cheerful innkeeper who serves hearty food and mild ale. Loves a good, non-violent story.|His great-great-grandfather was a soldier who died in the battle. He feels a personal connection to the field.|
-|**Mara**|Head Farmer|Practical, no-nonsense, and grounded. Her family has worked the land for generations.|Her plow occasionally turns up old arrowheads and bits of rusted armor. She collects them in a jar.|
-|**Rook**|The Caretaker|An old, silent man who tends to the memorial stones and keeps the battlefield clear of overgrowth.|Has worked the field for 50 years. He's heard the whispers too, but considers them a natural part of the place.|
-|**Finn**|Young Local|Curious and a bit bored with the town's slow pace. Dreams of adventure.|Often dares his friends to spend a night on the battlefield. Claims he's seen "ghost lights."|
-|**Thorne**|Blacksmith|A quiet, thoughtful man who makes excellent tools and beautiful wrought-iron fences.|Forges the memorial plaques for the battlefield. Takes his work very seriously.|
-|**Elara**|Local Weaver|Weaves beautiful, somber tapestries depicting the legendary battle and the town's history.|Is running out of new ideas and fears the town's culture is becoming repetitive.|
-|**Gideon**|Retired Soldier|Lost an arm in a far-off war. Came to Shallowgrave for its peace.|Is the only one with real military experience. He finds the town's veneration of battle naive and slightly offensive.|
-|**Pike**|Traveling Merchant|Sells trinkets, ribbons, and other small goods. Comes through once a month.|Sells "authentic battle relics" that are just rusty junk he finds on the road.|
-|**Anya**|Moira's Granddaughter|Bright, optimistic, and wants to modernize the town.|Is trying to start a school to teach children about the wider world, not just local history.|
-|**Corwin**|The Bard|A traveling minstrel who knows the epic ballad of the Battle of Shallowgrave by heart.|Is bored of singing the same song. Wishes the town had a new story to tell.|
-|**Silas**|The Potter|Creates practical and beautiful clayware.|Uses the distinctive red clay from the battlefield's edge, giving his pots a unique color.|
-|**Liana**|The Florist|Grows flowers for the town and for decorations on the memorials.|Her flowers bloom brighter and larger near the battlefield, a phenomenon she can't explain.|
-|**Dovan**|The Mason|Carves and sets the stones for new buildings and repairs the old memorials.|His father and grandfather were also masons here. He feels like he's just adding to a finished picture.|
+| Name            | Role                       | Personality / Gimmick                                                                              |
+| --------------- | -------------------------- | -------------------------------------------------------------------------------------------------- |
+| **Elder Moira** | Town Leader                | Gentle, kind, and the guardian of the town's stories. Wants everyone to feel safe and respected.   |
+| **Kaelen**      | The Historian (Recluse)    | Intense, disheveled, and obsessed with the battlefield. Mumbles to himself about "unheard voices." |
+| **Borin**       | Owner of The Restful Watch | A stout, cheerful innkeeper who serves hearty food and mild ale. Loves a good, non-violent story.  |
+| **Mara**        | Head Farmer                | Practical, no-nonsense, and grounded. Her family has worked the land for generations.              |
+| **Rook**        | The Caretaker              | An old, silent man who tends to the memorial stones and keeps the battlefield clear of overgrowth. |
+| **Finn**        | Young Local                | Curious and a bit bored with the town's slow pace. Dreams of adventure.                            |
+| **Thorne**      | Blacksmith                 | A quiet, thoughtful man who makes excellent tools and beautiful wrought-iron fences.               |
+| **Elara**       | Local Weaver               | Weaves beautiful, somber tapestries depicting the legendary battle and the town's history.         |
+| **Gideon**      | Retired Soldier            | Lost an arm in a far-off war. Came to Shallowgrave for its peace.                                  |
+| **Pike**        | Traveling Merchant         | Sells trinkets, ribbons, and other small goods. Comes through once a month.                        |
+| **Anya**        | Moira's Granddaughter      | Bright, optimistic, and wants to modernize the town.                                               |
+| **Corwin**      | The Bard                   | A traveling minstrel who knows the epic ballad of the Battle of Shallowgrave by heart.             |
+| **Silas**       | The Potter                 | Creates practical and beautiful clayware.                                                          |
+| **Liana**       | The Florist                | Grows flowers for the town and for decorations on the memorials.                                   |
+| **Dovan**       | The Mason                  | Carves and sets the stones for new buildings and repairs the old memorials.                        |
 
 ---
 

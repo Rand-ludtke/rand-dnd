@@ -9,23 +9,23 @@
 
 #### **Notable NPCs**
 
-|Name|Role|Personality / Gimmick|Secret/Quirk|
-|---|---|---|---|
-|**Mayor Evans**|Town Leader|Jovial, round, and loves his town's products a bit too much.|Is willfully ignoring any negative theories. He fears a scandal more than he fears for Lyra.|
-|**Kaelen**|Owner of Goldenwheel Dairy|Usually a proud, boastful man. Now seems tense, distracted, and is rarely seen.|**Secret:** He is the cause of the disappearance. He's in over his head and panicking.|
-|**Borin**|Owner of The Happy Hop Inn|The heart of the community. A generous man who organizes the search parties.|Is genuinely worried about Lyra. His inn was her favorite place to perform.|
-|**Mara**|Head Cheese-Maker|A no-nonsense woman with a brilliant palate. Knows cheese better than anyone.|Has noticed a slight, recent change in the cheese's flavor profile that she can't identify. It worries her.|
-|**Rook**|Head Brewer at Dove's Light Brewery|Competes good-naturedly with Kaelen for town supremacy. Jovial and loud.|Thinks Kaelen is acting strangely and isn't pulling his weight in the search efforts.|
-|**Finn**|Lyra's Apprentice|A young, talented musician. Heartbroken and terrified.|He was with Lyra the day she disappeared. She muttered something about "the cheese not being right" before she left for her "source."|
-|**Thorne**|Local Farmer (Hops)|Supplies the brewery. A man of few words.|Claims he saw a unfamiliar, closed wagon leaving Kaelen's dairy late on the night Lyra vanished.|
-|**Elara**|Town Gossip|Knows everyone's business. Currently the source of most theories about Lyra.|Is convinced Lyra ran away with a wealthy noble from a nearby city, a theory she finds much more romantic than foul play.|
-|**Gideon**|Traveling Merchant|Sells spices and exotic goods. Comes through every few weeks.|Is Kaelen's supplier for the alchemical additive, disguised as a "rare salt." He's getting nervous.|
-|**Pike**|Kaelen's Foreman|A burly, loyal man who runs the day-to-day at the dairy.|Is following Kaelen's orders without question, even the strange ones about reinforcing the old cellars.|
-|**Anya**|Dairy Maid|Works at Goldenwheel. Cheerful but not very observant.|Mentioned that Kaelen has been taking his meals down to the "aging cellar" himself lately, which is unusual.|
-|**Corwin**|Town Guardsman (One of three)|Takes his job seriously. Has questioned everyone.|Found a single, broken lute string caught on a bramble near the back entrance to the dairy.|
-|**Silas**|Local Historian|Elderly and fond of Lyra, who often sang historical ballads.|Recalls that the dairy was built over the old town crypts. The original access was sealed generations ago.|
-|**Liana**|Owner of The Daily Wheel (Shop)|Sells the town's cheese and ale to visitors.|Sales have dipped since the disappearance. Visitors say the town "doesn't feel as happy."|
-|**Dovan**|A Cooper|Makes barrels for the brewery and dairy.|Was asked by Pike to make a special, lockable barrel "for a private batch." Thought nothing of it at the time.|
+| Name            | Role                                | Personality / Gimmick                                                           |
+| --------------- | ----------------------------------- | ------------------------------------------------------------------------------- |
+| **Mayor Evans** | Town Leader                         | Jovial, round, and loves his town's products a bit too much.                    |
+| **Kaelen**      | Owner of Goldenwheel Dairy          | Usually a proud, boastful man. Now seems tense, distracted, and is rarely seen. |
+| **Borin**       | Owner of The Happy Hop Inn          | The heart of the community. A generous man who organizes the search parties.    |
+| **Mara**        | Head Cheese-Maker                   | A no-nonsense woman with a brilliant palate. Knows cheese better than anyone.   |
+| **Rook**        | Head Brewer at Dove's Light Brewery | Competes good-naturedly with Kaelen for town supremacy. Jovial and loud.        |
+| **Finn**        | Lyra's Apprentice                   | A young, talented musician. Heartbroken and terrified.                          |
+| **Thorne**      | Local Farmer (Hops)                 | Supplies the brewery. A man of few words.                                       |
+| **Elara**       | Town Gossip                         | Knows everyone's business. Currently the source of most theories about Lyra.    |
+| **Gideon**      | Traveling Merchant                  | Sells spices and exotic goods. Comes through every few weeks.                   |
+| **Pike**        | Kaelen's Foreman                    | A burly, loyal man who runs the day-to-day at the dairy.                        |
+| **Anya**        | Dairy Maid                          | Works at Goldenwheel. Cheerful but not very observant.                          |
+| **Corwin**      | Town Guardsman (One of three)       | Takes his job seriously. Has questioned everyone.                               |
+| **Silas**       | Local Historian                     | Elderly and fond of Lyra, who often sang historical ballads.                    |
+| **Liana**       | Owner of The Daily Wheel (Shop)     | Sells the town's cheese and ale to visitors.                                    |
+| **Dovan**       | A Cooper                            | Makes barrels for the brewery and dairy.                                        |
 
 ---
 
