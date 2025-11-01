@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 **Guild Rank Quest** 
 **Location**: Stormshore Coast 
 **Difficulty**: Challenging  
