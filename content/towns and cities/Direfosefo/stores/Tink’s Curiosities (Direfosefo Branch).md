@@ -6,7 +6,7 @@
 
 ## **NPCs**
 
-1. **Tink (Illeria “Tink” Fenwick)** (Female Gnome)
+1. **Tink** (Female Gnome)
     - The eccentric owner, Tink is a gnome with wild silver hair and a passion for magical oddities. She is rarely in one place for long, often traveling between stores.
 2. **Garrik Ironthumb** (Male Dwarf)
     - The shop’s smith and enchanter, Garrik is responsible for crafting small enchanted items sold in the shop. He is gruff but deeply skilled.
